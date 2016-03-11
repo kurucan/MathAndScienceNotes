@@ -5,6 +5,7 @@
 
 * Inbox
 
++ http://www.feynmanlectures.caltech.edu/III_toc.html - The Feynman Lectures on Physics, Volume III
 + https://www.perforce.com/blog/110928/short-history-btree
 + https://news.ycombinator.com/item?id=10398057 - Warping Text to a Bézier curves
 + http://www.bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
@@ -23,7 +24,6 @@
 + http://jeremykun.com/2014/02/10/elliptic-curves-as-elementary-equations
 + http://engineering.foursquare.com/2014/01/03/the-mathematics-of-gamification
 + http://news.ycombinator.com/item?id=6820547 - Why are software development estimates regularly off by a factor of 2-3?
-+ http://www.feynmanlectures.caltech.edu/III_toc.html - The Feynman Lectures on Physics, Volume III
 + http://luisbg.blogalia.com/historias/74062 - Basic Data Structures and Algorithms in the Linux Kernel
 + http://thewe.net/math/conway.pdf - The Power of Mathematics
 + http://news.ycombinator.com/item?id=7285522 - Salted Password Hashing – Doing it Right
