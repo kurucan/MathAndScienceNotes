@@ -86,6 +86,10 @@
 * Data Structures
 + http://news.ycombinator.com/item?id=7079427 - What are the lesser known but useful data structures? (stackoverflow.com)
 
+* Search
+
++ https://news.ycombinator.com/item?id=10402177 
++ https://news.ycombinator.com/item?id=10403820
 
 * Mathematics
 + http://news.ycombinator.com/item?id=9927909
