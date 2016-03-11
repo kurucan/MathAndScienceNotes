@@ -1,5 +1,5 @@
 #+STARTUP: showall
-#+TITLE: CmpSc
+#+TITLE: Computer Science
 #+AUTHOR: http://h4labs.com
 #+EMAIL: melling@h4labs.com
 
