@@ -5,12 +5,11 @@
 
 * Inbox
 
-+ http://www.feynmanlectures.caltech.edu/III_toc.html - The Feynman Lectures on Physics, Volume III
 + https://www.perforce.com/blog/110928/short-history-btree
 + https://news.ycombinator.com/item?id=10398057 - Warping Text to a Bézier curves
 + http://www.bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
-+ http://news.ycombinator.com/item?id=10246348
-+ https://news.ycombinator.com/item?id=10171469
++ http://news.ycombinator.com/item?id=10246348 - How to Determine If Four Points Make a Square 
++ https://news.ycombinator.com/item?id=10171469 - CS Unplugged
 + http://news.ycombinator.com/item?id=10129914 - Pixar in a Box
 + http://news.ycombinator.com/item?id=9940126 - Spreadsheets
 + [[http://news.ycombinator.com/item?id=9850914][Rubik's Cube Solution]]
@@ -49,7 +48,7 @@
 + http://news.ycombinator.com/item?id=8943356 - A practical introduction to functional programming 
 + http://news.ycombinator.com/item?id=8943142 - Papers We Love
 + http://news.ycombinator.com/item?id=8918259 - Eigenvectors and eigenvalues explained visually
-+ http://news.ycombinator.com/item?id=8912219
++ http://news.ycombinator.com/item?id=8912219 - Extracting text from an image using Ocropus
 + http://news.ycombinator.com/item?id=8898299 - Rules for Developing Safety Critical Code [pdf] 
 + http://news.ycombinator.com/item?id=7082939 - How Radians Work in 30 Seconds (googleusercontent.com)
 + http://williamedwardscoder.tumblr.com/post/87682811573/compressing-scrabble-dictionaries
