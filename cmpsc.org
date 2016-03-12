@@ -63,6 +63,8 @@
 + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + http://raymii.org/s/articles/Solve_word_puzzles_with_bash.html
 
+* Data Science
++ http://cm.dce.harvard.edu/2016/01/14328/L01/mobile_Mp4TalkingHeadSlideVideo-1.shtml?part=1
 
 * Software Development
 + http://www.knowstack.com/design-pattern-an-introduction
