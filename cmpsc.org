@@ -4,7 +4,7 @@
 #+EMAIL: melling@h4labs.com
 
 * Inbox
-
++ https://github.com/open-source-society/computer-science - Path to a free self-taught education in Computer Science
 + https://www.perforce.com/blog/110928/short-history-btree
 + https://news.ycombinator.com/item?id=10398057 - Warping Text to a Bézier curves
 + http://www.bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
