@@ -1,0 +1,7 @@
+#+STARTUP: showall
+#+TITLE: Electronics
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+
+* Inbox
++ https://www.stavros.io/posts/building-cheap-home-sensorcontroller
