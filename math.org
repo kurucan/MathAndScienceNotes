@@ -25,6 +25,7 @@
 
 * Markov Chains
 + [[http://setosa.io/ev/markov-chains/][Markov Chains Explained Visually]]
+ - https://news.ycombinator.com/item?id=11323122
 
 * Statistics
 + http://r-statistics.co/Statistical-Tests-in-R.html
