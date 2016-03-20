@@ -24,6 +24,8 @@
 + http://blog.rokkincat.com/machine-learning-bayes
 + http://allendowney.blogspot.com/2016/03/ive-been-busy-with-other-projects-so-i.html
 
+* Markov Chains
++ [[http://setosa.io/ev/markov-chains/][Markov Chains Explained Visually]]
 
 * Statistics
 + http://r-statistics.co/Statistical-Tests-in-R.html
