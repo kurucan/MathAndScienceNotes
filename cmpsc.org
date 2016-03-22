@@ -8,6 +8,8 @@
 
 * Inbox
 + https://www.perforce.com/blog/110928/short-history-btree
++ [[http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html][Some Starting Points for Deep Learning and RNNs]]
+ - https://news.ycombinator.com/item?id=11337741
 + https://news.ycombinator.com/item?id=10398057 - Warping Text to a Bézier curves
 + http://www.bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
 + http://news.ycombinator.com/item?id=10246348 - How to Determine If Four Points Make a Square 
