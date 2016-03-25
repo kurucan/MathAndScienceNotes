@@ -87,6 +87,8 @@
 + Bloom filters - fast way to test for set membership with less memory
 + https://news.ycombinator.com/item?id=10294982
 + https://medium.com/@nickgerleman/the-bkd-tree-da19cf9493fb
++ https://www.programmingalgorithms.com/algorithm/day-of-week
+ - https://news.ycombinator.com/item?id=11358999
 
 * Data Structures
 + http://news.ycombinator.com/item?id=7079427 - What are the lesser known but useful data structures? (stackoverflow.com)
