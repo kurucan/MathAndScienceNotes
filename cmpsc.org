@@ -33,10 +33,7 @@
 + http://www.mazeworks.com/mazegen/mazetut/index.htm
  - http://news.ycombinator.com/item?id=7458848 - How To Build A Maze (mazeworks.com)
 + http://news.ycombinator.com/item?id=7746822 - Maze Tree (ocks.org)
-+ http://simblob.blogspot.com/2015/02/optimizing-for-grid-maps.html
- - http://news.ycombinator.com/item?id=9086791
 + http://news.ycombinator.com/item?id=8790680
-+ http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
 + http://java.dzone.com/articles/idiots-guide-big-o
 + http://github.com/prakhar1989/awesome-courses/blob/master/README.md
  - http://news.ycombinator.com/item?id=8806910
@@ -45,7 +42,7 @@
 + [[http://news.ycombinator.com/item?id=8813484][Deep Learning Reading List]]
 + http://www.youtube.com/watch?v=CTSNBaOkjOQ
 + http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html
-+ http://raw.githubusercontent.com/papers-we-love/papers-we-love/master/design/out-of-the-tar-pit.pdf
++ [[http://raw.githubusercontent.com/papers-we-love/papers-we-love/master/design/out-of-the-tar-pit.pdf][Out of the Tarpit]]
 + http://news.ycombinator.com/item?id=8835085 - The Game AI Programmer's Bookshelf
 + http://news.ycombinator.com/item?id=8825728 - Ask HN: What are some nice electronics courses that blend theory and practice?
 + http://news.ycombinator.com/item?id=8825750 - The “What Are Monads?” Fallacy (two-wrongs.com)
@@ -65,6 +62,12 @@
 + http://www.thomsett.com.au/library/item/estimation-games
 + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + http://raymii.org/s/articles/Solve_word_puzzles_with_bash.html
+
+* Maze Generation and Grids
++ http://www.gridsagegames.com/blog/2016/03/generating-populating-caves/
++ http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
++ http://simblob.blogspot.com/2015/02/optimizing-for-grid-maps.html
+ - http://news.ycombinator.com/item?id=9086791
 
 * Data Science
 + [[http://cs109.org][Harvard CS109 Data Science]]
