@@ -1,1 +1,1 @@
-Menu: [[file:cmpsc.org][Computer Science]] | [[file:electronics.org][Electronics]] | [[file:math.org][Mathematics]] | [[file:quant_trading.org][Quant Trading]] | [[file:physics.org][Physic]] |
+Menu: [[file:cmpsc.org][Computer Science]] | [[file:electronics.org][Electronics]] | [[file:math.org][Mathematics]] | [[file:quant_trading.org][Quant Trading]] | [[file:physics.org][Physics]] |
