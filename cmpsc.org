@@ -146,6 +146,7 @@
 + http://bugra.github.io/work/notes/2014-08-23/on-machine-learning/
 + [[https://news.ycombinator.com/item?id=10782909][Machine Learning - HN]]
 + [[http://www.deeplearningbook.org][Deep Learning]] - Ian Goodfellow, Yoshua Bengio and Aaron Courville
+ - https://news.ycombinator.com/item?id=11446164
 
 * Libraries 
 + [[https://news.ycombinator.com/item?id=9775753][Open Source OCR]]
