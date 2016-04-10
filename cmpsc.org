@@ -69,8 +69,7 @@
  - https://news.ycombinator.com/item?id=3491142
  - https://news.ycombinator.com/item?id=3141996
 + https://mitpress.mit.edu/sicp/
-+ [[http://sarabander.github.io/sicp/html/index.xhtml][Structure and Interpretation
-of Computer Programs]]
++ [[http://sarabander.github.io/sicp/html/index.xhtml][Structure and Interpretation of Computer Programs]]
 + [[http://www.cs61as.org][CS 61AS - Spring 2016]]
 
 * Data Science
