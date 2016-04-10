@@ -63,11 +63,9 @@
 + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + http://raymii.org/s/articles/Solve_word_puzzles_with_bash.html
 
-* Maze Generation and Grids
-+ http://www.gridsagegames.com/blog/2016/03/generating-populating-caves/
-+ http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
-+ http://simblob.blogspot.com/2015/02/optimizing-for-grid-maps.html
- - http://news.ycombinator.com/item?id=9086791
+* SICP
++ [[http://composingprograms.com/][SICP in Python 3 from Berkeley]]
+ - https://news.ycombinator.com/item?id=11465234
 
 * Data Science
 + [[http://cs109.org][Harvard CS109 Data Science]]
@@ -136,6 +134,13 @@
 + http://www.gamedev.net/page/resources/_/technical/game-programming/doom3-is-the-proof-that-keep-it-simple-works-r4009
  - http://news.ycombinator.com/item?id=9302637
 + https://news.ycombinator.com/item?id=10171792
+
+* Maze Generation and Grids
++ http://www.gridsagegames.com/blog/2016/03/generating-populating-caves/
++ http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
++ http://simblob.blogspot.com/2015/02/optimizing-for-grid-maps.html
+ - http://news.ycombinator.com/item?id=9086791
+
 
 ** Doom
 + https://news.ycombinator.com/item?id=10787747
