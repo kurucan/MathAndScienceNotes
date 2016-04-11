@@ -4,7 +4,8 @@
 #+EMAIL: melling@h4labs.com
 
 * Inbox
-
++ [[http://tutorial.math.lamar.edu][Paul's Online Math Notes]]
+ - https://news.ycombinator.com/item?id=11469494
 + https://www.reddit.com/r/gamedev/comments/4525xs/understanding_2d_transformations_maths_for_gamedev/
 + https://gist.github.com/bishboria/8326b17bbd652f34566a - Graduate texts in mathematics
 + [[http://news.ycombinator.com/item?id=10056789][Ask HN: A Good Book About Statistics?]]
