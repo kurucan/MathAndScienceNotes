@@ -34,3 +34,5 @@
 * Statistics
 + http://r-statistics.co/Statistical-Tests-in-R.html
  - https://news.ycombinator.com/item?id=10821045
++ http://www.stat.cmu.edu/~larry/all-of-statistics/index.html
+ - https://news.ycombinator.com/item?id=11701020
