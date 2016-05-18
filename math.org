@@ -26,6 +26,7 @@
 + http://blog.rokkincat.com/machine-learning-bayes
 + http://allendowney.blogspot.com/2016/03/ive-been-busy-with-other-projects-so-i.html
 + https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics
++ http://allendowney.blogspot.com/2016/05/learning-to-love-bayesian-statistics.html
 
 * Markov Chains
 + [[http://setosa.io/ev/markov-chains/][Markov Chains Explained Visually]]
