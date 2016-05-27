@@ -100,6 +100,8 @@
  https://news.ycombinator.com/item?id=11364718
 + https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
  - https://news.ycombinator.com/item?id=11636002
++ [[http://www.sorting-algorithms.com][Sorting Algorithm Animations]]
+ - https://news.ycombinator.com/item?id=11783526
 
 * Data Structures
 + http://news.ycombinator.com/item?id=7079427 - What are the lesser known but useful data structures? (stackoverflow.com)
