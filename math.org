@@ -9,9 +9,6 @@
 + https://www.reddit.com/r/gamedev/comments/4525xs/understanding_2d_transformations_maths_for_gamedev/
 + https://gist.github.com/bishboria/8326b17bbd652f34566a - Graduate texts in mathematics
 + [[http://news.ycombinator.com/item?id=10056789][Ask HN: A Good Book About Statistics?]]
-+ http://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are
-+ [[http://news.ycombinator.com/item?id=10139554][Linear Algebra: What Matrices are]] 
-+ [[http://news.ycombinator.com/item?id=10183725][Interactive Linear Algebra]]
 + http://news.ycombinator.com/item?id=10208861 The Math I Learned After I Thought Had Already Learned Math
 + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + http://www.math.uah.edu/stat
@@ -20,6 +17,13 @@
 
 * Books
 + [[https://news.ycombinator.com/item?id=10873471][Advanced Algebra Textbooks - HN]]
+
+* Linear Algebra
++ http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work
+ - https://news.ycombinator.com/item?id=11820512
++ http://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are
++ [[http://news.ycombinator.com/item?id=10139554][Linear Algebra: What Matrices are]] 
++ [[http://news.ycombinator.com/item?id=10183725][Interactive Linear Algebra]]
 
 * Bayes
 + http://news.ycombinator.com/item?id=10529681
