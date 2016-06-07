@@ -18,6 +18,7 @@
 * Books
 + [[https://news.ycombinator.com/item?id=10873471][Advanced Algebra Textbooks - HN]]
 + [[http://web.mit.edu/15.053/www/][Applied Mathematical Programming]]
+ - https://news.ycombinator.com/item?id=11848663
 
 * Linear Algebra
 + http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work
