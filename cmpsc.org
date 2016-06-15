@@ -102,6 +102,8 @@
  - https://news.ycombinator.com/item?id=11636002
 + [[http://www.sorting-algorithms.com][Sorting Algorithm Animations]]
  - https://news.ycombinator.com/item?id=11783526
++ https://lettier.github.io/posts/2016-06-10-k-nearest-neighbors-from-scratch.html
+ - https://news.ycombinator.com/item?id=11906759
 
 * Data Structures
 + http://news.ycombinator.com/item?id=7079427 - What are the lesser known but useful data structures? (stackoverflow.com)
