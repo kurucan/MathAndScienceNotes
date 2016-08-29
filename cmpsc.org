@@ -8,6 +8,7 @@
 
 * Inbox
 + [[https://www.perforce.com/blog/110928/short-history-btree][A Short History of the BTree]]
++ [[https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/][The MIT Challenge]]
 + [[http://cloudmark.github.io/Language-Detection/][Language Detection using N-Grams]]
 + [[http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html][Some Starting Points for Deep Learning and RNNs]]
  - https://news.ycombinator.com/item?id=11337741
