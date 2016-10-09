@@ -90,6 +90,7 @@
 + http://schani.wordpress.com/2010/04/30/linear-vs-binary-search
 + http://news.ycombinator.com/item?id=9660185 - OpenCV
 + http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf
++ https://news.ycombinator.com/item?id=12669054
 + http://bigocheatsheet.com
 + https://news.ycombinator.com/item?id=9951329
 + Bloom filters - fast way to test for set membership with less memory
