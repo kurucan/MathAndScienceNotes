@@ -77,6 +77,11 @@
 + [[http://cs109.org][Harvard CS109 Data Science]]
  - [[http://cm.dce.harvard.edu/2016/01/14328/L01/mobile_Mp4TalkingHeadSlideVideo-1.shtml?part=1][First Video]]
 
+* NLP
++ [[https://blog.ycombinator.com/how-to-get-into-natural-language-processing/][How To Get Into Natural Language Processing]]
+ - https://news.ycombinator.com/item?id=13445255
++ [[https://m.youtube.com/playlist?list=PL6397E4B26D00A269][Dan Jurafsky & Chris Manning: Natural Language Processing]]
+
 * Software Development
 + http://www.knowstack.com/design-pattern-an-introduction
 + http://www.playwithlua.com/?p=68
