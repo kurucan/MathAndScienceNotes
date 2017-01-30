@@ -88,6 +88,10 @@
 + http://www.vnev.me/implementing-a-programming-language-in-c-part-2 
   - https://news.ycombinator.com/item?id=9688258
 
+* Text Editors
++ [[https://www.finseth.com/craft/][The Craft of Text Editing]]
+ - https://news.ycombinator.com/item?id=13518170
+ 
 * Algorithms
 + http://visualgo.net
 + http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
