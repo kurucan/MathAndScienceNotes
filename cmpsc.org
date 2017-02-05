@@ -115,6 +115,7 @@
  - https://news.ycombinator.com/item?id=11783526
 + https://lettier.github.io/posts/2016-06-10-k-nearest-neighbors-from-scratch.html
  - https://news.ycombinator.com/item?id=11906759
++ [[http://www.youtube.com/playlist?list=PL_w_qWAQZtAZ2n35UD2FHgvbXj4pqPQq5][UC Davis Course]]
 
 * Data Structures
 + http://news.ycombinator.com/item?id=7079427 - What are the lesser known but useful data structures? (stackoverflow.com)
