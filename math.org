@@ -25,6 +25,7 @@
 * Linear Algebra
 + [[https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab][The Essence of Linear Algebra]]
  - https://news.ycombinator.com/item?id=13051241
+ - https://news.ycombinator.com/item?id=13620871
 + http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work
  - https://news.ycombinator.com/item?id=11820512
 + http://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are
