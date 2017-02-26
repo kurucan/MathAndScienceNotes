@@ -50,6 +50,8 @@
  - https://news.ycombinator.com/item?id=10821045
 + http://www.stat.cmu.edu/~larry/all-of-statistics/index.html
  - https://news.ycombinator.com/item?id=11701020
++ http://students.brown.edu/seeing-theory/?vt=4
+ - https://news.ycombinator.com/item?id=13735714
 
 * Calculus
 + [[https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318][Big Picture of Calculus]]
