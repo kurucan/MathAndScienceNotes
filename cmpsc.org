@@ -7,6 +7,8 @@
 + https://github.com/open-source-society/computer-science - Path to a free self-taught education in Computer Science
 
 * Inbox
++ [[https://courses.csail.mit.edu/6.042/spring17/mcs.pdf][Mathematics for Computer Science [pdf]]]
+   - https://news.ycombinator.com/item?id=13800320
 + [[https://www.perforce.com/blog/110928/short-history-btree][A Short History of the BTree]]
 + [[https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/][The MIT Challenge]]
 + [[http://cloudmark.github.io/Language-Detection/][Language Detection using N-Grams]]
