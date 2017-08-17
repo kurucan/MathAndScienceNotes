@@ -33,6 +33,8 @@
 + [[http://news.ycombinator.com/item?id=10183725][Interactive Linear Algebra]]
 
 * Bayes
++ [[https://osf.io/preprints/psyarxiv/ph6sw][How to become a Bayesian in eight easy steps]] 
+ - https://news.ycombinator.com/item?id=15031110
 + http://news.ycombinator.com/item?id=10529681
 + http://blog.rokkincat.com/machine-learning-bayes
 + http://allendowney.blogspot.com/2016/03/ive-been-busy-with-other-projects-so-i.html
