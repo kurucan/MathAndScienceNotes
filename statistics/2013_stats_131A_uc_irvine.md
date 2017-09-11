@@ -1,12 +1,12 @@
 # UC Irvine Statistics 131A - Michael C. Cranston Summer 2013
 
 ## Lecture 1
--  [Video](https://youtu.be/GyN4FotAEt8)
-- Sample Spaces @ 12:20
-- Events @ 26:43
- - Example: Three Heads when Tossing a Coin 6 Times @  28:00
-- Example: Straight Flush @ 32:00
-- Example: k Successes Observed @ 38:00m
+[Video](https://youtu.be/GyN4FotAEt8)
+- Sample Spaces @ [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s)
+- Events @ [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s)
+ - Example: Three Heads when Tossing a Coin 6 Times @  [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s)
+- Example: Straight Flush @ [32:00](https://youtu.be/GyN4FotAEt8?t=32m00s)
+- Example: k Successes Observed @ [38:00](https://youtu.be/GyN4FotAEt8?t=38m00s)
 - Union/Intersection/A-B/ of Two Events: 41
 - A complement @ 43
 - Symmetric Difference of A and B @ 45:12
