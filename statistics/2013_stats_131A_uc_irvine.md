@@ -31,26 +31,26 @@
 ## Lecture 2
 [Video](https://youtu.be/zboOPK98aGk)
 - Maximum Likelihood Estimator
-- f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator @ 1:50
-- Multinomial Theorem Discussion @ 12:00
-- Multi-nomial coefficient @ 16:18
-- Multinomial Thereom Def @ 17:45
-- Poker Example: 6 people, 5 cards each - 19:30
-- Number possible Bridge hands 22:20 
-- Misc Examples - 23:30
-- conditional probability and independence 25:00
+- f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator @ [1:50](https://youtu.be/zboOPK98aGk?t=1m50s)
+- Multinomial Theorem Discussion @ [12:00](https://youtu.be/zboOPK98aGk?t=12m)
+- Multi-nomial coefficient @ [16:18](https://youtu.be/zboOPK98aGk?t=16m18s)
+- Multinomial Thereom Def @ [17:45](https://youtu.be/zboOPK98aGk?t=17m45s)
+- Poker Example: 6 people, 5 cards each @ [19:30](https://youtu.be/zboOPK98aGk?t=19m30s)
+- Number possible Bridge hands @ [22:20](https://youtu.be/zboOPK98aGk?t=22m20s)
+- Misc Examples @ [23:30](https://youtu.be/zboOPK98aGk?t=23m30s)
+- conditional probability and independence @ [25:00](https://youtu.be/zboOPK98aGk?t=25m)
 - P(A|B)=P(A intersect B)/P(B) - 
-- Example: Roll fair dice... P(roll six|dice is even) 26:30
-- Law of Total Probability- 30:30 
-- Example: Urn Problem with Gumballs - 34:20
-- Bayes Rule - 51:50
-- Independence - 58:00
+- Example: Roll fair dice... P(roll six|dice is even) @ [26:30](https://youtu.be/zboOPK98aGk?t=26m30s)
+- Law of Total Probability @ [30:30](https://youtu.be/zboOPK98aGk?t=30m30s)
+- Example: Urn Problem with Gumballs @ [34:20](https://youtu.be/zboOPK98aGk?t=34m20s)
+- Bayes Rule @ [51:50](https://youtu.be/zboOPK98aGk?t=51m50s)
+- Independence @ [58:00](https://youtu.be/zboOPK98aGk?t=58m)
 - P(A intersect B) = P(A)*P(B)
-- Given independence, P(A|B) = P(A) - 58:45
+- Given independence, P(A|B) = P(A) @ [58:45](https://youtu.be/zboOPK98aGk?t=58m45s)
 - First toss of coin does not affect second toss - no memory 
-- Example: Toss Two Coins - 1:00:45
+- Example: Toss Two Coins @ [1:00:45](https://youtu.be/zboOPK98aGk?t=1h0m45s)
 - Consecutive rolls of dice are independent
-- Example: Dart Thrown Repeatedly, probability get at least one bullseye - 1:05:55
+- Example: Dart Thrown Repeatedly, probability get at least one bullseye @ [1:05:55](https://youtu.be/zboOPK98aGk?t=1h5m55s)
 - Use complement to get answer: Probability no bullseye 
 - 
 ## Lecture 3: Random Variables 
