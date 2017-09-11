@@ -7,25 +7,25 @@
  - Example: Three Heads when Tossing a Coin 6 Times @  [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s)
 - Example: Straight Flush @ [32:00](https://youtu.be/GyN4FotAEt8?t=32m00s)
 - Example: k Successes Observed @ [38:00](https://youtu.be/GyN4FotAEt8?t=38m00s)
-- Union/Intersection/A-B/ of Two Events: 41
-- A complement @ 43
-- Symmetric Difference of A and B @ 45:12
-- Assigning Probability to Events @ 47:10
-- Mutually Disjoint @ 49:45
-- Empty Set is an event with Probability of zero - 51:54
-- P(A Complement) = 1 - P(A) 53:58
-- P(A) <= P(B), A subset B @ 56:30
- - Counting @  1:02:00
-- P(A) = #A/#Omega Definition of Prob? @ 1:05:29 
-- Derive above - All n disjoint events have same probability @ 1:08:45
-- Multiplication Principle: m x n ways @ 1:14:25
-- Example: Select 3 people without replacement, ordered 1:17:45
-- Example: Select people with replacement, and ordering 1:20:25 
-- Example: Committee of size 5 - consider over counting - Permutations @ 1:21:32
-- Permutations - n! 1:24:00
-- Example: Select r objects from set of n without replacement Derived n! / (n-r)!r! @ 1:27:00
-- Find P(full house) - 1:31:35
-- Find P(flush) - all cards of same suit @ 1:40:07
+- Union/Intersection/A-B/ of Two Events @ [41](https://youtu.be/GyN4FotAEt8?t=41m00s)
+- A complement @ [43](https://youtu.be/GyN4FotAEt8?t=43m00s)
+- Symmetric Difference of A and B @ [45:12](https://youtu.be/GyN4FotAEt8?t=45m12s)
+- Assigning Probability to Events @ [47:10](https://youtu.be/GyN4FotAEt8?t=47m10s)
+- Mutually Disjoint @ [49:45](https://youtu.be/GyN4FotAEt8?t=49m45s)
+- Empty Set is an event with Probability of zero @ [51:54](https://youtu.be/GyN4FotAEt8?t=51m54s)
+- P(A Complement) = 1 - P(A) @ [53:58](https://youtu.be/GyN4FotAEt8?t=53m58s)
+- P(A) <= P(B), A subset B @ [56:30](https://youtu.be/GyN4FotAEt8?t=56m30s)
+ - Counting @ [1:02:00](https://youtu.be/GyN4FotAEt8?t=1h2m)
+- P(A) = #A/#Omega Definition of Prob? @ [1:05:29](https://youtu.be/GyN4FotAEt8?t=1h5m29s)
+- Derive above - All n disjoint events have same probability @ [1:08:45](https://youtu.be/GyN4FotAEt8?t=1h8m45s)
+- Multiplication Principle: m x n ways @ [1:14:25](https://youtu.be/GyN4FotAEt8?t=1h14m25s)
+- Example: Select 3 people without replacement, ordered @ [1:17:45](https://youtu.be/GyN4FotAEt8?t=1h17m45s)
+- Example: Select people with replacement, and ordering @ [1:20:25](https://youtu.be/GyN4FotAEt8?t=1h20m25s)
+- Example: Committee of size 5 - consider over counting - Permutations @ [1:21:32](https://youtu.be/GyN4FotAEt8?t=1h21m32s)
+- Permutations - n! @ [1:24:00](https://youtu.be/GyN4FotAEt8?t=1h24m)
+- Example: Select r objects from set of n without replacement Derived n! / (n-r)!r! @ [1:27:00](https://youtu.be/GyN4FotAEt8?t=1h27m)
+- Find P(full house) @ [1:31:35](https://youtu.be/GyN4FotAEt8?t=1h31m35s)
+- Find P(flush) - all cards of same suit @ [1:40:07](https://youtu.be/GyN4FotAEt8?t=1h40m7s)
 - 
 
 ## Lecture 2
