@@ -56,40 +56,40 @@
 ## Lecture 3: Random Variables 
 [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
-- Random Variables r.v.s.- Assign values to outcomes - 8:08
+- Random Variables r.v.s.- Assign values to outcomes @ [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s)
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
-- Example: 10:45
-- RV is a function on a sample space with real values - 14:05
-- F(x)=P(X<=x) 16:00
-- 0<= F(x) <= 1 - Another way of saying probabilities between 0 and 1 - 16:40
-- F(x) - P(X<=x) <= P(Y<=y) = F(y) - 18:10
+- Example: @ [10:45](https://youtu.be/Pj5n3FLE0wM?t=10m45s)
+- RV is a function on a sample space with real values @ [14:05](https://youtu.be/Pj5n3FLE0wM?t=14m05s)
+- F(x)=P(X<=x) @ [16:00](https://youtu.be/Pj5n3FLE0wM?t=16m)
+- 0<= F(x) <= 1 - Another way of saying probabilities between 0 and 1 @ [16:40](https://youtu.be/Pj5n3FLE0wM?t=16m40s)
+- F(x) - P(X<=x) <= P(Y<=y) = F(y) @ [18:10](https://youtu.be/Pj5n3FLE0wM?t=18m10s)
 - F is a non-decreasing function (increasing, but not strictly)
-- F is right continuous- 21:00
-- Distribution Function - 21:45
+- F is right continuous @ [21:00](https://youtu.be/Pj5n3FLE0wM?t=21m)
+- Distribution Function @ [21:45](https://youtu.be/Pj5n3FLE0wM?t=21m45s)
 - (e.g. Normal, Uniform,Poisson)
-- Two major classes of rvs -22:45
+- Two major classes of rvs @ [22:45](https://youtu.be/Pj5n3FLE0wM?t=22m45s)
 - Discrete - distribution function has jumps interrupted by flat spots
-- Continuous - distribution function is continuous - 25:05
-- Examples of Discrete r.v 26:15
+- Continuous - distribution function is continuous @ [25:05](https://youtu.be/Pj5n3FLE0wM?t=25m05s)
+- Examples of Discrete r.v @ [26:15](https://youtu.be/Pj5n3FLE0wM?t=26m15s)
 - Cumulative distribution function - CDF
-- Bernoulli Distribution/RV - 27:45
+- Bernoulli Distribution/RV @ [27:45](https://youtu.be/Pj5n3FLE0wM?t=27m45s)
 - P(X=0) = 1-p
 - P(X=1) = p
-- Binomial R.V. 31:35
+- Binomial R.V. @ [31:35](https://youtu.be/Pj5n3FLE0wM?t=31m35s)
 - n independent Bernoulli trials are performed 
 - X is # successes in n trials
 - X will be number b/w 0 and n
-- PMF - probability mass function - 38:00
+- PMF - probability mass function @ [38:00](https://youtu.be/Pj5n3FLE0wM?t=38m)
 - PMF to Distribution function - summation 
-- Jump size is equal to PMF at a given integer - 42:00
-- Example : Geometric Random Variable - 42:30
+- Jump size is equal to PMF at a given integer @ [42:00](https://youtu.be/Pj5n3FLE0wM?t=42m)
+- Example : Geometric Random Variable @ [42:30](https://youtu.be/Pj5n3FLE0wM?t=42m30s)
 - Perform independent Bernoulli trials until a success occurs
 - eg. Toss a coin until heads/roll a die until 3
-- P(X=k) = (1-p)^k-1 * p - 46:10
-- Negative Binomial - 50:00
+- P(X=k) = (1-p)^k-1 * p @ [46:10](https://youtu.be/Pj5n3FLE0wM?t=46m10s)
+- Negative Binomial @ [50:00](https://youtu.be/Pj5n3FLE0wM?t=50m)
 - Perform Bernoulli trials until r successes occur 
 - PMF: 
-- CMF: 54:15?
+- CMF: [54:15](https://youtu.be/Pj5n3FLE0wM?t=54m15s)?
 
 ## Lecture 4: Joint Distribution
 
