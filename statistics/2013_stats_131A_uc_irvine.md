@@ -1,7 +1,9 @@
 # UC Irvine Statistics 131A - Michael C. Cranston Summer 2013
 
-## Lecture 1
-[Video](https://youtu.be/GyN4FotAEt8)
+
+[UC Irvine:  Introduction to Probability and Statistics](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
+
+## Lecture 1 - [Video](https://youtu.be/GyN4FotAEt8)
 - Sample Spaces @ [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s)
 - Events @ [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s)
  - Example: Three Heads when Tossing a Coin 6 Times @  [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s)
@@ -28,8 +30,7 @@
 - Find P(flush) - all cards of same suit @ [1:40:07](https://youtu.be/GyN4FotAEt8?t=1h40m7s)
 - 
 
-## Lecture 2
-[Video](https://youtu.be/zboOPK98aGk)
+## Lecture 2 - [Video](https://youtu.be/zboOPK98aGk)
 - Maximum Likelihood Estimator
 - f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator @ [1:50](https://youtu.be/zboOPK98aGk?t=1m50s)
 - Multinomial Theorem Discussion @ [12:00](https://youtu.be/zboOPK98aGk?t=12m)
@@ -53,8 +54,7 @@
 - Example: Dart Thrown Repeatedly, probability get at least one bullseye @ [1:05:55](https://youtu.be/zboOPK98aGk?t=1h5m55s)
 - Use complement to get answer: Probability no bullseye 
 - 
-## Lecture 3: Random Variables 
-[Video](https://youtu.be/Pj5n3FLE0wM)
+## Lecture 3: Random Variables  - [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
 - Random Variables r.v.s.- Assign values to outcomes @ [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s)
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
@@ -89,10 +89,33 @@
 - Negative Binomial @ [50:00](https://youtu.be/Pj5n3FLE0wM?t=50m)
 - Perform Bernoulli trials until r successes occur 
 - PMF: 
-- CMF: [54:15](https://youtu.be/Pj5n3FLE0wM?t=54m15s)?
+- CMF: @[54:15](https://youtu.be/Pj5n3FLE0wM?t=54m15s)?
+- Poisson Distribution/RV @ [55:54](https://youtu.be/Pj5n3FLE0wM?t=55m54s)
+- parameter lambda
+- Used in counting where there are a large number of events, each with a small probability 
+- Relationship of Poisson to Binomial @ [1:00:08](https://youtu.be/Pj5n3FLE0wM?t=1h0m8s)
+- Used L’Hospital’s Rule @ [1:04:35](https://youtu.be/Pj5n3FLE0wM?t=1h04m35s)
+- General Solution @ [1:15:45](https://youtu.be/Pj5n3FLE0wM?t=1h15m45s)
+- Large trials with a small probability of success- Bernoulli RV is almost like a Poisson RV
+- Continuous random variables @ [1:18:55](https://youtu.be/Pj5n3FLE0wM?t=1h18m55s)
+- Law of Rare Events mentioned
+- If F has a derivative f, then  (mostly true) little f is called density of capital F or of X. @[1:20:25](https://youtu.be/Pj5n3FLE0wM?t=1h20m25s)
+- aka Probably Density Function 
+- Example: The uniform on [0,1] r.v. U([0,1]) has density... @[1:22:01](https://youtu.be/Pj5n3FLE0wM?t=1h22m1s)
+- P(a<X<=b) = P(X<=b) - P(X<=a)  @[1:26:10](https://youtu.be/Pj5n3FLE0wM?t=1h26m10s) 
+- Integrate from a to b
+- Normal Random Variable @ [1:29:55](https://youtu.be/Pj5n3FLE0wM?t=1h29m55s)
+- Example: X~N( u,sigma^2) @ [1:30:28](https://youtu.be/Pj5n3FLE0wM?t=1h30m28s)
+- normal, mean u, variance sigma^2
+- density is given by ... @[1:31:38](https://youtu.be/Pj5n3FLE0wM?t=1h31m38s)
+- if X~N(0,1) then ... @[1:32:15](https://youtu.be/Pj5n3FLE0wM?t=1h32m15s)
+- P(-infinity,X , infinity) @ [1:32:55](https://youtu.be/Pj5n3FLE0wM?t=1h32m55s)
+- Integral should be 1
+- Can’t integrate - squaring...
+- Switch to polar coordinates @ [1:37:40](https://youtu.be/Pj5n3FLE0wM?t=1h37m40s)
+- If X is Bin(n,1/2) - like tossing coin and counting heads @[1:40:08](https://youtu.be/Pj5n3FLE0wM?t=1h40m08s)
+- When n is large, it is essentially a Normal Random Variable - Central Limit Theorem 
 
-## Lecture 4: Joint Distribution
-
-https://youtu.be/BV7xnuJNkSQ
+## Lecture 4: Joint Distribution - [Video](https://youtu.be/BV7xnuJNkSQ)
 
 
