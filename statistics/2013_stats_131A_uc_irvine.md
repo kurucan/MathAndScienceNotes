@@ -125,11 +125,12 @@
 - Distribution function [12:29](https://youtu.be/BV7xnuJNkSQ?t=12m29s)
 - Bernoulli led to Poisson Distribution [13:04](https://youtu.be/BV7xnuJNkSQ?t=13m04s)
 - Bernoulli led to Normal Distribution [15:01](https://youtu.be/BV7xnuJNkSQ?t=15m01s)
-- Geometric Example [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s)
+### Geometric Example [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s)
 - Probability that you have to wait k more trails
 - Result is that it’s like starting at the beginning [30:30](https://youtu.be/BV7xnuJNkSQ?t=30m30s)
   - You are NOT due!
-- Continuous Random Variables [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s)
+
+### Continuous Random Variables [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s)
 - Can have flat spots but no jumps [33:55](https://youtu.be/BV7xnuJNkSQ?t=33m55s)
 - Discussion: Exponential RV with parameter lambda [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s)
 - Exponential RV with parameter lambda are used to model waiting times eg bus, phone call [37:29](https://youtu.be/BV7xnuJNkSQ?t=37m29s)
@@ -140,7 +141,8 @@
 - Discussion...to find density [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s)
 - Waiting until n occurrence [50:50](https://youtu.be/BV7xnuJNkSQ?t=50m50s)
 - Finishing Gamma Random Variable [51:34](https://youtu.be/BV7xnuJNkSQ?t=51m34s)
-- Functions of Random Variables [56:55](https://youtu.be/BV7xnuJNkSQ?t=56m55s)
+
+### Functions of Random Variables [56:55](https://youtu.be/BV7xnuJNkSQ?t=56m55s)
 - A function of a rv is a rv [58:40](https://youtu.be/BV7xnuJNkSQ?t=58m40s)
 - The distribution function of the new rv is P(g(X)<=x)
 - If g(X) is decreasing... [1:04:40](https://youtu.be/BV7xnuJNkSQ?t=1h4m40s)
