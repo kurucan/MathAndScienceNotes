@@ -16,7 +16,7 @@
 ### Mutually Disjoint [49:45](https://youtu.be/GyN4FotAEt8?t=49m45s)
 - Empty Set is an event with Probability of zero [51:54](https://youtu.be/GyN4FotAEt8?t=51m54s)
 - P(A Complement) = 1 - P(A) [53:58](https://youtu.be/GyN4FotAEt8?t=53m58s)
-- P(A) <= P(B), A subset B [56:30](https://youtu.be/GyN4FotAEt8?t=56m30s)
+- P(A) ≤ P(B), A subset B [56:30](https://youtu.be/GyN4FotAEt8?t=56m30s)
  - Counting [1:02:00](https://youtu.be/GyN4FotAEt8?t=1h2m)
 - P(A) = #A/#Omega Definition of Prob? [1:05:29](https://youtu.be/GyN4FotAEt8?t=1h5m29s)
 - Derive above - All n disjoint events have same probability [1:08:45](https://youtu.be/GyN4FotAEt8?t=1h8m45s)
@@ -60,9 +60,9 @@
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
 #### Example: [10:45](https://youtu.be/Pj5n3FLE0wM?t=10m45s)
 - RV is a function on a sample space with real values [14:05](https://youtu.be/Pj5n3FLE0wM?t=14m05s)
-- F(x)=P(X<=x) [16:00](https://youtu.be/Pj5n3FLE0wM?t=16m)
-- 0<= F(x) <= 1 - Another way of saying probabilities between 0 and 1 [16:40](https://youtu.be/Pj5n3FLE0wM?t=16m40s)
-- F(x) - P(X<=x) <= P(Y<=y) = F(y) [18:10](https://youtu.be/Pj5n3FLE0wM?t=18m10s)
+- F(x)=P(X≤x) [16:00](https://youtu.be/Pj5n3FLE0wM?t=16m)
+- 0≤ F(x) ≤ 1 - Another way of saying probabilities between 0 and 1 [16:40](https://youtu.be/Pj5n3FLE0wM?t=16m40s)
+- F(x) - P(X≤x) ≤ P(Y≤y) = F(y) [18:10](https://youtu.be/Pj5n3FLE0wM?t=18m10s)
 - F is a non-decreasing function (increasing, but not strictly)
 - F is right continuous [21:00](https://youtu.be/Pj5n3FLE0wM?t=21m)
 - Distribution Function [21:45](https://youtu.be/Pj5n3FLE0wM?t=21m45s)
@@ -102,7 +102,7 @@
 - If F has a derivative f, then (mostly true) little f is called density of capital F or of X. @[1:20:25](https://youtu.be/Pj5n3FLE0wM?t=1h20m25s)
 - aka Probably Density Function 
 #### Example: The uniform on [0,1] r.v. U([0,1]) has density... @[1:22:01](https://youtu.be/Pj5n3FLE0wM?t=1h22m1s)
-- P(a<X<=b) = P(X<=b) - P(X<=a)  @[1:26:10](https://youtu.be/Pj5n3FLE0wM?t=1h26m10s) 
+- P(a<X≤b) = P(X≤b) - P(X≤a)  @[1:26:10](https://youtu.be/Pj5n3FLE0wM?t=1h26m10s) 
 - Integrate from a to b
 - Normal Random Variable [1:29:55](https://youtu.be/Pj5n3FLE0wM?t=1h29m55s)
 #### Example: X~N( u,sigma^2) [1:30:28](https://youtu.be/Pj5n3FLE0wM?t=1h30m28s)
@@ -144,15 +144,15 @@
 
 ### Functions of Random Variables [56:55](https://youtu.be/BV7xnuJNkSQ?t=56m55s)
 - A function of a rv is a rv [58:40](https://youtu.be/BV7xnuJNkSQ?t=58m40s)
-- The distribution function of the new rv is P(g(X)<=x)
+- The distribution function of the new rv is P(g(X)≤x)
 - If g(X) is decreasing... [1:04:40](https://youtu.be/BV7xnuJNkSQ?t=1h4m40s)
-#### Example: Find P(Y<=x), given Y=...[1:10:15](https://youtu.be/BV7xnuJNkSQ?t=1hms)
+#### Example: Find P(Y≤x), given Y=...[1:10:15](https://youtu.be/BV7xnuJNkSQ?t=1hms)
 - Density of distribution function is its derivative [1:13:54](https://youtu.be/BV7xnuJNkSQ?t=1h13m54s)
 
 ### Joint Distributions [1:25:30](https://youtu.be/BV7xnuJNkSQ?t=1h25m30s)
 - eg. Shoe size father/son
 - Joint PMF [1:31:20](https://youtu.be/BV7xnuJNkSQ?t=1h31m20s)
-- We say (X,Y) has joint distribution function F if P(X<=x,Y<=y)=F(x,y) [1:34:38](https://youtu.be/BV7xnuJNkSQ?t=1h34m38s)
+- We say (X,Y) has joint distribution function F if P(X≤x,Y≤y)=F(x,y) [1:34:38](https://youtu.be/BV7xnuJNkSQ?t=1h34m38s)
 - Continuous Random Variable Case [1:36:35](https://youtu.be/BV7xnuJNkSQ?t=1h36m35s)
 #### Example: [1:37:20](https://youtu.be/BV7xnuJNkSQ?t=1h37m35s)
 
