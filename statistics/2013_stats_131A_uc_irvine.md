@@ -128,7 +128,7 @@
 - Geometric Example [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s)
 - Probability that you have to wait k more trails
 - Result is that it’s like starting at the beginning [30:30](https://youtu.be/BV7xnuJNkSQ?t=30m30s)
-- You are NOT due!
+  - You are NOT due!
 - Continuous Random Variables [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s)
 - Can have flat spots but no jumps [33:55](https://youtu.be/BV7xnuJNkSQ?t=33m55s)
 - Discussion: Exponential RV with parameter lambda [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s)
