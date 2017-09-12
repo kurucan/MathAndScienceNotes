@@ -118,4 +118,39 @@
 
 ## Lecture 4: Joint Distribution - [Video](https://youtu.be/BV7xnuJNkSQ)
 
+- Bernoulli Random Variables led to most other rvs studied in the course  [5:40](https://youtu.be/BV7xnuJNkSQ?t=5m40s)
+- PMF: Probability Mass Function of Bernoulli [6:01](https://youtu.be/BV7xnuJNkSQ?t=6m01s)
+- Bernoulli led to Binomial [7:32](https://youtu.be/BV7xnuJNkSQ?t=7m32s)
+- Bernoulli led to Geometric Distribution [10:54](https://youtu.be/BV7xnuJNkSQ?t=10m54s)
+- Distribution function [12:29](https://youtu.be/BV7xnuJNkSQ?t=12m29s)
+- Bernoulli led to Poisson Distribution [13:04](https://youtu.be/BV7xnuJNkSQ?t=13m04s)
+- Bernoulli led to Normal Distribution [15:01](https://youtu.be/BV7xnuJNkSQ?t=15m01s)
+- Geometric Example [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s)
+- Probability that you have to wait k more trails
+- Result is that it’s like starting at the beginning [30:30](https://youtu.be/BV7xnuJNkSQ?t=30m30s)
+- You are NOT due!
+- Continuous Random Variables [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s)
+- Can have flat spots but no jumps [33:55](https://youtu.be/BV7xnuJNkSQ?t=33m55s)
+- Discussion: Exponential RV with parameter lambda [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s)
+- Exponential RV with parameter lambda are used to model waiting times eg bus, phone call [37:29](https://youtu.be/BV7xnuJNkSQ?t=37m29s)
+- Same start over property as geometric [38:40](https://youtu.be/BV7xnuJNkSQ?t=38m40s)
+- Gamma function - closely related to exponential [41:55](https://youtu.be/BV7xnuJNkSQ?t=41m55s)
+- integrate by parts
+- Gamma(n)=(n-1)! [46:40](https://youtu.be/BV7xnuJNkSQ?t=46m40s)
+- Discussion...to find density [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s)
+- Waiting until n occurrence [50:50](https://youtu.be/BV7xnuJNkSQ?t=50m50s)
+- Finishing Gamma Random Variable [51:34](https://youtu.be/BV7xnuJNkSQ?t=51m34s)
+- Functions of Random Variables [56:55](https://youtu.be/BV7xnuJNkSQ?t=56m55s)
+- A function of a rv is a rv [58:40](https://youtu.be/BV7xnuJNkSQ?t=58m40s)
+- The distribution function of the new rv is P(g(X)<=x)
+- If g(X) is decreasing... [1:04:40](https://youtu.be/BV7xnuJNkSQ?t=1h4m40s)
+- Example: Find P(Y<=x), given Y=...[1:10:15](https://youtu.be/BV7xnuJNkSQ?t=1hms)
+- Density of distribution function is its derivative [1:13:54](https://youtu.be/BV7xnuJNkSQ?t=1h13m54s)
 
+### Joint Distributions [1:25:30](https://youtu.be/BV7xnuJNkSQ?t=1h25m30s)
+- eg. Shoe size father/son
+- Joint PMF [1:31:20](https://youtu.be/BV7xnuJNkSQ?t=1h31m20s)
+- We say (X,Y) has joint distribution function F if P(X<=x,Y<=y)=F(x,y) [1:34:38](https://youtu.be/BV7xnuJNkSQ?t=1h34m38s)
+- Continuous Random Variable Case [1:36:35](https://youtu.be/BV7xnuJNkSQ?t=1h36m35s)
+- Example: [1:37:20](https://youtu.be/BV7xnuJNkSQ?t=1h37m35s)
+- 
