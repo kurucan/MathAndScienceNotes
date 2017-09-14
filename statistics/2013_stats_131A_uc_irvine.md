@@ -56,7 +56,7 @@
 #### Example: Dart Thrown Repeatedly, probability get at least one bullseye [1:05:55](https://youtu.be/zboOPK98aGk?t=1h5m55s)
 - Use complement to get answer: Probability not hittinh a bullseye 
 
-## Lecture 3: Random Variables
+## Lecture 3
 - Random Variables [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
 ### Random Variables r.v.s.- Assign values to outcomes [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s)
@@ -282,5 +282,3 @@
 #### [1:37:15](https://youtu.be/r4R8aJE-BLo?t=1h37m15s) Example: Gamma distribution - E[X]
 - Exponential decay wins so integral is finite
 - [1:42:20](https://youtu.be/r4R8aJE-BLo?t=1h42m20s) Solution: E[X] = 1/λ
-
-https://github.com/melling/MathAndScienceNotes/blob/master/statistics/2013_stats_131A_uc_irvine.md#lecture-1
