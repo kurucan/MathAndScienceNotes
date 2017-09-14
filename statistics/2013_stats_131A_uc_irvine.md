@@ -273,7 +273,7 @@
 - Suppose X is a discrete r.v. with pdf p, define...
 #### [1:14:45](https://youtu.be/r4R8aJE-BLo?t=1h14m45s) If X is Poisson with parameter λ distributed...
 - [1:17:48](https://youtu.be/r4R8aJE-BLo?t=1h17m48s) Solution: Expected value of Poisson with parameter λ is λ
-#### [1:18:20](https://youtu.be/r4R8aJE-BLo?t=1h18m20s) Example: Geometric
+#### [1:18:20](https://youtu.be/r4R8aJE-BLo?t=1h18m20s) Example: Geometric Distribution
 - [1:21:52](https://youtu.be/r4R8aJE-BLo?t=1h21m1s) Solution: E[X] = 1/p for geometric 
 #### [1:25:01](https://youtu.be/r4R8aJE-BLo?t=1h25m1s) Continuous case for Expected Value
 #### [1:27:20](https://youtu.be/r4R8aJE-BLo?t=1h27m20s) Example: Uniform
