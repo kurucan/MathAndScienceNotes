@@ -56,7 +56,8 @@
 #### Example: Dart Thrown Repeatedly, probability get at least one bullseye [1:05:55](https://youtu.be/zboOPK98aGk?t=1h5m55s)
 - Use complement to get answer: Probability not hittinh a bullseye 
 
-## Lecture 3: Random Variables  - [Video](https://youtu.be/Pj5n3FLE0wM)
+## Lecture 3: Random Variables
+- Random Variables [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
 ### Random Variables r.v.s.- Assign values to outcomes [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s)
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
@@ -118,8 +119,8 @@
 - If X is Bin(n,1/2) - like tossing coin and counting heads @[1:40:08](https://youtu.be/Pj5n3FLE0wM?t=1h40m08s)
 - When n is large, it is essentially a Normal Random Variable - Central Limit Theorem 
 
-## Lecture 4: Joint Distribution - [Video](https://youtu.be/BV7xnuJNkSQ)
-
+## Lecture 4
+- Joint Distribution - [Video](https://youtu.be/BV7xnuJNkSQ)
 - Bernoulli Random Variables led to most other rvs studied in the course  [5:40](https://youtu.be/BV7xnuJNkSQ?t=5m40s)
 - PMF: Probability Mass Function of Bernoulli [6:01](https://youtu.be/BV7xnuJNkSQ?t=6m01s)
 - Bernoulli led to Binomial [7:32](https://youtu.be/BV7xnuJNkSQ?t=7m32s)
@@ -159,7 +160,8 @@
 #### Example: [1:37:20](https://youtu.be/BV7xnuJNkSQ?t=1h37m35s)
 
 
-## Lecture 5: Expected Values - [Video](https://youtu.be/UdJr5xO5XzI)
+## Lecture 5
+- Expected Values - [Video](https://youtu.be/UdJr5xO5XzI)
 ### Jointly Distributed Random Variables [1:36](https://youtu.be/UdJr5xO5XzI?t=1m36s)
 #### Example: (X,Y) is uniformly distribute on ...[5:40](https://youtu.be/UdJr5xO5XzI?t=5m40s)
 - What does it mean that Z is uniformly distributed on interval [a,b]? [7:09](https://youtu.be/UdJr5xO5XzI?t=7m9s)
@@ -187,9 +189,8 @@
 - [1:29:45](https://youtu.be/UdJr5xO5XzI?t=1h29m45s) Independence for jointly distributed rvs: X,Y are independent if...
 
 
-## Lecture 6: [Video](https://www.youtube.com/watch?v=IGRl1PKevT4)
-
-
+## Lecture 6
+- [Video](https://www.youtube.com/watch?v=IGRl1PKevT4)
 ### Joint Distribution Review 
 
 - [2:40](https://youtu.be/IGRl1PKevT4?t=2m40s) Densities or PMF’s
@@ -234,7 +235,8 @@
 - [1:27:20](https://youtu.be/IGRl1PKevT4?t=1h27m20s) Compute the Jacobian 
 - [1:37:55](https://youtu.be/IGRl1PKevT4?t=1h37m55s) Find distribution of y/x
 
-## Lecture 7: Limit Theorems [Video](https://youtu.be/r4R8aJE-BLo)
+## Lecture 7
+- Limit Theorems - [Video](https://youtu.be/r4R8aJE-BLo)
 - [1:40](https://youtu.be/r4R8aJE-BLo?t=1m40s) Order Statistics
 - Insurance claims
 - Reorder sample so that X1 is largest. 
@@ -281,3 +283,4 @@
 - Exponential decay wins so integral is finite
 - [1:42:20](https://youtu.be/r4R8aJE-BLo?t=1h42m20s) Solution: E[X] = 1/λ
 
+https://github.com/melling/MathAndScienceNotes/blob/master/statistics/2013_stats_131A_uc_irvine.md#lecture-1
