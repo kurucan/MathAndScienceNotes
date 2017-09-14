@@ -10,7 +10,7 @@
 #### [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s) Example: Three Heads when Tossing a Coin 6 Times
 #### [32:00](https://youtu.be/GyN4FotAEt8?t=32m00s) Example: Straight Flush
 #### [38:00](https://youtu.be/GyN4FotAEt8?t=38m00s) Example: k Successes Observed
-####  [41:00](https://youtu.be/GyN4FotAEt8?t=41m00s)Union/Intersection/A-B/ of Two Events
+####  [41:00](https://youtu.be/GyN4FotAEt8?t=41m00s) Union/Intersection/A-B/ of Two Events
 - [43:00](https://youtu.be/GyN4FotAEt8?t=43m00s) A complement
 - [45:12](https://youtu.be/GyN4FotAEt8?t=45m12s) Symmetric Difference of A and B
 - [47:10](https://youtu.be/GyN4FotAEt8?t=47m10s) Assigning Probability to Events
@@ -34,89 +34,89 @@
 ## Lecture 2
 - [Video](https://youtu.be/zboOPK98aGk)
 - Maximum Likelihood Estimator
-- f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator [1:50](https://youtu.be/zboOPK98aGk?t=1m50s)
-### Multinomial Theorem Discussion [12:00](https://youtu.be/zboOPK98aGk?t=12m)
-- Multi-nomial coefficient [16:18](https://youtu.be/zboOPK98aGk?t=16m18s)
-- Multinomial Thereom Def [17:45](https://youtu.be/zboOPK98aGk?t=17m45s)
-- Poker Example: 6 people, 5 cards each [19:30](https://youtu.be/zboOPK98aGk?t=19m30s)
-- Number possible Bridge hands [22:20](https://youtu.be/zboOPK98aGk?t=22m20s)
-- Misc Examples [23:30](https://youtu.be/zboOPK98aGk?t=23m30s)
-### Conditional probability and independence [25:00](https://youtu.be/zboOPK98aGk?t=25m)
+- [1:50](https://youtu.be/zboOPK98aGk?t=1m50s) f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator
+### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Multinomial Theorem Discussion
+- [16:18](https://youtu.be/zboOPK98aGk?t=16m18s) Multi-nomial coefficient
+- [17:45](https://youtu.be/zboOPK98aGk?t=17m45s) Multinomial Thereom Definition
+- [19:30](https://youtu.be/zboOPK98aGk?t=19m30s) Poker Example: 6 people, 5 cards each
+- [22:20](https://youtu.be/zboOPK98aGk?t=22m20s) Number possible Bridge hands
+- [23:30](https://youtu.be/zboOPK98aGk?t=23m30s) Misc Examples
+### [25:00](https://youtu.be/zboOPK98aGk?t=25m) Conditional probability and independence
 - P(A|B)=P(A intersect B)/P(B) - 
-#### Example: Roll fair dice... P(roll six|dice is even) [26:30](https://youtu.be/zboOPK98aGk?t=26m30s)
-- Law of Total Probability [30:30](https://youtu.be/zboOPK98aGk?t=30m30s)
-#### Example: Urn Problem with Gumballs [34:20](https://youtu.be/zboOPK98aGk?t=34m20s)
-#### Bayes Rule [51:50](https://youtu.be/zboOPK98aGk?t=51m50s)
-#### Independence [58:00](https://youtu.be/zboOPK98aGk?t=58m)
+#### [26:30](https://youtu.be/zboOPK98aGk?t=26m30s) Example: Roll fair dice... P(roll six|dice is even)
+- [30:30](https://youtu.be/zboOPK98aGk?t=30m30s) Law of Total Probability
+#### [34:20](https://youtu.be/zboOPK98aGk?t=34m20s) Example: Urn Problem with Gumballs
+#### [51:50](https://youtu.be/zboOPK98aGk?t=51m50s) Bayes Rule
+#### [58:00](https://youtu.be/zboOPK98aGk?t=58m) Independence
 #### P(A intersect B) = P(A)*P(B)
-- Given independence, P(A|B) = P(A) [58:45](https://youtu.be/zboOPK98aGk?t=58m45s)
+- [58:45](https://youtu.be/zboOPK98aGk?t=58m45s) Given independence, P(A|B) = P(A)
 - First toss of coin does not affect second toss - no memory 
-- Example: Toss Two Coins [1:00:45](https://youtu.be/zboOPK98aGk?t=1h0m45s)
+- [1:00:45](https://youtu.be/zboOPK98aGk?t=1h0m45s) Example: Toss Two Coins
 - Consecutive rolls of dice are independent
-#### Example: Dart Thrown Repeatedly, probability get at least one bullseye [1:05:55](https://youtu.be/zboOPK98aGk?t=1h5m55s)
-- Use complement to get answer: Probability not hittinh a bullseye 
+#### [1:05:55](https://youtu.be/zboOPK98aGk?t=1h5m55s) Example: Dart Thrown Repeatedly, probability get at least one bullseye
+- Use complement to get answer: Probability not hit a bullseye 
 
 ## Lecture 3
 - Random Variables [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
-### Random Variables r.v.s.- Assign values to outcomes [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s)
+### [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s) Random Variables r.v.s.- Assign values to outcomes
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
-#### Example: [10:45](https://youtu.be/Pj5n3FLE0wM?t=10m45s)
-- RV is a function on a sample space with real values [14:05](https://youtu.be/Pj5n3FLE0wM?t=14m05s)
-- F(x)=P(X≤x) [16:00](https://youtu.be/Pj5n3FLE0wM?t=16m)
-- 0≤ F(x) ≤ 1 - Another way of saying probabilities between 0 and 1 [16:40](https://youtu.be/Pj5n3FLE0wM?t=16m40s)
-- F(x) - P(X≤x) ≤ P(Y≤y) = F(y) [18:10](https://youtu.be/Pj5n3FLE0wM?t=18m10s)
+#### [10:45](https://youtu.be/Pj5n3FLE0wM?t=10m45s) Example:
+- [14:05](https://youtu.be/Pj5n3FLE0wM?t=14m05s) RV is a function on a sample space with real values
+- [16:00](https://youtu.be/Pj5n3FLE0wM?t=16m) F(x)=P(X≤x)
+- [16:40](https://youtu.be/Pj5n3FLE0wM?t=16m40s) 0≤ F(x) ≤ 1 - Another way of saying probabilities between 0 and 1
+- [18:10](https://youtu.be/Pj5n3FLE0wM?t=18m10s) F(x) - P(X≤x) ≤ P(Y≤y) = F(y)
 - F is a non-decreasing function (increasing, but not strictly)
-- F is right continuous [21:00](https://youtu.be/Pj5n3FLE0wM?t=21m)
-- Distribution Function [21:45](https://youtu.be/Pj5n3FLE0wM?t=21m45s)
+- [21:00](https://youtu.be/Pj5n3FLE0wM?t=21m) F is right continuous
+- [21:45](https://youtu.be/Pj5n3FLE0wM?t=21m45s) Distribution Function
 - (e.g. Normal, Uniform,Poisson)
-### Two major classes of rvs [22:45](https://youtu.be/Pj5n3FLE0wM?t=22m45s)
+### [22:45](https://youtu.be/Pj5n3FLE0wM?t=22m45s) Two major classes of rvs
 - Discrete - distribution function has jumps interrupted by flat spots
-- Continuous - distribution function is continuous [25:05](https://youtu.be/Pj5n3FLE0wM?t=25m05s)
-#### Examples of Discrete r.v [26:15](https://youtu.be/Pj5n3FLE0wM?t=26m15s)
+- [25:05](https://youtu.be/Pj5n3FLE0wM?t=25m05s) Continuous - distribution function is continuous
+#### [26:15](https://youtu.be/Pj5n3FLE0wM?t=26m15s) Examples of Discrete r.v.
 ### Cumulative distribution function - CDF
-### Bernoulli Distribution/RV [27:45](https://youtu.be/Pj5n3FLE0wM?t=27m45s)
+### [27:45](https://youtu.be/Pj5n3FLE0wM?t=27m45s) Bernoulli Distribution/RV
 - P(X=0) = 1-p
 - P(X=1) = p
-### Binomial R.V. [31:35](https://youtu.be/Pj5n3FLE0wM?t=31m35s)
+### [31:35](https://youtu.be/Pj5n3FLE0wM?t=31m35s) Binomial R.V.
 - n independent Bernoulli trials are performed 
 - X is # successes in n trials
 - X will be number b/w 0 and n
-- PMF - probability mass function [38:00](https://youtu.be/Pj5n3FLE0wM?t=38m)
+- [38:00](https://youtu.be/Pj5n3FLE0wM?t=38m) PMF - probability mass function
 - PMF to Distribution function - summation 
-- Jump size is equal to PMF at a given integer [42:00](https://youtu.be/Pj5n3FLE0wM?t=42m)
-#### Example: Geometric Random Variable [42:30](https://youtu.be/Pj5n3FLE0wM?t=42m30s)
+- [42:00](https://youtu.be/Pj5n3FLE0wM?t=42m) Jump size is equal to PMF at a given integer
+#### [42:30](https://youtu.be/Pj5n3FLE0wM?t=42m30s) Example: Geometric Random Variable
 - Perform independent Bernoulli trials until a success occurs
 - eg. Toss a coin until heads/roll a die until 3
-- P(X=k) = (1-p)^k-1 * p [46:10](https://youtu.be/Pj5n3FLE0wM?t=46m10s)
-#### Negative Binomial [50:00](https://youtu.be/Pj5n3FLE0wM?t=50m)
+- [46:10](https://youtu.be/Pj5n3FLE0wM?t=46m10s) P(X=k) = (1-p)^k-1 * p
+#### [50:00](https://youtu.be/Pj5n3FLE0wM?t=50m) Negative Binomial
 - Perform Bernoulli trials until r successes occur 
 - PMF: 
-- CMF: @[54:15](https://youtu.be/Pj5n3FLE0wM?t=54m15s)?
-#### Poisson Distribution/RV [55:54](https://youtu.be/Pj5n3FLE0wM?t=55m54s)
+- [54:15](https://youtu.be/Pj5n3FLE0wM?t=54m15s)? CMF:
+#### [55:54](https://youtu.be/Pj5n3FLE0wM?t=55m54s) Poisson Distribution/RV
 - parameter λ (lambda)
 - Used in counting where there are a large number of events, each with a small probability 
-- Relationship of Poisson to Binomial [1:00:08](https://youtu.be/Pj5n3FLE0wM?t=1h0m8s)
-- Used L’Hospital’s Rule [1:04:35](https://youtu.be/Pj5n3FLE0wM?t=1h04m35s)
-- General Solution [1:15:45](https://youtu.be/Pj5n3FLE0wM?t=1h15m45s)
+- [1:00:08](https://youtu.be/Pj5n3FLE0wM?t=1h0m8s) Relationship of Poisson to Binomial
+- [1:04:35](https://youtu.be/Pj5n3FLE0wM?t=1h04m35s) Used L’Hospital’s Rule
+- [1:15:45](https://youtu.be/Pj5n3FLE0wM?t=1h15m45s) General Solution
 - Large trials with a small probability of success- Bernoulli RV is almost like a Poisson RV
-### Continuous random variables [1:18:55](https://youtu.be/Pj5n3FLE0wM?t=1h18m55s)
+### [1:18:55](https://youtu.be/Pj5n3FLE0wM?t=1h18m55s) Continuous random variables
 - Law of Rare Events mentioned [aka Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
-- If F has a derivative f, then (mostly true) little f is called density of capital F or of X. @[1:20:25](https://youtu.be/Pj5n3FLE0wM?t=1h20m25s)
+- [1:20:25](https://youtu.be/Pj5n3FLE0wM?t=1h20m25s) If F has a derivative f, then (mostly true) little f is called density of capital F or of X.
 - aka Probably Density Function 
-#### Example: The uniform on [0,1] r.v. U([0,1]) has density... @[1:22:01](https://youtu.be/Pj5n3FLE0wM?t=1h22m1s)
-- P(a<X≤b) = P(X≤b) - P(X≤a)  @[1:26:10](https://youtu.be/Pj5n3FLE0wM?t=1h26m10s) 
+#### [1:22:01](https://youtu.be/Pj5n3FLE0wM?t=1h22m1s) Example: The uniform on [0,1] r.v. U([0,1]) has density...
+- [1:26:10](https://youtu.be/Pj5n3FLE0wM?t=1h26m10s) P(a<X≤b) = P(X≤b) - P(X≤a)
 - Integrate from a to b
-- Normal Random Variable [1:29:55](https://youtu.be/Pj5n3FLE0wM?t=1h29m55s)
-#### Example: X~N( u,sigma^2) [1:30:28](https://youtu.be/Pj5n3FLE0wM?t=1h30m28s)
+- [1:29:55](https://youtu.be/Pj5n3FLE0wM?t=1h29m55s) Normal Random Variable
+#### [1:30:28](https://youtu.be/Pj5n3FLE0wM?t=1h30m28s) Example: X~N( u,sigma^2)
   - normal, mean u, variance sigma^2
-  - density is given by ... @[1:31:38](https://youtu.be/Pj5n3FLE0wM?t=1h31m38s)
-- if X~N(0,1) then ... @[1:32:15](https://youtu.be/Pj5n3FLE0wM?t=1h32m15s)
-- P(-infinity,X , infinity) [1:32:55](https://youtu.be/Pj5n3FLE0wM?t=1h32m55s)
+  - [1:31:38](https://youtu.be/Pj5n3FLE0wM?t=1h31m38s) density is given by ...
+- [1:32:15](https://youtu.be/Pj5n3FLE0wM?t=1h32m15s) if X~N(0,1) then ...
+- [1:32:55](https://youtu.be/Pj5n3FLE0wM?t=1h32m55s) P(-infinity,X , infinity)
 - Integral should be 1
 - Can’t integrate - squaring...
-- Switch to polar coordinates [1:37:40](https://youtu.be/Pj5n3FLE0wM?t=1h37m40s)
-- If X is Bin(n,1/2) - like tossing coin and counting heads @[1:40:08](https://youtu.be/Pj5n3FLE0wM?t=1h40m08s)
+- [1:37:40](https://youtu.be/Pj5n3FLE0wM?t=1h37m40s) Switch to polar coordinates
+- [1:40:08](https://youtu.be/Pj5n3FLE0wM?t=1h40m08s) If X is Bin(n,1/2) - like tossing coin and counting heads
 - When n is large, it is essentially a Normal Random Variable - Central Limit Theorem 
 
 ## Lecture 4
