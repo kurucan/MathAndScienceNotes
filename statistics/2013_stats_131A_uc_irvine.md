@@ -3,7 +3,8 @@
 
 [UC Irvine:  Introduction to Probability and Statistics](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
 
-## Lecture 1 - [Video](https://youtu.be/GyN4FotAEt8)
+## Lecture 1
+- [Video](https://youtu.be/GyN4FotAEt8)
 ### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces
 ### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events
 #### [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s) Example: Three Heads when Tossing a Coin 6 Times
@@ -30,7 +31,8 @@
 - [1:40:07](https://youtu.be/GyN4FotAEt8?t=1h40m7s) Find P(flush) - all cards of same suit
 
 
-## Lecture 2 - [Video](https://youtu.be/zboOPK98aGk)
+## Lecture 2
+- [Video](https://youtu.be/zboOPK98aGk)
 - Maximum Likelihood Estimator
 - f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator [1:50](https://youtu.be/zboOPK98aGk?t=1m50s)
 ### Multinomial Theorem Discussion [12:00](https://youtu.be/zboOPK98aGk?t=12m)
@@ -278,3 +280,4 @@
 #### [1:37:15](https://youtu.be/r4R8aJE-BLo?t=1h37m15s) Example: Gamma distribution - E[X]
 - Exponential decay wins so integral is finite
 - [1:42:20](https://youtu.be/r4R8aJE-BLo?t=1h42m20s) Solution: E[X] = 1/λ
+
