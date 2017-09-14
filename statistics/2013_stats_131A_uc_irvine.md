@@ -282,3 +282,23 @@
 #### [1:37:15](https://youtu.be/r4R8aJE-BLo?t=1h37m15s) Example: Gamma distribution - E[X]
 - Exponential decay wins so integral is finite
 - [1:42:20](https://youtu.be/r4R8aJE-BLo?t=1h42m20s) Solution: E[X] = 1/λ
+
+
+## Lecture 8
+- Distributions from normal Distribution - [Video](https://youtu.be/yIn0h984TKg)
+
+## Lecture 9
+
+## Lecture 10
+
+## Lecture 11
+
+## Lecture 12
+
+## Lecture 13
+
+## Lecture 14
+
+## Lecture 15
+
+## Lecture 16
