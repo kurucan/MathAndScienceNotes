@@ -3,7 +3,7 @@
 
 [UC Irvine:  Introduction to Probability and Statistics](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
 
-[Lecture 1](#lecture-1) | [Lecture 2](#lecture-2) | [Lecture 3](#lecture-3) |
+[Lecture 1](#lecture-1) | [Lecture 2](#lecture-2) | [Lecture 3](#lecture-3) | [Lecture 4](#lecture-4) | [Lecture 5](#lecture-5) | [Lecture 6](#lecture-6) | [Lecture 7](#lecture-7) | [Lecture 8](#lecture-8) | [Lecture 9](#lecture-9) | [Lecture 10](#lecture-10) | [Lecture 11](#lecture-11) | [Lecture 12](#lecture-12) | [Lecture 13](#lecture-13) | [Lecture 14](#lecture-14) | [Lecture 15](#lecture-15) | [Lecture 16](#lecture-16) |
 
 ## Lecture 1
 - [Video](https://youtu.be/GyN4FotAEt8)
