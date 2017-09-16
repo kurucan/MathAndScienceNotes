@@ -6,20 +6,22 @@
 ## Lecture 1
 - [Video](https://youtu.be/GyN4FotAEt8)
 ### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces
+- Defines the possible outcomes in an experiment
+- Ω
 ### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events
 #### [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s) Example: Three Heads when Tossing a Coin 6 Times
 #### [32:00](https://youtu.be/GyN4FotAEt8?t=32m00s) Example: Straight Flush
 #### [38:00](https://youtu.be/GyN4FotAEt8?t=38m00s) Example: k Successes Observed
-####  [41:00](https://youtu.be/GyN4FotAEt8?t=41m00s) Union/Intersection/A-B/ of Two Events
-- [43:00](https://youtu.be/GyN4FotAEt8?t=43m00s) A complement
+#### [41:00](https://youtu.be/GyN4FotAEt8?t=41m00s) Union ∪/Intersection ∩/A-B (A \ B)/ of Two Events
+- [43:00](https://youtu.be/GyN4FotAEt8?t=43m00s) A complement - Ac
 - [45:12](https://youtu.be/GyN4FotAEt8?t=45m12s) Symmetric Difference of A and B
 - [47:10](https://youtu.be/GyN4FotAEt8?t=47m10s) Assigning Probability to Events
 ### [49:45](https://youtu.be/GyN4FotAEt8?t=49m45s) Mutually Disjoint
 - [51:54](https://youtu.be/GyN4FotAEt8?t=51m54s) Empty Set is an event with Probability of zero
 - [53:58](https://youtu.be/GyN4FotAEt8?t=53m58s) P(A Complement) = 1 - P(A)
-- [56:30](https://youtu.be/GyN4FotAEt8?t=56m30s) P(A) ≤ P(B), A subset B
+- [56:30](https://youtu.be/GyN4FotAEt8?t=56m30s) P(A) ≤ P(B), A subset B, A ⊆ B
  - [1:02:00](https://youtu.be/GyN4FotAEt8?t=1h2m) Counting
-- [1:05:29](https://youtu.be/GyN4FotAEt8?t=1h5m29s) P(A) = #A/#Omega Definition of Prob?
+- [1:05:29](https://youtu.be/GyN4FotAEt8?t=1h5m29s) P(A) = #A/#Omega (Ω) Definition of Prob?
 - [1:08:45](https://youtu.be/GyN4FotAEt8?t=1h8m45s) Derive above - All n disjoint events have same probability
 - [1:14:25](https://youtu.be/GyN4FotAEt8?t=1h14m25s) Multiplication Principle: m x n ways
 #### [1:17:45](https://youtu.be/GyN4FotAEt8?t=1h17m45s) Example: Select 3 people without replacement, ordered
@@ -35,7 +37,7 @@
 - [Video](https://youtu.be/zboOPK98aGk)
 - Maximum Likelihood Estimator
 - [1:50](https://youtu.be/zboOPK98aGk?t=1m50s) f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator
-### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Multinomial Theorem Discussion
+### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Discussion: Multinomial Theorem
 - [16:18](https://youtu.be/zboOPK98aGk?t=16m18s) Multi-nomial coefficient
 - [17:45](https://youtu.be/zboOPK98aGk?t=17m45s) Multinomial Thereom Definition
 - [19:30](https://youtu.be/zboOPK98aGk?t=19m30s) Poker Example: 6 people, 5 cards each
@@ -141,7 +143,7 @@
 #### Gamma function - closely related to exponential [41:55](https://youtu.be/BV7xnuJNkSQ?t=41m55s)
 - integrate by parts
 - Gamma(n)=(n-1)! [46:40](https://youtu.be/BV7xnuJNkSQ?t=46m40s)
-  - Discussion...to find density [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s)
+  - Discussion: ...to find density [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s)
   - Waiting until n occurrence [50:50](https://youtu.be/BV7xnuJNkSQ?t=50m50s)
   - Finishing Gamma Random Variable [51:34](https://youtu.be/BV7xnuJNkSQ?t=51m34s)
 
@@ -287,9 +289,118 @@
 ## Lecture 8
 - Distributions from normal Distribution - [Video](https://youtu.be/yIn0h984TKg)
 
+### Chapter 3: Problem 40
+- [21:01](https://youtu.be/yIn0h984TKg?t=21m1s) We have the joint probability of the two by definition 
+- [21:55](https://youtu.be/yIn0h984TKg?t=21m55s) That’s the Geometric series 
+- [23:00](https://youtu.be/yIn0h984TKg?t=23m0s) We have the PMF is the conditional probability that we wanted
+- ### [24:20](https://youtu.be/yIn0h984TKg?t=24m20s) Chapter 3: Problem 54
+- [31:54](https://youtu.be/yIn0h984TKg?t=31m54s) Integrate over theta and phi to get density of R
+- [36:45](https://youtu.be/yIn0h984TKg?t=36m45s) Choosing constant to normalize to 1
+### [42:15](https://youtu.be/yIn0h984TKg?t=42m15s) Chapter 3: Problem 33B
+- U[0,1]
+- N is first time you get a head.  Geometric 
+- E[X] = 1/p
+- [46:45](https://youtu.be/yIn0h984TKg?t=46m45s) The frequency argument
+- mu is used for mean because it’s the greek letter for m.
+### [49:15](https://youtu.be/yIn0h984TKg?t=49m15s) Expected Value Review
+### [52:15](https://youtu.be/yIn0h984TKg?t=52m15s) Example: Calculate the 3 expected values
+- [55:35](https://youtu.be/yIn0h984TKg?t=55m35s) No integration required. The trick is...
+- [59:20](https://youtu.be/yIn0h984TKg?t=59m20s) Part 2: Second Expected Value
+- [1:05:50](https://youtu.be/yIn0h984TKg?t=1h5m50s) Solution: We get the variance: How far its square is from its average. 
+- [1:07:48](https://youtu.be/yIn0h984TKg?t=1h7m48s) Part 3:
+- Definition: var(X) for discrete and continuous cases
+- [1:11:30](https://youtu.be/yIn0h984TKg?t=1h11m30s) Combine the exponentials
+- [1:18:00](https://youtu.be/yIn0h984TKg?t=1h18m0s) The Moment Generating Function - Uniquely determine the distribution of the r.v.
+### [1:20:20](https://youtu.be/yIn0h984TKg?t=1h20m20s) Example: Gamma Moment Generating Function 
+- Don’t have to do integration with gammas
+- [1:23:10](https://youtu.be/yIn0h984TKg?t=1h23m10s) Combine the exponential terms
+- ### [1:24:48](https://youtu.be/yIn0h984TKg?t=1h24m48s) Expected Values: Jointly Distributed Random Variables
+- ### [1:26:30](https://youtu.be/yIn0h984TKg?t=1h26m30s) Example
+- [1:29:20](https://youtu.be/yIn0h984TKg?t=1h29m20s) If independent, expected value of product is the product of the individual expected values
+### [1:29:49](https://youtu.be/yIn0h984TKg?t=1h29m49s) Example:
+-  Compute moment generating function
+
 ## Lecture 9
 
+[Video](https://youtu.be/lk-D9_XTbSc)
+### Revisit moment generating function 
+- Two different densities cannot give the same moment generating function 
+### [1:45](https://youtu.be/lk-D9_XTbSc?t=1m45s) Moment generating function for Poisson
+- PMF
+- [2:30](https://youtu.be/lk-D9_XTbSc?t=ms) Calculate moment generating function
+### [5:20](https://youtu.be/lk-D9_XTbSc?t=5m20s) Discussion: Suppose X,Y and independent r.v.  , what’s the momentary random function for the sum?
+- [6:50](https://youtu.be/lk-D9_XTbSc?t=6m50s) It’s the product of the moment functions
+### [7:08](https://youtu.be/lk-D9_XTbSc?t=7m8s) Example: Poisson
+- [9:35](https://youtu.be/lk-D9_XTbSc?t=9m35s) Example: Bernoulli
+- [11:35](https://youtu.be/lk-D9_XTbSc?t=11m35s) Example: Independent Bernoulli’s X1,...,Xn
+- [22:00](https://youtu.be/lk-D9_XTbSc?t=22m0s) Now take p=1/2 then...
+- [30:10](https://youtu.be/lk-D9_XTbSc?t=30m10s) Central Limit Theorem
+- [31:25](https://youtu.be/lk-D9_XTbSc?t=31m25s) Called moment generating functions because if you differentiate once and evaluate at zero, you get the expected value...
+- if you differentiate twice and evaluate at zero, you get the expected value of the square
+### [32:47](https://youtu.be/lk-D9_XTbSc?t=32m47s) Discussion: Take ln (log) of moment generating function, then differentiate twice and evaluate at t=0
+- [35:35](https://youtu.be/lk-D9_XTbSc?t=35m35s) We got the variance of X
+### [36:00](https://youtu.be/lk-D9_XTbSc?t=36m0s) Example: 
+- [37:00](https://youtu.be/lk-D9_XTbSc?t=37m0s) With Poisson 
+- var(X)=lambda
+- [38:40](https://youtu.be/lk-D9_XTbSc?t=38m40s) Example: Binomial
+- [41:00](https://youtu.be/lk-D9_XTbSc?t=41m0s) Use moment generating function instead
+- [43:10](https://youtu.be/lk-D9_XTbSc?t=43m10s) Have moment generating function for a Bernoulli with parameter p
+- Binomial is same as sum of n independent Bernoulli’s with parameter p by uniqueness of moment generating functions 
+- Calculate variance of binomial 
+### [47:52](https://youtu.be/lk-D9_XTbSc?t=47m52s) Definition: Covariance
+- [50:00](https://youtu.be/lk-D9_XTbSc?t=50m0s) If X,Y are independent then cov(X,Y)=0
+- [55:55](https://youtu.be/lk-D9_XTbSc?t=55m55s) Variance of a sum = the sum of variances + twice the sum of the covariances
+- [57:00](https://youtu.be/lk-D9_XTbSc?t=57m0s) If independent then Variance of a sum = the sum of variances 
+### [58:20](https://youtu.be/lk-D9_XTbSc?t=58m20s) Variance of Binomial(n,p)
+### [1:00:40](https://youtu.be/lk-D9_XTbSc?t=1h0m40s) Example:
+
 ## Lecture 10
+
+Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
+
+### [1:10](https://youtu.be/srkdFzcjoS4?t=1m10s) Computations with Joint Normal Distributions
+- [3:10](https://youtu.be/srkdFzcjoS4?t=3m10s) Compute Marginal Density
+- [6:15](https://youtu.be/srkdFzcjoS4?t=6m15s) Complete the square in the exponent - Common technique in normals and joint normals
+- [12:55](https://youtu.be/srkdFzcjoS4?t=12m55s) Arrive at marginal density for X
+#### [14:16](https://youtu.be/srkdFzcjoS4?t=14m16s) Find the conditional density
+- [16:55](https://youtu.be/srkdFzcjoS4?t=16m55s) Start simplifying the equation
+- [24:30](https://youtu.be/srkdFzcjoS4?t=24m30s) Try to get it in form (x-mu)/sigma
+- [26:20](https://youtu.be/srkdFzcjoS4?t=26m20s) One last step...
+- [27:25](https://youtu.be/srkdFzcjoS4?t=27m25s) Solution: normal, with mean...
+- [28:25](https://youtu.be/srkdFzcjoS4?t=28m25s) Observation: Joint normals are independent if and only if rho is zero
+### [29:01](https://youtu.be/srkdFzcjoS4?t=29m1s) Conditional Expectations
+- Are expectations using conditional PMF’s or conditional densities 
+- Discrete
+- Continuous
+### [30:45](https://youtu.be/srkdFzcjoS4?t=30m45s) Example: Conditional Expectation of a Normal
+### [31:10](https://youtu.be/srkdFzcjoS4?t=31m10s) Example: If (X,Y) is joint normal, compute E[X|Y=y]...
+- [36:08](https://youtu.be/srkdFzcjoS4?t=36m8s) Marginal distribution of X
+### [37:15](https://youtu.be/srkdFzcjoS4?t=37m15s) Example: Find conditional expectation for E[U|V=v]
+- Need conditional density: Need joint and marginal densities to get this
+- [38:50](https://youtu.be/srkdFzcjoS4?t=38m50s) Find joint density
+- Jacobian
+- [44:25](https://youtu.be/srkdFzcjoS4?t=44m25s) Conditional density of U given V
+- [46:24](https://youtu.be/srkdFzcjoS4?t=46m24s) We have a gamma, parameter alpha=2 and lambda
+- [47:02](https://youtu.be/srkdFzcjoS4?t=47m2s) Conditional density on U given V is Uniform on 0 to V
+- [47:30] E[U|V=v] = v/2
+### [49:15](https://youtu.be/srkdFzcjoS4?t=49m15s) E[X|Y] = G(Y)
+- E[G(Y)] = 
+- [52:01](https://youtu.be/srkdFzcjoS4?t=52m1s) Conditional Probability * Marginal = Joint
+### [52:25](https://youtu.be/srkdFzcjoS4?t=52m25s) Example: N is Geometric ...
+### [1:00:02](https://youtu.be/srkdFzcjoS4?t=1h0m2s) Example: Compute Moment Generating function
+- [1:05:10](https://youtu.be/srkdFzcjoS4?t=1h5m10s) Reminds us of the geometric series but need to transform
+- [1:08:30](https://youtu.be/srkdFzcjoS4?t=1h8m30s) we’re fine as long as we keep: p<t *lambda
+- [1:10:25](https://youtu.be/srkdFzcjoS4?t=1h10m25s) The moment generating function
+- Will see this in Markov Processes
+### [1:12:30](https://youtu.be/srkdFzcjoS4?t=1h12m30s) Example: Markov’s Inequality/Chebychev’s Inequality -Suppose E[X^2] < infinity...
+### [1:19:08](https://youtu.be/srkdFzcjoS4?t=1h19m8s) Example: Use last result: Chebychev’s Inequality
+- [1:20:30](https://youtu.be/srkdFzcjoS4?t=1h20m30s) Start on problem here
+- [1:24:40](https://youtu.be/srkdFzcjoS4?t=1h24m40s) We arrive at the "Weak Law of Large Numbers"
+- [1:29:30](https://youtu.be/srkdFzcjoS4?t=1h29m30s) A stronger theorem is true
+### [1:30:40](https://youtu.be/srkdFzcjoS4?t=1h30m40s) Example:
+- [1:30:55](https://youtu.be/srkdFzcjoS4?t=1h30m55s) Fixed mistake in last problem: forgot to square a - million instead of 1000
+- [1:32:10](https://youtu.be/srkdFzcjoS4?t=1h32m10s) Back to problem
+- [1:34:01](https://youtu.be/srkdFzcjoS4?t=1h34m1s) We can do numerical integration
 
 ## Lecture 11
 
