@@ -369,7 +369,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 - [24:30](https://youtu.be/srkdFzcjoS4?t=24m30s) Try to get it in form (x-μ)/σ
 - [26:20](https://youtu.be/srkdFzcjoS4?t=26m20s) One last step...
 - [27:25](https://youtu.be/srkdFzcjoS4?t=27m25s) Solution: normal, with mean...
-- [28:25](https://youtu.be/srkdFzcjoS4?t=28m25s) Observation: Joint normals are independent if and only if rho is zero
+- [28:25](https://youtu.be/srkdFzcjoS4?t=28m25s) Observation: Joint normals are independent if and only if ρ (rho) is zero
 ### [29:01](https://youtu.be/srkdFzcjoS4?t=29m1s) Conditional Expectations
 - Are expectations using conditional PMF’s or conditional densities 
 - Discrete
