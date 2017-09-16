@@ -3,6 +3,8 @@
 
 [UC Irvine:  Introduction to Probability and Statistics](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
 
+[Lecture 1](#lecture-1) | [Lecture 2](#lecture-2) | [Lecture 3](#lecture-3) |
+
 ## Lecture 1
 - [Video](https://youtu.be/GyN4FotAEt8)
 ### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces
