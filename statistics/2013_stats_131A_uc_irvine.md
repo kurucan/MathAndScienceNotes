@@ -406,12 +406,19 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 
 ## Lecture 11
 
+Estimations and parameters - [Video](https://youtu.be/qQlSbVSeHrI)
+
 ## Lecture 12
+Fitting of Probability Distributions - [Video](https://www.youtube.com/watch?v=IFC7GF8cXss)
 
 ## Lecture 13
+Hypothesis Testing - [Video](https://www.youtube.com/watch?v=SetJdDyWHU0)
 
 ## Lecture 14
+Random Sampling - [Video](https://www.youtube.com/watch?v=xuh5dRTd5Os)
 
 ## Lecture 15
+Simple Random Sampling - [Video](https://www.youtube.com/watch?v=sQ_EClUhBf8)
 
 ## Lecture 16
+Final Review - [Video](https://www.youtube.com/watch?v=2WDqb7g5pfQ)
