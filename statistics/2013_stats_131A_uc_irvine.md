@@ -112,8 +112,8 @@
 - [1:26:10](https://youtu.be/Pj5n3FLE0wM?t=1h26m10s) P(a<X≤b) = P(X≤b) - P(X≤a)
 - Integrate from a to b
 - [1:29:55](https://youtu.be/Pj5n3FLE0wM?t=1h29m55s) Normal Random Variable
-#### [1:30:28](https://youtu.be/Pj5n3FLE0wM?t=1h30m28s) Example: X~N( u,sigma^2)
-  - normal, mean u, variance sigma^2
+#### [1:30:28](https://youtu.be/Pj5n3FLE0wM?t=1h30m28s) Example: X~N(μ,σ^2) - σ (sigma)
+  - normal, mean μ, variance σ^2
   - [1:31:38](https://youtu.be/Pj5n3FLE0wM?t=1h31m38s) density is given by ...
 - [1:32:15](https://youtu.be/Pj5n3FLE0wM?t=1h32m15s) if X~N(0,1) then ...
 - [1:32:55](https://youtu.be/Pj5n3FLE0wM?t=1h32m55s) P(-infinity,X , infinity)
@@ -303,7 +303,7 @@
 - N is first time you get a head.  Geometric 
 - E[X] = 1/p
 - [46:45](https://youtu.be/yIn0h984TKg?t=46m45s) The frequency argument
-- mu is used for mean because it’s the greek letter for m.
+- μ (mu) is used for mean because it’s the greek letter for m.
 ### [49:15](https://youtu.be/yIn0h984TKg?t=49m15s) Expected Value Review
 ### [52:15](https://youtu.be/yIn0h984TKg?t=52m15s) Example: Calculate the 3 expected values
 - [55:35](https://youtu.be/yIn0h984TKg?t=55m35s) No integration required. The trick is...
@@ -343,7 +343,7 @@
 - [35:35](https://youtu.be/lk-D9_XTbSc?t=35m35s) We got the variance of X
 ### [36:00](https://youtu.be/lk-D9_XTbSc?t=36m0s) Example: 
 - [37:00](https://youtu.be/lk-D9_XTbSc?t=37m0s) With Poisson 
-- var(X)=lambda
+- var(X)=λ
 - [38:40](https://youtu.be/lk-D9_XTbSc?t=38m40s) Example: Binomial
 - [41:00](https://youtu.be/lk-D9_XTbSc?t=41m0s) Use moment generating function instead
 - [43:10](https://youtu.be/lk-D9_XTbSc?t=43m10s) Have moment generating function for a Bernoulli with parameter p
@@ -366,7 +366,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 - [12:55](https://youtu.be/srkdFzcjoS4?t=12m55s) Arrive at marginal density for X
 #### [14:16](https://youtu.be/srkdFzcjoS4?t=14m16s) Find the conditional density
 - [16:55](https://youtu.be/srkdFzcjoS4?t=16m55s) Start simplifying the equation
-- [24:30](https://youtu.be/srkdFzcjoS4?t=24m30s) Try to get it in form (x-mu)/sigma
+- [24:30](https://youtu.be/srkdFzcjoS4?t=24m30s) Try to get it in form (x-μ)/σ
 - [26:20](https://youtu.be/srkdFzcjoS4?t=26m20s) One last step...
 - [27:25](https://youtu.be/srkdFzcjoS4?t=27m25s) Solution: normal, with mean...
 - [28:25](https://youtu.be/srkdFzcjoS4?t=28m25s) Observation: Joint normals are independent if and only if rho is zero
@@ -382,7 +382,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 - [38:50](https://youtu.be/srkdFzcjoS4?t=38m50s) Find joint density
 - Jacobian
 - [44:25](https://youtu.be/srkdFzcjoS4?t=44m25s) Conditional density of U given V
-- [46:24](https://youtu.be/srkdFzcjoS4?t=46m24s) We have a gamma, parameter alpha=2 and lambda
+- [46:24](https://youtu.be/srkdFzcjoS4?t=46m24s) We have a gamma, parameter alpha=2 and λ
 - [47:02](https://youtu.be/srkdFzcjoS4?t=47m2s) Conditional density on U given V is Uniform on 0 to V
 - [47:30] E[U|V=v] = v/2
 ### [49:15](https://youtu.be/srkdFzcjoS4?t=49m15s) E[X|Y] = G(Y)
@@ -391,7 +391,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 ### [52:25](https://youtu.be/srkdFzcjoS4?t=52m25s) Example: N is Geometric ...
 ### [1:00:02](https://youtu.be/srkdFzcjoS4?t=1h0m2s) Example: Compute Moment Generating function
 - [1:05:10](https://youtu.be/srkdFzcjoS4?t=1h5m10s) Reminds us of the geometric series but need to transform
-- [1:08:30](https://youtu.be/srkdFzcjoS4?t=1h8m30s) we’re fine as long as we keep: p<t *lambda
+- [1:08:30](https://youtu.be/srkdFzcjoS4?t=1h8m30s) we’re fine as long as we keep: p<tλ
 - [1:10:25](https://youtu.be/srkdFzcjoS4?t=1h10m25s) The moment generating function
 - Will see this in Markov Processes
 ### [1:12:30](https://youtu.be/srkdFzcjoS4?t=1h12m30s) Example: Markov’s Inequality/Chebychev’s Inequality -Suppose E[X^2] < infinity...
