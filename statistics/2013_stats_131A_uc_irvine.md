@@ -1,7 +1,6 @@
-# UC Irvine Statistics 131A - Michael C. Cranston Summer 2013
+# UC Irvine Statistics 131A/Summer 2013 - Michael C. Cranston
 
-
-[UC Irvine:  Introduction to Probability and Statistics](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
+Course website:[UC Irvine:  Introduction to Probability and Statistics](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
 
 [Lecture 1](#lecture-1) | [Lecture 2](#lecture-2) | [Lecture 3](#lecture-3) | [Lecture 4](#lecture-4) | [Lecture 5](#lecture-5) | [Lecture 6](#lecture-6) | [Lecture 7](#lecture-7) | [Lecture 8](#lecture-8) | [Lecture 9](#lecture-9) | [Lecture 10](#lecture-10) | [Lecture 11](#lecture-11) | [Lecture 12](#lecture-12) | [Lecture 13](#lecture-13) | [Lecture 14](#lecture-14) | [Lecture 15](#lecture-15) | [Lecture 16](#lecture-16) |
 
@@ -125,50 +124,49 @@
 
 ## Lecture 4
 - Joint Distribution - [Video](https://youtu.be/BV7xnuJNkSQ)
-- Bernoulli Random Variables led to most other rvs studied in the course  [5:40](https://youtu.be/BV7xnuJNkSQ?t=5m40s)
-- PMF: Probability Mass Function of Bernoulli [6:01](https://youtu.be/BV7xnuJNkSQ?t=6m01s)
-- Bernoulli led to Binomial [7:32](https://youtu.be/BV7xnuJNkSQ?t=7m32s)
-- Bernoulli led to Geometric Distribution [10:54](https://youtu.be/BV7xnuJNkSQ?t=10m54s)
-  - Distribution function [12:29](https://youtu.be/BV7xnuJNkSQ?t=12m29s)
-- Bernoulli led to Poisson Distribution [13:04](https://youtu.be/BV7xnuJNkSQ?t=13m04s)
-- Bernoulli led to Normal Distribution [15:01](https://youtu.be/BV7xnuJNkSQ?t=15m01s)
-### Geometric Example [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s)
+- [5:40](https://youtu.be/BV7xnuJNkSQ?t=5m40s) Bernoulli Random Variables led to most other rvs studied in the course
+- [6:01](https://youtu.be/BV7xnuJNkSQ?t=6m01s) PMF: Probability Mass Function of Bernoulli
+- [7:32](https://youtu.be/BV7xnuJNkSQ?t=7m32s) Bernoulli led to Binomial
+- [10:54](https://youtu.be/BV7xnuJNkSQ?t=10m54s) Bernoulli led to Geometric Distribution
+  - [12:29](https://youtu.be/BV7xnuJNkSQ?t=12m29s) Distribution function
+- [13:04](https://youtu.be/BV7xnuJNkSQ?t=13m04s) Bernoulli led to Poisson Distribution
+- [15:01](https://youtu.be/BV7xnuJNkSQ?t=15m01s) Bernoulli led to Normal Distribution
+### [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s) Geometric Example
 - Probability that you have to wait k more trails
 - Result is that it’s like starting at the beginning [30:30](https://youtu.be/BV7xnuJNkSQ?t=30m30s)
   - You are NOT due!
 
-### Continuous Random Variables [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s)
-- Can have flat spots but no jumps [33:55](https://youtu.be/BV7xnuJNkSQ?t=33m55s)
-#### Discussion: Exponential RV with parameter λ [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s)
-- Exponential RV with parameter λ are used to model waiting times eg bus, phone call [37:29](https://youtu.be/BV7xnuJNkSQ?t=37m29s)
-- Same start over property as geometric [38:40](https://youtu.be/BV7xnuJNkSQ?t=38m40s)
-#### Gamma function - closely related to exponential [41:55](https://youtu.be/BV7xnuJNkSQ?t=41m55s)
+### [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s) Continuous Random Variables
+- [33:55](https://youtu.be/BV7xnuJNkSQ?t=33m55s) Can have flat spots but no jumps
+#### [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s) Discussion: Exponential RV with parameter λ
+- [37:29](https://youtu.be/BV7xnuJNkSQ?t=37m29s) Exponential RV with parameter λ are used to model waiting times eg bus, phone call
+- [38:40](https://youtu.be/BV7xnuJNkSQ?t=38m40s) Same start over property as geometric
+#### [41:55](https://youtu.be/BV7xnuJNkSQ?t=41m55s) Gamma function - closely related to exponential
 - integrate by parts
-- Gamma(n)=(n-1)! [46:40](https://youtu.be/BV7xnuJNkSQ?t=46m40s)
-  - Discussion: ...to find density [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s)
-  - Waiting until n occurrence [50:50](https://youtu.be/BV7xnuJNkSQ?t=50m50s)
-  - Finishing Gamma Random Variable [51:34](https://youtu.be/BV7xnuJNkSQ?t=51m34s)
-
-### Functions of Random Variables [56:55](https://youtu.be/BV7xnuJNkSQ?t=56m55s)
-- A function of a rv is a rv [58:40](https://youtu.be/BV7xnuJNkSQ?t=58m40s)
+- [46:40](https://youtu.be/BV7xnuJNkSQ?t=46m40s) Gamma(n)=(n-1)!
+  - [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s) Discussion: ...to find density
+  - [50:50](https://youtu.be/BV7xnuJNkSQ?t=50m50s) Waiting until n occurrence
+  - [51:34](https://youtu.be/BV7xnuJNkSQ?t=51m34s) Finishing Gamma Random Variable
+### [56:55](https://youtu.be/BV7xnuJNkSQ?t=56m55s) Functions of Random Variables
+- [58:40](https://youtu.be/BV7xnuJNkSQ?t=58m40s) A function of a rv is a rv
 - The distribution function of the new rv is P(g(X)≤x)
-- If g(X) is decreasing... [1:04:40](https://youtu.be/BV7xnuJNkSQ?t=1h4m40s)
-#### Example: Find P(Y≤x), given Y=...[1:10:15](https://youtu.be/BV7xnuJNkSQ?t=1hms)
-- Density of distribution function is its derivative [1:13:54](https://youtu.be/BV7xnuJNkSQ?t=1h13m54s)
+- [1:04:40](https://youtu.be/BV7xnuJNkSQ?t=1h4m40s) If g(X) is decreasing...
+####[1:10:15](https://youtu.be/BV7xnuJNkSQ?t=1hms) Example: Find P(Y≤x), given Y=...
+- [1:13:54](https://youtu.be/BV7xnuJNkSQ?t=1h13m54s) Density of distribution function is its derivative
 
-### Joint Distributions [1:25:30](https://youtu.be/BV7xnuJNkSQ?t=1h25m30s)
+### [1:25:30](https://youtu.be/BV7xnuJNkSQ?t=1h25m30s) Joint Distributions
 - eg. Shoe size father/son
-- Joint PMF [1:31:20](https://youtu.be/BV7xnuJNkSQ?t=1h31m20s)
-- We say (X,Y) has joint distribution function F if P(X≤x,Y≤y)=F(x,y) [1:34:38](https://youtu.be/BV7xnuJNkSQ?t=1h34m38s)
-- Continuous Random Variable Case [1:36:35](https://youtu.be/BV7xnuJNkSQ?t=1h36m35s)
-#### Example: [1:37:20](https://youtu.be/BV7xnuJNkSQ?t=1h37m35s)
+- [1:31:20](https://youtu.be/BV7xnuJNkSQ?t=1h31m20s) Joint PMF
+- [1:34:38](https://youtu.be/BV7xnuJNkSQ?t=1h34m38s) We say (X,Y) has joint distribution function F if P(X≤x,Y≤y)=F(x,y)
+- [1:36:35](https://youtu.be/BV7xnuJNkSQ?t=1h36m35s) Continuous Random Variable Case
+#### [1:37:20](https://youtu.be/BV7xnuJNkSQ?t=1h37m35s) Example:
 
 
 ## Lecture 5
 - Expected Values - [Video](https://youtu.be/UdJr5xO5XzI)
-### Jointly Distributed Random Variables [1:36](https://youtu.be/UdJr5xO5XzI?t=1m36s)
-#### Example: (X,Y) is uniformly distribute on ...[5:40](https://youtu.be/UdJr5xO5XzI?t=5m40s)
-- What does it mean that Z is uniformly distributed on interval [a,b]? [7:09](https://youtu.be/UdJr5xO5XzI?t=7m9s)
+### [1:36](https://youtu.be/UdJr5xO5XzI?t=1m36s) Jointly Distributed Random Variables
+####[5:40](https://youtu.be/UdJr5xO5XzI?t=5m40s) Example: (X,Y) is uniformly distribute on ...
+- [7:09](https://youtu.be/UdJr5xO5XzI?t=7m9s) What does it mean that Z is uniformly distributed on interval [a,b]?
   - Means the density is equal to 1/length of interval if z is in interval, otherwise 0
   - Density is constant on interval
 - [16:35](https://youtu.be/UdJr5xO5XzI?t=16m35s) Marginal Distributions 
@@ -265,7 +263,7 @@
 - [42:25](https://youtu.be/r4R8aJE-BLo?t=42m25s) Density for ith largest
 - [46:15](https://youtu.be/r4R8aJE-BLo?t=46m15s) Density of median
 - [48:30](https://youtu.be/r4R8aJE-BLo?t=48m30s) Density gets concentrated?...graph
-- [51:25](https://youtu.be/r4R8aJE-BLo?t=51m25s) Suppose i<j...
+- [51:25](https://youtu.be/r4R8aJE-BLo?t=51m25s) Suppose i < j...
 - e.g. quartiles
 - [56:35](https://youtu.be/r4R8aJE-BLo?t=56m35s) Corrections after the break 
 - [59:10](https://youtu.be/r4R8aJE-BLo?t=59m10s) Range: Largest minus smallest
@@ -391,7 +389,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 ### [52:25](https://youtu.be/srkdFzcjoS4?t=52m25s) Example: N is Geometric ...
 ### [1:00:02](https://youtu.be/srkdFzcjoS4?t=1h0m2s) Example: Compute Moment Generating function
 - [1:05:10](https://youtu.be/srkdFzcjoS4?t=1h5m10s) Reminds us of the geometric series but need to transform
-- [1:08:30](https://youtu.be/srkdFzcjoS4?t=1h8m30s) we’re fine as long as we keep: p<tλ
+- [1:08:30](https://youtu.be/srkdFzcjoS4?t=1h8m30s) we’re fine as long as we keep: p < tλ
 - [1:10:25](https://youtu.be/srkdFzcjoS4?t=1h10m25s) The moment generating function
 - Will see this in Markov Processes
 ### [1:12:30](https://youtu.be/srkdFzcjoS4?t=1h12m30s) Example: Markov’s Inequality/Chebychev’s Inequality -Suppose E[X^2] < infinity...
