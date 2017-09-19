@@ -9,7 +9,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 ### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces - [Wikipedia](https://en.wikipedia.org/wiki/Sample_space)
 - Defines the possible outcomes in an experiment
 - Ω
-### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events [Wikipedia](https://en.wikipedia.org/wiki/Event_(probability_theory))
+### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events - [Wikipedia](https://en.wikipedia.org/wiki/Event_(probability_theory))
 #### [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s) Example: Three Heads when Tossing a Coin 6 Times
 #### [32:00](https://youtu.be/GyN4FotAEt8?t=32m00s) Example: Straight Flush
 #### [38:00](https://youtu.be/GyN4FotAEt8?t=38m00s) Example: k Successes Observed
@@ -36,9 +36,9 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 
 ## Lecture 2
 - [Video](https://youtu.be/zboOPK98aGk)
-- Maximum Likelihood Estimator [Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+- Maximum Likelihood Estimator - [Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 - [1:50](https://youtu.be/zboOPK98aGk?t=1m50s) f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator
-### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Discussion: Multinomial Theorem [Wikipedia](https://en.wikipedia.org/wiki/Multinomial_theorem)
+### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Discussion: Multinomial Theorem - [Wikipedia](https://en.wikipedia.org/wiki/Multinomial_theorem)
 - [16:18](https://youtu.be/zboOPK98aGk?t=16m18s) Multi-nomial coefficient
 - [17:45](https://youtu.be/zboOPK98aGk?t=17m45s) Multinomial Thereom Definition
 - [19:30](https://youtu.be/zboOPK98aGk?t=19m30s) Poker Example: 6 people, 5 cards each
@@ -50,7 +50,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [30:30](https://youtu.be/zboOPK98aGk?t=30m30s) Law of Total Probability [Wikipedia](https://en.wikipedia.org/wiki/Law_of_total_probability)
 #### [34:20](https://youtu.be/zboOPK98aGk?t=34m20s) Example: Urn Problem with Gumballs
 #### [51:50](https://youtu.be/zboOPK98aGk?t=51m50s) Bayes Rule
-#### [58:00](https://youtu.be/zboOPK98aGk?t=58m) Independence [Wikipedia](https://en.wikipedia.org/wiki/Independence_(probability_theory))
+#### [58:00](https://youtu.be/zboOPK98aGk?t=58m) Independence - [Wikipedia](https://en.wikipedia.org/wiki/Independence_(probability_theory))
 #### P(A intersect B) = P(A)*P(B)
 - [58:45](https://youtu.be/zboOPK98aGk?t=58m45s) Given independence, P(A|B) = P(A)
 - First toss of coin does not affect second toss - no memory 
@@ -62,7 +62,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 ## Lecture 3
 - Random Variables [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
-### [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s) Random Variables r.v.s.- Assign values to outcomes [Wikipedia](https://en.wikipedia.org/wiki/Random_variable) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
+### [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s) Random Variables r.v.s.- Assign values to outcomes - [Wikipedia](https://en.wikipedia.org/wiki/Random_variable) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
 #### [10:45](https://youtu.be/Pj5n3FLE0wM?t=10m45s) Example:
 - [14:05](https://youtu.be/Pj5n3FLE0wM?t=14m05s) RV is a function on a sample space with real values
@@ -88,19 +88,19 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [38:00](https://youtu.be/Pj5n3FLE0wM?t=38m) PMF - probability mass function - [Wikipedia](https://en.wikipedia.org/wiki/Probability_mass_function)
 - PMF to Distribution function - summation 
 - [42:00](https://youtu.be/Pj5n3FLE0wM?t=42m) Jump size is equal to PMF at a given integer
-#### [42:30](https://youtu.be/Pj5n3FLE0wM?t=42m30s) Example: Geometric Random Variable
+#### [42:30](https://youtu.be/Pj5n3FLE0wM?t=42m30s) Example: Geometric Random Variable - [Wikipedia](https://en.wikipedia.org/wiki/Geometric_distribution)
 - Perform independent Bernoulli trials until a success occurs
 - eg. Toss a coin until heads/roll a die until 3
 - [46:10](https://youtu.be/Pj5n3FLE0wM?t=46m10s) P(X=k) = (1-p)^k-1 * p
-#### [50:00](https://youtu.be/Pj5n3FLE0wM?t=50m) Negative Binomial
+#### [50:00](https://youtu.be/Pj5n3FLE0wM?t=50m) Negative Binomial - [Wikipedia](https://en.wikipedia.org/wiki/Negative_binomial_distribution)
 - Perform Bernoulli trials until r successes occur 
 - PMF: 
 - [54:15](https://youtu.be/Pj5n3FLE0wM?t=54m15s)? CMF:
-#### [55:54](https://youtu.be/Pj5n3FLE0wM?t=55m54s) Poisson Distribution/RV
+#### [55:54](https://youtu.be/Pj5n3FLE0wM?t=55m54s) Poisson Distribution/RV - [Wikipedia](https://en.wikipedia.org/wiki/Poisson_distribution)
 - parameter λ (lambda)
 - Used in counting where there are a large number of events, each with a small probability 
 - [1:00:08](https://youtu.be/Pj5n3FLE0wM?t=1h0m8s) Relationship of Poisson to Binomial
-- [1:04:35](https://youtu.be/Pj5n3FLE0wM?t=1h04m35s) Used L’Hospital’s Rule
+- [1:04:35](https://youtu.be/Pj5n3FLE0wM?t=1h04m35s) Used L’Hospital’s Rule - [Wikipedia](https://en.wikipedia.org/wiki/L%27Hôpital%27s_rule) | [Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-lhopitals-rule/v/introduction-to-l-hopital-s-rule)
 - [1:15:45](https://youtu.be/Pj5n3FLE0wM?t=1h15m45s) General Solution
 - Large trials with a small probability of success- Bernoulli RV is almost like a Poisson RV
 ### [1:18:55](https://youtu.be/Pj5n3FLE0wM?t=1h18m55s) Continuous random variables
