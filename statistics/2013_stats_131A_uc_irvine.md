@@ -408,8 +408,79 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 
 Estimations and parameters - [Video](https://youtu.be/qQlSbVSeHrI)
 
+### Central Limit Theorem
+- Classical proven for binomial random variables
+- [7:10] Compute moment generating function
+- [18:15] Continuity Theorem [Wikipedia](https://en.m.wikipedia.org/wiki/Lévy%27s_continuity_theorem)
+- ### [21:55] Example: Bernoulli r.v.s. with probability p of success then ...
+- [24:25] If n=20, p=1/4, appropriate P(Sn > 3/8n)
+- [27:40] Instead of calculating directly, get into form where we can use the Central Limit Theorem
+- [32:25] Now we use the table: 1 - .9015 = .0985
+- ### [33:45] CLT appears in other forms
+- Poisson rvs with large lambda
+- [37:35] Questions about RV: 
+- Calculate moment generating function
+- [40:10] e^x for a really small x approximates to: 1+x+x^2/2
+- [42:40] .. by the Continuity Theorem...
+- #### [44:05] Example: X~P(81), approximate P(X<=72)
+- Explicit with sum
+- Instead, use Normal approximation
+- P(Z<1)=1 - .8413 = .1587
+- ### [49:02] Class Question: Finding the margin of error
+- Berry-Esseen Theorem
+- ### [50:40] If X~Bi(n,p), E[X]=np, what’s var(X)= ? np(1-p)
+- If p is fixed...
+- [52:32] Sums of Bernoulli’s are binomial 
+- ### [53:45] Example: If you roll a die 3600 times, approximate the probability that you have...
+- [56:35] P(550<= X<=650) =
+- Explicit sum
+- [57:34] Use Normal Approximation 
+- n=3600, p=1/6,np = 600
+- P(-sqrt(5)<= Z <=sqrt(5))
+- =2*0.9875 - 1 = .9750
+- [1:05:02] For continuous r.v.s. the probability of being equal to specific value is 0 -- Explanation follows
+- #### [1:07:10] Example: If U is a continuous r.v. and V is independent of U what is P(U=V)?
+- [1:11:25] If V is continuous, ...
+- #### [1:14:30] Example: P(U<=V)?
+- #### [1:18:10] Example: P(U^2 >= V^2)
+- #### [1:20:25] Distribution of U^2
+- Starting Chapter 6 in book
+- Chi-squared with 1 degree of freedom
+- ### [1:21:10] Discussion: If U~N(0,1) then ...
+- Comes up in sampling
+- [1:22:10] Compute moment generating function for U^2
+- If t=1, it’s infinite so it won’t work
+- [1:32:35] Chi-squared with 1 degree freedom = Gamma(1/2,1/2)
+- [1:32:55] If U1,...,Un are iid then Chi-squared with n degrees of freedom 
+- Moment generating function
+
 ## Lecture 12
 Fitting of Probability Distributions - [Video](https://www.youtube.com/watch?v=IFC7GF8cXss)
+- ### Difficult Exercise Problem:
+- ### [6:30] Problem 29: 
+- Let U1,...Un be iid U[0,1]...
+- #### [7:38] Find CDF
+- Expected value of max: n/(n+1)
+- [13:20] Find variance of max
+- [17:35] ...
+- [29:02] Solution
+- [31:25] Three kinds of limits or CDF’S - Extreme value distributions
+- ### [33:35] Chi-squared definitions
+- ### [35:35] Other distributions arising from N(0,1) (normal)
+- Fmn distribution
+- ### [39:35] PDF and CDF for ratios
+- Compute PDF for Fmn
+- ### [1:02:25] - Student-t distribution
+- Used for small samples
+- Challenge: Derive density
+- ### [1:05:45] Discussion:
+- unbiased statistic
+- unbiased estimator
+- [1:12:05] Show moment generating function factors into a product to show independence
+- [1:25:20] Examine what the variance is.
+- [1:30:10] We have independence
+- [1:31:30] Theorem: 
+- [1:33:02] Y, X independent implies Y, g(X) independent - if sample is normal
 
 ## Lecture 13
 Hypothesis Testing - [Video](https://www.youtube.com/watch?v=SetJdDyWHU0)
