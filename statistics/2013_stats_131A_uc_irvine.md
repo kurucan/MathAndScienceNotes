@@ -116,8 +116,8 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
   - [1:31:38](https://youtu.be/Pj5n3FLE0wM?t=1h31m38s) density is given by ...
 - [1:32:15](https://youtu.be/Pj5n3FLE0wM?t=1h32m15s) if X~N(0,1) then ...
 - [1:32:55](https://youtu.be/Pj5n3FLE0wM?t=1h32m55s) P(-infinity,X , infinity)
-- Integral should be 1
-- Can’t integrate - squaring...
+  - Integral should be 1
+  - Can’t integrate - squaring...
 - [1:37:40](https://youtu.be/Pj5n3FLE0wM?t=1h37m40s) Switch to polar coordinates
 - [1:40:08](https://youtu.be/Pj5n3FLE0wM?t=1h40m08s) If X is Bin(n,1/2) - like tossing coin and counting heads
 - When n is large, it is essentially a Normal Random Variable - Central Limit Theorem 
@@ -133,7 +133,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [15:01](https://youtu.be/BV7xnuJNkSQ?t=15m01s) Bernoulli led to Normal Distribution
 ### [17:21](https://youtu.be/BV7xnuJNkSQ?t=17m21s) Geometric Example
 - Probability that you have to wait k more trails
-- Result is that it’s like starting at the beginning [30:30](https://youtu.be/BV7xnuJNkSQ?t=30m30s)
+- [30:30](https://youtu.be/BV7xnuJNkSQ?t=30m30s) Result is that it’s like starting at the beginning
   - You are NOT due!
 
 ### [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s) Continuous Random Variables
