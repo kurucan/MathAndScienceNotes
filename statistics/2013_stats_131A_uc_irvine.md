@@ -410,77 +410,77 @@ Estimations and parameters - [Video](https://youtu.be/qQlSbVSeHrI)
 
 ### Central Limit Theorem
 - Classical proven for binomial random variables
-- [7:10] Compute moment generating function
-- [18:15] Continuity Theorem [Wikipedia](https://en.m.wikipedia.org/wiki/Lévy%27s_continuity_theorem)
-- ### [21:55] Example: Bernoulli r.v.s. with probability p of success then ...
-- [24:25] If n=20, p=1/4, appropriate P(Sn > 3/8n)
-- [27:40] Instead of calculating directly, get into form where we can use the Central Limit Theorem
-- [32:25] Now we use the table: 1 - .9015 = .0985
-- ### [33:45] CLT appears in other forms
+- [7:10](https://youtu.be/qQlSbVSeHrI?t=7m10s) Compute moment generating function
+- [18:15](https://youtu.be/qQlSbVSeHrI?t=18m15s) Continuity Theorem [Wikipedia](https://en.m.wikipedia.org/wiki/Lévy%27s_continuity_theorem)
+### [21:55](https://youtu.be/qQlSbVSeHrI?t=21m55s) Example: Bernoulli r.v.s. with probability p of success then ...
+- [24:25](https://youtu.be/qQlSbVSeHrI?t=24m25s) If n=20, p=1/4, appropriate P(Sn > 3/8n)
+- [27:40](https://youtu.be/qQlSbVSeHrI?t=27m40s) Instead of calculating directly, get into form where we can use the Central Limit Theorem
+- [32:25](https://youtu.be/qQlSbVSeHrI?t=32m25s) Now we use the table: 1 - .9015 = .0985
+### [33:45](https://youtu.be/qQlSbVSeHrI?t=33m45s) CLT appears in other forms
 - Poisson rvs with large lambda
-- [37:35] Questions about RV: 
+- [37:35](https://youtu.be/qQlSbVSeHrI?t=37m35s) Questions about RV: 
 - Calculate moment generating function
-- [40:10] e^x for a really small x approximates to: 1+x+x^2/2
-- [42:40] .. by the Continuity Theorem...
-- #### [44:05] Example: X~P(81), approximate P(X<=72)
+- [40:10](https://youtu.be/qQlSbVSeHrI?t=40m10s) e^x for a really small x approximates to: 1+x+x^2/2
+- [42:40](https://youtu.be/qQlSbVSeHrI?t=42m40s) ... by the Continuity Theorem...
+#### [44:05](https://youtu.be/qQlSbVSeHrI?t=44m5s) Example: X~P(81), approximate P(X<=72)
 - Explicit with sum
 - Instead, use Normal approximation
 - P(Z<1)=1 - .8413 = .1587
-- ### [49:02] Class Question: Finding the margin of error
+- ### [49:02](https://youtu.be/qQlSbVSeHrI?t=49m2s) Class Question: Finding the margin of error
 - Berry-Esseen Theorem
-- ### [50:40] If X~Bi(n,p), E[X]=np, what’s var(X)= ? np(1-p)
+### [50:40](https://youtu.be/qQlSbVSeHrI?t=50m40s) If X~Bi(n,p), E[X]=np, what’s var(X)= ? np(1-p)
 - If p is fixed...
-- [52:32] Sums of Bernoulli’s are binomial 
-- ### [53:45] Example: If you roll a die 3600 times, approximate the probability that you have...
-- [56:35] P(550<= X<=650) =
+- [52:32](https://youtu.be/qQlSbVSeHrI?t=52m32s) Sums of Bernoulli’s are binomial 
+### [53:45](https://youtu.be/qQlSbVSeHrI?t=53m45s) Example: If you roll a die 3600 times, approximate the probability that you have...
+- [56:35](https://youtu.be/qQlSbVSeHrI?t=56m35s) P(550<= X<=650) =
 - Explicit sum
-- [57:34] Use Normal Approximation 
+- [57:34](https://youtu.be/qQlSbVSeHrI?t=57m34s) Use Normal Approximation
 - n=3600, p=1/6,np = 600
 - P(-sqrt(5)<= Z <=sqrt(5))
 - =2*0.9875 - 1 = .9750
-- [1:05:02] For continuous r.v.s. the probability of being equal to specific value is 0 -- Explanation follows
-- #### [1:07:10] Example: If U is a continuous r.v. and V is independent of U what is P(U=V)?
-- [1:11:25] If V is continuous, ...
-- #### [1:14:30] Example: P(U<=V)?
-- #### [1:18:10] Example: P(U^2 >= V^2)
-- #### [1:20:25] Distribution of U^2
+- [1:05:02](https://youtu.be/qQlSbVSeHrI?t=1hms) For continuous r.v.s. the probability of being equal to specific value is 0 -- Explanation follows
+#### [1:07:10](https://youtu.be/qQlSbVSeHrI?t=1h7m10s) Example: If U is a continuous r.v. and V is independent of U what is P(U=V)?
+- [1:11:25](https://youtu.be/qQlSbVSeHrI?t=1h11m25s) If V is continuous, ...
+#### [1:14:30](https://youtu.be/qQlSbVSeHrI?t=1h14m30s) Example: P(U<=V)?
+#### [1:18:10](https://youtu.be/qQlSbVSeHrI?t=1h18m10s) Example: P(U^2 >= V^2)
+#### [1:20:25](https://youtu.be/qQlSbVSeHrI?t=1h20m25s) Distribution of U^2
 - Starting Chapter 6 in book
 - Chi-squared with 1 degree of freedom
-- ### [1:21:10] Discussion: If U~N(0,1) then ...
+### [1:21:10](https://youtu.be/qQlSbVSeHrI?t=1h21m10s) Discussion: If U~N(0,1) then ...
 - Comes up in sampling
-- [1:22:10] Compute moment generating function for U^2
+- [1:22:10](https://youtu.be/qQlSbVSeHrI?t=1h22m10s) Compute moment generating function for U^2
 - If t=1, it’s infinite so it won’t work
-- [1:32:35] Chi-squared with 1 degree freedom = Gamma(1/2,1/2)
-- [1:32:55] If U1,...,Un are iid then Chi-squared with n degrees of freedom 
+- [1:32:35](https://youtu.be/qQlSbVSeHrI?t=1h32m35s) Chi-squared with 1 degree freedom = Gamma(1/2,1/2)
+- [1:32:55](https://youtu.be/qQlSbVSeHrI?t=1h32m55s) If U1,...,Un are iid then Chi-squared with n degrees of freedom 
 - Moment generating function
 
 ## Lecture 12
 Fitting of Probability Distributions - [Video](https://www.youtube.com/watch?v=IFC7GF8cXss)
-- ### Difficult Exercise Problem:
-- ### [6:30] Problem 29: 
+### Difficult Exercise Problem:
+### [6:30](https://youtu.be/IFC7GF8cXss?t=6m30s) Problem 29: 
 - Let U1,...Un be iid U[0,1]...
-- #### [7:38] Find CDF
+#### [7:38](https://youtu.be/IFC7GF8cXss?t=7m38s) Find CDF
 - Expected value of max: n/(n+1)
-- [13:20] Find variance of max
-- [17:35] ...
-- [29:02] Solution
-- [31:25] Three kinds of limits or CDF’S - Extreme value distributions
-- ### [33:35] Chi-squared definitions
-- ### [35:35] Other distributions arising from N(0,1) (normal)
+- [13:20](https://youtu.be/IFC7GF8cXss?t=13m20s) Find variance of max
+- [17:35](https://youtu.be/IFC7GF8cXss?t=17m35s) ...
+- [29:02](https://youtu.be/IFC7GF8cXss?t=29m2s) Solution
+- [31:25](https://youtu.be/IFC7GF8cXss?t=31m25s) Three kinds of limits or CDF’S - Extreme value distributions
+### [33:35](https://youtu.be/IFC7GF8cXss?t=33m35s) Chi-squared definitions
+### [35:35](https://youtu.be/IFC7GF8cXss?t=35m35s) Other distributions arising from N(0,1) (normal)
 - Fmn distribution
-- ### [39:35] PDF and CDF for ratios
+### [39:35](https://youtu.be/IFC7GF8cXss?t=39m35s) PDF and CDF for ratios
 - Compute PDF for Fmn
-- ### [1:02:25] - Student-t distribution
+### [1:02:25](https://youtu.be/IFC7GF8cXss?t=1h2m25s) - Student-t distribution
 - Used for small samples
 - Challenge: Derive density
-- ### [1:05:45] Discussion:
+### [1:05:45](https://youtu.be/IFC7GF8cXss?t=1h5m45s) Discussion:
 - unbiased statistic
 - unbiased estimator
-- [1:12:05] Show moment generating function factors into a product to show independence
-- [1:25:20] Examine what the variance is.
-- [1:30:10] We have independence
-- [1:31:30] Theorem: 
-- [1:33:02] Y, X independent implies Y, g(X) independent - if sample is normal
+- [1:12:05](https://youtu.be/IFC7GF8cXss?t=1h12m5s) Show moment generating function factors into a product to show independence
+- [1:25:20](https://youtu.be/IFC7GF8cXss?t=1h25m20s) Examine what the variance is.
+- [1:30:10](https://youtu.be/IFC7GF8cXss?t=1h30m10s) We have independence
+- [1:31:30](https://youtu.be/IFC7GF8cXss?t=1h31m30s) Theorem: 
+- [1:33:02](https://youtu.be/IFC7GF8cXss?t=1h33m2s) Y, X independent implies Y, g(X) independent - if sample is normal
 
 ## Lecture 13
 Hypothesis Testing - [Video](https://www.youtube.com/watch?v=SetJdDyWHU0)
