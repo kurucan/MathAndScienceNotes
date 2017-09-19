@@ -6,10 +6,10 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 
 ## Lecture 1
 - [Video](https://youtu.be/GyN4FotAEt8)
-### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces
+### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces - [Wikipedia](https://en.wikipedia.org/wiki/Sample_space)
 - Defines the possible outcomes in an experiment
 - Ω
-### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events
+### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events [Wikipedia](https://en.wikipedia.org/wiki/Event_(probability_theory))
 #### [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s) Example: Three Heads when Tossing a Coin 6 Times
 #### [32:00](https://youtu.be/GyN4FotAEt8?t=32m00s) Example: Straight Flush
 #### [38:00](https://youtu.be/GyN4FotAEt8?t=38m00s) Example: k Successes Observed
@@ -36,9 +36,9 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 
 ## Lecture 2
 - [Video](https://youtu.be/zboOPK98aGk)
-- Maximum Likelihood Estimator
+- Maximum Likelihood Estimator [Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 - [1:50](https://youtu.be/zboOPK98aGk?t=1m50s) f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator
-### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Discussion: Multinomial Theorem
+### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Discussion: Multinomial Theorem [Wikipedia](https://en.wikipedia.org/wiki/Multinomial_theorem)
 - [16:18](https://youtu.be/zboOPK98aGk?t=16m18s) Multi-nomial coefficient
 - [17:45](https://youtu.be/zboOPK98aGk?t=17m45s) Multinomial Thereom Definition
 - [19:30](https://youtu.be/zboOPK98aGk?t=19m30s) Poker Example: 6 people, 5 cards each
@@ -47,10 +47,10 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 ### [25:00](https://youtu.be/zboOPK98aGk?t=25m) Conditional probability and independence
 - P(A|B)=P(A intersect B)/P(B) - 
 #### [26:30](https://youtu.be/zboOPK98aGk?t=26m30s) Example: Roll fair dice... P(roll six|dice is even)
-- [30:30](https://youtu.be/zboOPK98aGk?t=30m30s) Law of Total Probability
+- [30:30](https://youtu.be/zboOPK98aGk?t=30m30s) Law of Total Probability [Wikipedia](https://en.wikipedia.org/wiki/Law_of_total_probability)
 #### [34:20](https://youtu.be/zboOPK98aGk?t=34m20s) Example: Urn Problem with Gumballs
 #### [51:50](https://youtu.be/zboOPK98aGk?t=51m50s) Bayes Rule
-#### [58:00](https://youtu.be/zboOPK98aGk?t=58m) Independence
+#### [58:00](https://youtu.be/zboOPK98aGk?t=58m) Independence [Wikipedia](https://en.wikipedia.org/wiki/Independence_(probability_theory))
 #### P(A intersect B) = P(A)*P(B)
 - [58:45](https://youtu.be/zboOPK98aGk?t=58m45s) Given independence, P(A|B) = P(A)
 - First toss of coin does not affect second toss - no memory 
@@ -62,7 +62,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 ## Lecture 3
 - Random Variables [Video](https://youtu.be/Pj5n3FLE0wM)
 - Problem 74 - 
-### [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s) Random Variables r.v.s.- Assign values to outcomes
+### [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s) Random Variables r.v.s.- Assign values to outcomes [Wikipedia](https://en.wikipedia.org/wiki/Random_variable) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
 #### [10:45](https://youtu.be/Pj5n3FLE0wM?t=10m45s) Example:
 - [14:05](https://youtu.be/Pj5n3FLE0wM?t=14m05s) RV is a function on a sample space with real values
@@ -73,19 +73,19 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [21:00](https://youtu.be/Pj5n3FLE0wM?t=21m) F is right continuous
 - [21:45](https://youtu.be/Pj5n3FLE0wM?t=21m45s) Distribution Function
 - (e.g. Normal, Uniform,Poisson)
-### [22:45](https://youtu.be/Pj5n3FLE0wM?t=22m45s) Two major classes of rvs
+### [22:45](https://youtu.be/Pj5n3FLE0wM?t=22m45s) Two major classes of rvs [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/discrete-and-continuous-random-variables)
 - Discrete - distribution function has jumps interrupted by flat spots
 - [25:05](https://youtu.be/Pj5n3FLE0wM?t=25m05s) Continuous - distribution function is continuous
 #### [26:15](https://youtu.be/Pj5n3FLE0wM?t=26m15s) Examples of Discrete r.v.
 ### Cumulative distribution function - CDF
-### [27:45](https://youtu.be/Pj5n3FLE0wM?t=27m45s) Bernoulli Distribution/RV
+### [27:45](https://youtu.be/Pj5n3FLE0wM?t=27m45s) Bernoulli Distribution/RV - [Wikipedia](https://en.wikipedia.org/wiki/Bernoulli_distribution)
 - P(X=0) = 1-p
 - P(X=1) = p
-### [31:35](https://youtu.be/Pj5n3FLE0wM?t=31m35s) Binomial R.V.
+### [31:35](https://youtu.be/Pj5n3FLE0wM?t=31m35s) Binomial R.V. - [Wikipedia](https://en.wikipedia.org/wiki/Binomial_distribution) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution)
 - n independent Bernoulli trials are performed 
 - X is # successes in n trials
 - X will be number b/w 0 and n
-- [38:00](https://youtu.be/Pj5n3FLE0wM?t=38m) PMF - probability mass function
+- [38:00](https://youtu.be/Pj5n3FLE0wM?t=38m) PMF - probability mass function - [Wikipedia](https://en.wikipedia.org/wiki/Probability_mass_function)
 - PMF to Distribution function - summation 
 - [42:00](https://youtu.be/Pj5n3FLE0wM?t=42m) Jump size is equal to PMF at a given integer
 #### [42:30](https://youtu.be/Pj5n3FLE0wM?t=42m30s) Example: Geometric Random Variable
@@ -138,10 +138,10 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 
 ### [31:50](https://youtu.be/BV7xnuJNkSQ?t=31m50s) Continuous Random Variables
 - [33:55](https://youtu.be/BV7xnuJNkSQ?t=33m55s) Can have flat spots but no jumps
-#### [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s) Discussion: Exponential RV with parameter λ
+#### [33:08](https://youtu.be/BV7xnuJNkSQ?t=33m08s) Discussion: Exponential RV with parameter λ - [Wikipedia](https://en.wikipedia.org/wiki/Exponential_distribution)
 - [37:29](https://youtu.be/BV7xnuJNkSQ?t=37m29s) Exponential RV with parameter λ are used to model waiting times eg bus, phone call
 - [38:40](https://youtu.be/BV7xnuJNkSQ?t=38m40s) Same start over property as geometric
-#### [41:55](https://youtu.be/BV7xnuJNkSQ?t=41m55s) Gamma function - closely related to exponential
+#### [41:55](https://youtu.be/BV7xnuJNkSQ?t=41m55s) Gamma function - closely related to exponential - [Wikipedia](https://en.wikipedia.org/wiki/Gamma_distribution)
 - integrate by parts
 - [46:40](https://youtu.be/BV7xnuJNkSQ?t=46m40s) Gamma(n)=(n-1)!
   - [47:30](https://youtu.be/BV7xnuJNkSQ?t=47m30s) Discussion: ...to find density
@@ -154,7 +154,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 ####[1:10:15](https://youtu.be/BV7xnuJNkSQ?t=1hms) Example: Find P(Y≤x), given Y=...
 - [1:13:54](https://youtu.be/BV7xnuJNkSQ?t=1h13m54s) Density of distribution function is its derivative
 
-### [1:25:30](https://youtu.be/BV7xnuJNkSQ?t=1h25m30s) Joint Distributions
+### [1:25:30](https://youtu.be/BV7xnuJNkSQ?t=1h25m30s) Joint Distributions - [Wikipedia](https://en.wikipedia.org/wiki/Joint_probability_distribution)
 - eg. Shoe size father/son
 - [1:31:20](https://youtu.be/BV7xnuJNkSQ?t=1h31m20s) Joint PMF
 - [1:34:38](https://youtu.be/BV7xnuJNkSQ?t=1h34m38s) We say (X,Y) has joint distribution function F if P(X≤x,Y≤y)=F(x,y)
@@ -169,13 +169,13 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [7:09](https://youtu.be/UdJr5xO5XzI?t=7m9s) What does it mean that Z is uniformly distributed on interval [a,b]?
   - Means the density is equal to 1/length of interval if z is in interval, otherwise 0
   - Density is constant on interval
-- [16:35](https://youtu.be/UdJr5xO5XzI?t=16m35s) Marginal Distributions 
+- [16:35](https://youtu.be/UdJr5xO5XzI?t=16m35s) Marginal Distributions - [Wikipedia](https://en.wikipedia.org/wiki/Marginal_distribution) | [Khan Academy](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/distributions-two-way-tables/v/marginal-distribution-and-conditional-distribution)
   - When you have the joint distribution of X and Y, you can retrieve the individual distributions of X and Y.
   - Just integrate out the other variable. Take other var to infinity
 #### [40:54](https://youtu.be/UdJr5xO5XzI?t=40m54s) Discussion: From a joint distribution function F(x,y) at (X,Y), we can retrieve the marginal distribution functions ... 
 ### [46:40](https://youtu.be/UdJr5xO5XzI?t=46m40s) Example: Suppose we have a pair of rvs and their joint density is...Find marginal densities of X and Y
 - Integrate out one variable at a time
-- [54:40](https://youtu.be/UdJr5xO5XzI?t=54m40s) Conditional Densities
+- [54:40](https://youtu.be/UdJr5xO5XzI?t=54m40s) Conditional Densities - [Wikipedia](https://en.wikipedia.org/wiki/Conditional_probability_distribution)
 - [56:50](https://youtu.be/UdJr5xO5XzI?t=56m50s) Discrete case: Joint probability mass function /Marginal
 - [57:25](https://youtu.be/UdJr5xO5XzI?t=57m25s) Compute conditional densities for the example
 - [58:30](https://youtu.be/UdJr5xO5XzI?t=58m30s) Integral sign stands for letter S
@@ -220,10 +220,10 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - Sum of two random variables is a special case of a function of two random variables
 - ### [49:25](https://youtu.be/IGRl1PKevT4?t=49m25s) Distribution function for a ratio
 - Another example of a function of two random variables
-- [56:15](https://youtu.be/IGRl1PKevT4?t=56m15s) Example from book - It’s a Cauchy Distribution
+- [56:15](https://youtu.be/IGRl1PKevT4?t=56m15s) Example from book - It’s a Cauchy Distribution - [Wikipedia](https://en.wikipedia.org/wiki/Cauchy_distribution)
 ### [57:55](https://youtu.be/IGRl1PKevT4?t=57m55s) You might have two functions ...
 - [59:25](https://youtu.be/IGRl1PKevT4?t=59m25s) We can compute the density of two new rvs if we know the joint densities of the old ones, X & Y.
-- Uses Jacobian 
+- Uses Jacobian Matrix
 #### [1:02:30](https://youtu.be/IGRl1PKevT4?t=1h2m30s) Example:
 - [1:05:35](https://youtu.be/IGRl1PKevT4?t=1h5m35s) Invert matrix
 - [1:08:20](https://youtu.be/IGRl1PKevT4?t=1h8m20s) Jacobian of transformation...
@@ -310,7 +310,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [1:07:48](https://youtu.be/yIn0h984TKg?t=1h7m48s) Part 3:
 - Definition: var(X) for discrete and continuous cases
 - [1:11:30](https://youtu.be/yIn0h984TKg?t=1h11m30s) Combine the exponentials
-- [1:18:00](https://youtu.be/yIn0h984TKg?t=1h18m0s) The Moment Generating Function - Uniquely determine the distribution of the r.v.
+- [1:18:00](https://youtu.be/yIn0h984TKg?t=1h18m0s) The Moment Generating Function - Uniquely determine the distribution of the r.v. - [Wikipedia](https://en.wikipedia.org/wiki/Moment-generating_function)
 ### [1:20:20](https://youtu.be/yIn0h984TKg?t=1h20m20s) Example: Gamma Moment Generating Function 
 - Don’t have to do integration with gammas
 - [1:23:10](https://youtu.be/yIn0h984TKg?t=1h23m10s) Combine the exponential terms
@@ -378,7 +378,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 ### [37:15](https://youtu.be/srkdFzcjoS4?t=37m15s) Example: Find conditional expectation for E[U|V=v]
 - Need conditional density: Need joint and marginal densities to get this
 - [38:50](https://youtu.be/srkdFzcjoS4?t=38m50s) Find joint density
-- Jacobian
+- Jacobian Matrix
 - [44:25](https://youtu.be/srkdFzcjoS4?t=44m25s) Conditional density of U given V
 - [46:24](https://youtu.be/srkdFzcjoS4?t=46m24s) We have a gamma, parameter alpha=2 and λ
 - [47:02](https://youtu.be/srkdFzcjoS4?t=47m2s) Conditional density on U given V is Uniform on 0 to V
@@ -406,7 +406,7 @@ Survey Sampling - [Video](https://youtu.be/srkdFzcjoS4)
 
 Estimations and parameters - [Video](https://youtu.be/qQlSbVSeHrI)
 
-### Central Limit Theorem
+### Central Limit Theorem [Wikipedia](https://en.wikipedia.org/wiki/Central_limit_theorem) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/central-limit-theorem)
 - Classical proven for binomial random variables
 - [7:10](https://youtu.be/qQlSbVSeHrI?t=7m10s) Compute moment generating function
 - [18:15](https://youtu.be/qQlSbVSeHrI?t=18m15s) Continuity Theorem [Wikipedia](https://en.m.wikipedia.org/wiki/Lévy%27s_continuity_theorem)
@@ -425,7 +425,7 @@ Estimations and parameters - [Video](https://youtu.be/qQlSbVSeHrI)
 - Instead, use Normal approximation
 - P(Z<1)=1 - .8413 = .1587
 - ### [49:02](https://youtu.be/qQlSbVSeHrI?t=49m2s) Class Question: Finding the margin of error
-- Berry-Esseen Theorem
+- Berry-Esseen Theorem - [Wikipedia](https://en.wikipedia.org/wiki/Berry–Esseen_theorem)
 ### [50:40](https://youtu.be/qQlSbVSeHrI?t=50m40s) If X~Bi(n,p), E[X]=np, what’s var(X)= ? np(1-p)
 - If p is fixed...
 - [52:32](https://youtu.be/qQlSbVSeHrI?t=52m32s) Sums of Bernoulli’s are binomial 
@@ -463,12 +463,12 @@ Fitting of Probability Distributions - [Video](https://www.youtube.com/watch?v=I
 - [17:35](https://youtu.be/IFC7GF8cXss?t=17m35s) ...
 - [29:02](https://youtu.be/IFC7GF8cXss?t=29m2s) Solution
 - [31:25](https://youtu.be/IFC7GF8cXss?t=31m25s) Three kinds of limits or CDF’S - Extreme value distributions
-### [33:35](https://youtu.be/IFC7GF8cXss?t=33m35s) Chi-squared definitions
+### [33:35](https://youtu.be/IFC7GF8cXss?t=33m35s) Chi-squared definitions - [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared_distribution) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests/v/chi-square-distribution-introduction)
 ### [35:35](https://youtu.be/IFC7GF8cXss?t=35m35s) Other distributions arising from N(0,1) (normal)
 - Fmn distribution
 ### [39:35](https://youtu.be/IFC7GF8cXss?t=39m35s) PDF and CDF for ratios
 - Compute PDF for Fmn
-### [1:02:25](https://youtu.be/IFC7GF8cXss?t=1h2m25s) - Student-t distribution
+### [1:02:25](https://youtu.be/IFC7GF8cXss?t=1h2m25s) - Student-t distribution - [Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-distribution)
 - Used for small samples
 - Challenge: Derive density
 ### [1:05:45](https://youtu.be/IFC7GF8cXss?t=1h5m45s) Discussion:
