@@ -485,36 +485,36 @@ Hypothesis Testing - [Video](https://www.youtube.com/watch?v=SetJdDyWHU0)
 
 ## Example: Poisson rv, what to find conditional PMF related to one of them
 - If X,Y are ind P(lambda) then ...
-### [8:45] If Z is P(2 lambda) and X is Bi(Z, 1/2), find  ...
+### [8:45](https://youtu.be/SetJdDyWHU0?t=8m45s) If Z is P(2 lambda) and X is Bi(Z, 1/2), find  ...
 - Generate Z first
-### [19:25] Example: F m,n
+### [19:25](https://youtu.be/SetJdDyWHU0?t=19m25s) Example: F m,n
 - Density for an F m,n rv is ...
-- [22:50] Suppose X and Y are...
-- [25:10] CDF: F(z) = P(X/Y <= z)
+- [22:50](https://youtu.be/SetJdDyWHU0?t=22m50s) Suppose X and Y are...
+- [25:10](https://youtu.be/SetJdDyWHU0?t=25m10s) CDF: F(z) = P(X/Y <= z)
 - Find pdf from cdf.  take derivative
-- [29:30] A line with slope 1/Z
+- [29:30](https://youtu.be/SetJdDyWHU0?t=29m30s) A line with slope 1/Z
 - Want above the line in first quadrant
-- [37:55] Differentiate
-- [40:40] X/Y ~ F2,2
-### [41:35] Last time we establish ...
-- [44:01] x bar is an estimate for mu, since we don’t know mu
-- [45:55] How can that be true?
-- [58:40] T-Distribution with n-1 degrees of freedom. It compares sample mean to sample variance. 
-### [1:01:25] Summarizing: ...
-### [1:02:50] Chapter 7: Sampling
+- [37:55](https://youtu.be/SetJdDyWHU0?t=37m55s) Differentiate
+- [40:40](https://youtu.be/SetJdDyWHU0?t=40m40s) X/Y ~ F2,2
+### [41:35](https://youtu.be/SetJdDyWHU0?t=41m35s) Last time we establish ...
+- [44:01](https://youtu.be/SetJdDyWHU0?t=44m1s) x bar is an estimate for mu, since we don’t know mu
+- [45:55](https://youtu.be/SetJdDyWHU0?t=45m55s) How can that be true?
+- [58:40](https://youtu.be/SetJdDyWHU0?t=58m40s) T-Distribution with n-1 degrees of freedom. It compares sample mean to sample variance. 
+### [1:01:25](https://youtu.be/SetJdDyWHU0?t=1h1m25s) Summarizing: ...
+### [1:02:50](https://youtu.be/SetJdDyWHU0?t=1h1m50s) Chapter 7: Sampling
 - Population size: N
 - values in population: x1,...,xN
-- [1:07:35] How close can we get to the true mean?
-- [1:10:10] tau
-- [1:11:25] In order to estimate mu and sigma^2 a simple random...
-- [1:15:10] We estimate mu and sigma^2 ...
-- [1:17:05] Examples: public opinion polls
-- [1:21:40] Conditioning
-- [1:24:45] E[Xj] =
-- [1:25:58] Var(Xj) =
-- [1:29:55] E[X bar] =
-- [1:30:35] var(X bar) =
-- [1:34:02] cov()
+- [1:07:35](https://youtu.be/SetJdDyWHU0?t=1h7m35s) How close can we get to the true mean?
+- [1:10:10](https://youtu.be/SetJdDyWHU0?t=1h10m10s) tau
+- [1:11:25](https://youtu.be/SetJdDyWHU0?t=1h11m25s) In order to estimate mu and sigma^2 a simple random...
+- [1:15:10](https://youtu.be/SetJdDyWHU0?t=1h15m10s) We estimate mu and sigma^2 ...
+- [1:17:05](https://youtu.be/SetJdDyWHU0?t=1h17m5s) Examples: public opinion polls
+- [1:21:40](https://youtu.be/SetJdDyWHU0?t=1h21m40s) Conditioning
+- [1:24:45](https://youtu.be/SetJdDyWHU0?t=1h24m45s) E[Xj] =
+- [1:25:58](https://youtu.be/SetJdDyWHU0?t=1h25m58s) Var(Xj) =
+- [1:29:55](https://youtu.be/SetJdDyWHU0?t=1h29m55s) E[X bar] =
+- [1:30:35](https://youtu.be/SetJdDyWHU0?t=1h30m35s) var(X bar) =
+- [1:34:02](https://youtu.be/SetJdDyWHU0?t=1h34m2s) cov()
 
 ## Lecture 14
 Random Sampling - [Video](https://www.youtube.com/watch?v=xuh5dRTd5Os)
@@ -522,45 +522,45 @@ Random Sampling - [Video](https://www.youtube.com/watch?v=xuh5dRTd5Os)
 ### Review: Chapter 7: Random Sampling
 - N = population size
 - histogram
-- [11:35] Population mean 
-- [14:30] Population total = Nmu = 
-- [16:50] Population variance 
-### [19:05] The dichotomous case is when ...
+- [11:35](https://youtu.be/xuh5dRTd5Os?t=11m35s) Population mean 
+- [14:30](https://youtu.be/xuh5dRTd5Os?t=14m30s) Population total = Nmu = 
+- [16:50](https://youtu.be/xuh5dRTd5Os?t=16m50s) Population variance 
+### [19:05](https://youtu.be/xuh5dRTd5Os?t=19m5s) The dichotomous case is when ...
 - do you like something: .e.g. chocolate ice cream 
 - true proportion
 - opinion polls about elections
-- [22:55] To estimate the population parameters ... take a random sample, of size n, from the population (of size N>n)
+- [22:55](https://youtu.be/xuh5dRTd5Os?t=22m55s) To estimate the population parameters ... take a random sample, of size n, from the population (of size N>n)
 - In most cases n/N is small
 - Sample without replacement 
 - Not independent
-- [26:34] Compute marginal and joint distributions
+- [26:34](https://youtu.be/xuh5dRTd5Os?t=26m34s) Compute marginal and joint distributions
 - They are identically distributed
-- [32:30] An estimator for mu is the sample mean
-- [33:00] Expected value of X bar ... mu
-- [36:00] X bar is called an unbiased estimator
-- [37:20] To tell how good X bar is as an estimator of mu we should get info about var(X bar)
+- [32:30](https://youtu.be/xuh5dRTd5Os?t=32m30s) An estimator for mu is the sample mean
+- [33:00](https://youtu.be/xuh5dRTd5Os?t=33m0s) Expected value of X bar ... mu
+- [36:00](https://youtu.be/xuh5dRTd5Os?t=36m0s) X bar is called an unbiased estimator
+- [37:20](https://youtu.be/xuh5dRTd5Os?t=37m20s) To tell how good X bar is as an estimator of mu we should get info about var(X bar)
 - want var(X bar) to be small 
-- [39:42] Variance of sum becomes...
+- [39:42](https://youtu.be/xuh5dRTd5Os?t=39m42s) Variance of sum becomes...
 - cov(Xi,Xj)? =sigma^2/(N-1)
-- [52:04] tau = n* X bar
-- [57:10] var(X bar) = -sigma^2/(N-1) — wrong
-- [58:16] Correction: var(X bar) = 
+- [52:04](https://youtu.be/xuh5dRTd5Os?t=52m4s) tau = n* X bar
+- [57:10](https://youtu.be/xuh5dRTd5Os?t=57m10s) var(X bar) = -sigma^2/(N-1) — wrong
+- [58:16](https://youtu.be/xuh5dRTd5Os?t=58m16s) Correction: var(X bar) = 
 - var(Xi) = sigma^2
-- [1:01:14] var(X bar) = 
-### [1:02:25] Contrast with case of ...
+- [1:01:14](https://youtu.be/xuh5dRTd5Os?t=1h1m14s) var(X bar) = 
+### [1:02:25](https://youtu.be/xuh5dRTd5Os?t=1h2m25s) Contrast with case of ...
 - Variance of sum is sum of covariances
-- [1:03:55] Extra term: Finite population correction 
+- [1:03:55](https://youtu.be/xuh5dRTd5Os?t=1h3m55s) Extra term: Finite population correction 
 - If population was infinite there would be no correction
-### [1:06:40] Standard Error - variance of X bar
-- [1:07:50] sqrt(estimator)
-### [1:11:50] Recall sample variance:
-- [1:14:00] In simple random sampling, we have to correct...
-- [1:16:30] Normal approximation to X bar
-- [1:20:30] When estimating mu we give a confidence interval for that parameter.  This means...
+### [1:06:40](https://youtu.be/xuh5dRTd5Os?t=1h6m40s) Standard Error - variance of X bar
+- [1:07:50](https://youtu.be/xuh5dRTd5Os?t=1h7m50s) sqrt(estimator)
+### [1:11:50](https://youtu.be/xuh5dRTd5Os?t=1h11m50s) Recall sample variance:
+- [1:14:00](https://youtu.be/xuh5dRTd5Os?t=1h14m0s) In simple random sampling, we have to correct...
+- [1:16:30](https://youtu.be/xuh5dRTd5Os?t=1h16m30s) Normal approximation to X bar
+- [1:20:30](https://youtu.be/xuh5dRTd5Os?t=1h20m30s) When estimating mu we give a confidence interval for that parameter.  This means...
 - 100 Alpha percent confidence interval
-### [1:23:23] Example: N=8000 condominiums
+### [1:23:23](https://youtu.be/xuh5dRTd5Os?t=1h23m23s) Example: N=8000 condominiums
 - n=100 — Sample 100 residents 
-- [1:27:37] We want to find a 95% confidence interval for mu
+- [1:27:37](https://youtu.be/xuh5dRTd5Os?t=1h27m37s) We want to find a 95% confidence interval for mu
 - 100 alpha = 95
 - alpha = .95
 - X bar is estimator for mu
@@ -568,32 +568,32 @@ Random Sampling - [Video](https://www.youtube.com/watch?v=xuh5dRTd5Os)
 ## Lecture 15
 Simple Random Sampling - [Video](https://www.youtube.com/watch?v=sQ_EClUhBf8)
 
-### [2:25] Review: Simple Random Sampling (SRS0
+### [2:25](https://youtu.be/sQ_EClUhBf8?t=2m25s) Review: Simple Random Sampling (SRS0
 - rvs are not independent 
 - cov(Xi,Xj) = -sigma^2/(N-1)
 - negatively correlated
-- [5:50] Population Parameters
-- [11:40] Cover why ?? is an unbiased estimator of sigma^2
+- [5:50](https://youtu.be/sQ_EClUhBf8?t=5m50s) Population Parameters
+- [11:40](https://youtu.be/sQ_EClUhBf8?t=11m40s) Cover why ?? is an unbiased estimator of sigma^2
 - Start with mean square deviation of sample:
-- [16:20] E[sigma hat^2] =
-- [17:55] Second moment of y is its variance  + mean squared
-- [25:20] E[sigma hat^2] = sigma^2 - N(n-1)/(N-1)n
+- [16:20](https://youtu.be/sQ_EClUhBf8?t=16m20s) E[sigma hat^2] =
+- [17:55](https://youtu.be/sQ_EClUhBf8?t=17m55s) Second moment of y is its variance  + mean squared
+- [25:20](https://youtu.be/sQ_EClUhBf8?t=25m20s) E[sigma hat^2] = sigma^2 - N(n-1)/(N-1)n
 - Therefore sigma hat^2 is not an unbiased estimator.  Divide by the factor to make it unbiased 
-- [28:40] (N-1)/N * S^2 is an unbiased estimator of sigma^2
-- [29:20] var(X bar)
-- [35:23] sqrt(var(X bar)) is the standard error 
+- [28:40](https://youtu.be/sQ_EClUhBf8?t=28m40s) (N-1)/N * S^2 is an unbiased estimator of sigma^2
+- [29:20](https://youtu.be/sQ_EClUhBf8?t=29m20s) var(X bar)
+- [35:23](https://youtu.be/sQ_EClUhBf8?t=35m23s) sqrt(var(X bar)) is the standard error 
 - Make confidence intervals
-### [39:15] Exercise 13 from 3rd edition of book
+### [39:15](https://youtu.be/sQ_EClUhBf8?t=39m15s) Exercise 13 from 3rd edition of book
 - tau is estimated using a sample size...
-- [48:05] To find a confidence interval for mu, use the normal approximation for ...
-- [51:50] Confidence interval becomes...
-- [52:50] If we want a 95% confidence interval we find z such that:
-- [1:01:02] 81.19*1.96 =
+- [48:05](https://youtu.be/sQ_EClUhBf8?t=48m5s) To find a confidence interval for mu, use the normal approximation for ...
+- [51:50](https://youtu.be/sQ_EClUhBf8?t=51m50s) Confidence interval becomes...
+- [52:50](https://youtu.be/sQ_EClUhBf8?t=52m50s) If we want a 95% confidence interval we find z such that:
+- [1:01:02](https://youtu.be/sQ_EClUhBf8?t=1h1m2s) 81.19*1.96 =
 -  [779, 1098]
 - True value was 814
-- [1:03:20] Confidence interval for tau
-- [1:05:] Solve for tau:
-- [1:07:45] Why is the interval for tau so much bigger than mu?
+- [1:03:20](https://youtu.be/sQ_EClUhBf8?t=1h3m20s) Confidence interval for tau
+- [1:05:02](https://youtu.be/sQ_EClUhBf8?t=1h5m2s) Solve for tau:
+- [1:07:45](https://youtu.be/sQ_EClUhBf8?t=1h7m45s) Why is the interval for tau so much bigger than mu?
 
 ## Lecture 16
 Final Review - [Video](https://www.youtube.com/watch?v=2WDqb7g5pfQ)
