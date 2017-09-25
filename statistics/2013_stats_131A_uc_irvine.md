@@ -609,7 +609,7 @@ Final Review - [Video](https://www.youtube.com/watch?v=2WDqb7g5pfQ)
 - [14:53](https://youtu.be/2WDqb7g5pfQ?t=14m53s) Marginal density for U=1/pi(1+u^2)
 - Cauchy density
 - [16:15](https://youtu.be/2WDqb7g5pfQ?t=16m15s) Are U and V independent?
-- Does density factor? No
+  - Does density factor? No
 - [18:40](https://youtu.be/2WDqb7g5pfQ?t=18m40s) Find some joint densities
 - [23:55](https://youtu.be/2WDqb7g5pfQ?t=23m55s) That distribution is ...
 - [25:01](https://youtu.be/2WDqb7g5pfQ?t=25m1s) U|V=v ~ N(0,1/v^2)
