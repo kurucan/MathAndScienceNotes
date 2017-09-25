@@ -597,3 +597,53 @@ Simple Random Sampling - [Video](https://www.youtube.com/watch?v=sQ_EClUhBf8)
 
 ## Lecture 16
 Final Review - [Video](https://www.youtube.com/watch?v=2WDqb7g5pfQ)
+
+- Method 1:?
+- [2:01](https://youtu.be/2WDqb7g5pfQ?t=2m1s) Method 2:
+- J is determinant of matrix - Jacobian
+- [6:40](https://youtu.be/2WDqb7g5pfQ?t=6m49s) Given U,V find X,Y
+- [9:40](https://youtu.be/2WDqb7g5pfQ?t=9m40s) Find marginal density for U
+- [10:30](https://youtu.be/2WDqb7g5pfQ?t=10m30s) Remove absolute value
+- [12:15](https://youtu.be/2WDqb7g5pfQ?t=12m15s) Integrate
+- [14:40](https://youtu.be/2WDqb7g5pfQ?t=14m40s) Integral of density function equals 1
+- [14:53](https://youtu.be/2WDqb7g5pfQ?t=14m53s) Marginal density for U=1/pi(1+u^2)
+- Cauchy density
+- [16:15](https://youtu.be/2WDqb7g5pfQ?t=16m15s) Are U and V independent?
+- Does density factor? No
+- [18:40](https://youtu.be/2WDqb7g5pfQ?t=18m40s) Find some joint densities
+- [23:55](https://youtu.be/2WDqb7g5pfQ?t=23m55s) That distribution is ...
+- [25:01](https://youtu.be/2WDqb7g5pfQ?t=25m1s) U|V=v ~ N(0,1/v^2)
+### [26:30](https://youtu.be/2WDqb7g5pfQ?t=26m30s) Conditional distribution of V given U
+### [29:55](https://youtu.be/2WDqb7g5pfQ?t=29m55s) Moment Generating Functions
+- If X~
+- [37:35](https://youtu.be/2WDqb7g5pfQ?t=37m35s) Moment generating function for Y
+- [40:35](https://youtu.be/2WDqb7g5pfQ?t=40m35s) Answer: 
+### [41:15](https://youtu.be/2WDqb7g5pfQ?t=41m15s) Variation 2:
+- If X1,...,Xn 
+- What is distribution of =...?
+- [44:25](https://youtu.be/2WDqb7g5pfQ?t=44m25s) Compute E[e^tZ|N=n]= ...
+- [54:01](https://youtu.be/2WDqb7g5pfQ?t=54m1s) lambda p/(lambda p - t)
+- we got a moment generating function for an exponential with parameter lambda p
+- [55:40](https://youtu.be/2WDqb7g5pfQ?t=55m40s) called Tower law
+### [57:18](https://youtu.be/2WDqb7g5pfQ?t=57m18s)  Example: Given X1, ...Xi iid Bernoulli , p<1/2
+- What is P(X1+...+Xn > n/2)?
+- Use Central Limit Theorem
+- [1:01:01](https://youtu.be/2WDqb7g5pfQ?t=1h1m1s) Subtract np from both sides
+-  [1:10:35](https://youtu.be/2WDqb7g5pfQ?t=1h10m35s) Gambling game
+- Pay $1/2 to play
+- Odds of winning each time is p
+### [1:14:10](https://youtu.be/2WDqb7g5pfQ?t=1h14m10s) A radioactiva substance emits on average 10 alpha-particles in an hour
+- What’s the probability that it emits more than approximately 95 alpha-particles in 10 hours?
+- Poisson rv
+- E[X1] = lambda = 10
+- Lambda is expected value and variance for Poisson 
+- [1:17:25](https://youtu.be/2WDqb7g5pfQ?t=1h17m25s) PMF: 
+- [1:20:35](https://youtu.be/2WDqb7g5pfQ?t=1h20m35s) Moment generating function of Poisson: 
+- Y~P(100)
+- [1:23:25](https://youtu.be/2WDqb7g5pfQ?t=1h23m25s)  ... is approximately N(0,1)
+- P(Y > 95) = P(Y-100> -5) = ...
+- [1:26:02](https://youtu.be/2WDqb7g5pfQ?t=1h26m2s) Look up in table: 0.6915
+### [1:28:01](https://youtu.be/2WDqb7g5pfQ?t=1h28m1s) Law of Rare Events
+- If X1,...,Xn are Bernoulli with p=lambda/n, then sum converges to Poisson ...
+### [1:34:03](https://youtu.be/2WDqb7g5pfQ?t=1h34m3s) If X1,...,Xn are iid rvs with var(Xi)=sigma^2
+- What’s an unbiased estimator for sigma ^2 if you have independent random variables?
