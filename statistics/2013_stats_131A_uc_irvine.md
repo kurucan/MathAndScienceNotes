@@ -21,10 +21,10 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 - [51:54](https://youtu.be/GyN4FotAEt8?t=51m54s) Empty Set is an event with Probability of zero
 - [53:58](https://youtu.be/GyN4FotAEt8?t=53m58s) P(A Complement) = 1 - P(A)
 - [56:30](https://youtu.be/GyN4FotAEt8?t=56m30s) P(A) ≤ P(B), A subset B, A ⊆ B
- - [1:02:00](https://youtu.be/GyN4FotAEt8?t=1h2m) Counting
+### [1:02:00](https://youtu.be/GyN4FotAEt8?t=1h2m) Counting
 - [1:05:29](https://youtu.be/GyN4FotAEt8?t=1h5m29s) P(A) = #A/#Omega (Ω) Definition of Prob?
 - [1:08:45](https://youtu.be/GyN4FotAEt8?t=1h8m45s) Derive above - All n disjoint events have same probability
-- [1:14:25](https://youtu.be/GyN4FotAEt8?t=1h14m25s) Multiplication Principle: m x n ways
+### [1:14:25](https://youtu.be/GyN4FotAEt8?t=1h14m25s) Multiplication Principle: m x n ways
 #### [1:17:45](https://youtu.be/GyN4FotAEt8?t=1h17m45s) Example: Select 3 people without replacement, ordered
 #### [1:20:25](https://youtu.be/GyN4FotAEt8?t=1h20m25s) Example: Select people with replacement, and ordering
 #### [1:21:32](https://youtu.be/GyN4FotAEt8?t=1h21m32s) Example: Committee of size 5 - consider over counting - Permutations
