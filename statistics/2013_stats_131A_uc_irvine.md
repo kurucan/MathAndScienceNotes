@@ -7,7 +7,7 @@ Course website:[UC Irvine:  Introduction to Probability and Statistics](http://o
 ## Lecture 1
 - [Video](https://youtu.be/GyN4FotAEt8)
 ### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces - [Wikipedia](https://en.wikipedia.org/wiki/Sample_space)
-- Defines the possible outcomes in an experiment
+- Describes the possible outcomes in an experiment
 - Ω
 ### [26:43](https://youtu.be/GyN4FotAEt8?t=26m43s) Events - [Wikipedia](https://en.wikipedia.org/wiki/Event_(probability_theory))
 #### [28:00](https://youtu.be/GyN4FotAEt8?t=28m00s) Example: Three Heads when Tossing a Coin 6 Times
