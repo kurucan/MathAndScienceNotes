@@ -2,6 +2,9 @@
 
 ## INBOX
 
+## Courses
+- https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html
+
 ## UC Irvine Statistics 131A Michael C. Cranston Summer 2013
 
 
