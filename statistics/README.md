@@ -7,3 +7,6 @@
 
 ## Books
 - [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
+
+## Blogs
+- https://blog.statsbot.co
