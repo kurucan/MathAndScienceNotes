@@ -14,8 +14,9 @@
 ## UC 
 
 
-## Books
+## Online Books
 - [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
+- [Probability and Stochastic Processes with Applications - Oliver Knill](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf)
 
 ## Blogs
 - https://blog.statsbot.co
