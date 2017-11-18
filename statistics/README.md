@@ -11,6 +11,7 @@
 - [UC Irvine Stats 131a](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
   - [My Notes](2013_stats_131A_uc_irvine.md)
 - [UC Irvine Stats 131b](http://ocw.uci.edu/courses/math_131b_introduction_to_probability_and_statistics.html)
+- [University of Texas](http://wpressutexas.net/coursewiki/index.php?title=Main_Page)
 
 ## UC 
 
