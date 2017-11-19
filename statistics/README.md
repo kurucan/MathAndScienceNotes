@@ -22,3 +22,7 @@
 
 ## Blogs
 - https://blog.statsbot.co
+
+## Bayes
+- http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html
+  - https://news.ycombinator.com/item?id=15732926
