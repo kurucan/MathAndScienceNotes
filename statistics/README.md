@@ -9,7 +9,7 @@
 - [Notre Dame](https://youtu.be/YTBFSmExXRc)
 - [Stanford CS109](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
 - [UC Irvine Stats 131a](http://ocw.uci.edu/courses/math_131a_introduction_to_probability_and_statistics.html)
-  - [My Notes](2013_stats_131A_uc_irvine.md)
+  - [My Notes](uc_irvine_131a/2013_stats_131A_uc_irvine.md)
 - [UC Irvine Stats 131b](http://ocw.uci.edu/courses/math_131b_introduction_to_probability_and_statistics.html)
 
 ## UC 

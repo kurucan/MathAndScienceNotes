@@ -8,6 +8,7 @@ Book: https://www.math.uci.edu/~htucker/StatisticsBook/
 
 ## Lecture 1
 - [Video](https://youtu.be/GyN4FotAEt8)
+- [My PDF Notes](stats_131a_lecture_01.pdf)
 ### [12:20](https://youtu.be/GyN4FotAEt8?t=12m20s) Sample Spaces - [Wikipedia](https://en.wikipedia.org/wiki/Sample_space)
 - Describes the possible outcomes in an experiment
 - Ω
@@ -38,6 +39,7 @@ Book: https://www.math.uci.edu/~htucker/StatisticsBook/
 
 ## Lecture 2
 - [Video](https://youtu.be/zboOPK98aGk)
+- [My PDF Notes](stats_131a_lecture_02.pdf)
 - Maximum Likelihood Estimator - [Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 - [1:50](https://youtu.be/zboOPK98aGk?t=1m50s) f(n+1)/f(n) > 1, when it stops being > 1, we have our estimator
 ### [12:00](https://youtu.be/zboOPK98aGk?t=12m) Discussion: Multinomial Theorem - [Wikipedia](https://en.wikipedia.org/wiki/Multinomial_theorem)
@@ -63,6 +65,7 @@ Book: https://www.math.uci.edu/~htucker/StatisticsBook/
 
 ## Lecture 3
 - Random Variables [Video](https://youtu.be/Pj5n3FLE0wM)
+- [My PDF Notes](stats_131a_lecture_03.pdf)
 - Problem 74 - 
 ### [8:08](https://youtu.be/Pj5n3FLE0wM?t=8m08s) Random Variables r.v.s.- Assign values to outcomes - [Wikipedia](https://en.wikipedia.org/wiki/Random_variable) | [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables)
 - Random/Chance Variables - Joe Doob, William Feller - tossed a coin to get name
@@ -126,6 +129,7 @@ Book: https://www.math.uci.edu/~htucker/StatisticsBook/
 
 ## Lecture 4
 - Joint Distribution - [Video](https://youtu.be/BV7xnuJNkSQ)
+- [My PDF Notes](stats_131a_lecture_04.pdf)
 - [5:40](https://youtu.be/BV7xnuJNkSQ?t=5m40s) Bernoulli Random Variables led to most other rvs studied in the course
 - [6:01](https://youtu.be/BV7xnuJNkSQ?t=6m01s) PMF: Probability Mass Function of Bernoulli
 - [7:32](https://youtu.be/BV7xnuJNkSQ?t=7m32s) Bernoulli led to Binomial
