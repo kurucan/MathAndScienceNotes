@@ -45,6 +45,7 @@
 
 * Markov Chains
 + [[https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50][A Zero-Math Introduction to Markov Chain Monte Carlo Methods]]
+ - https://news.ycombinator.com/item?id=15986687
 + [[http://setosa.io/ev/markov-chains/][Markov Chains Explained Visually]]
  - https://news.ycombinator.com/item?id=11323122
 + http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/lecture-notes/MIT16_410F10_lec20.pdf
