@@ -4,6 +4,7 @@
 
 ## Inbox
 - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
+    - https://news.ycombinator.com/item?id=16196421
 - https://dailycodingproblem.com/blog/2018/01/02/find-an-arbitrage.html
  - https://news.ycombinator.com/item?id=16050665
 - http://www.quantstart.com/articles/Beginners-Guide-to-Time-Series-Analysis
