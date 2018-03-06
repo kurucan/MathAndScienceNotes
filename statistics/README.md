@@ -26,3 +26,6 @@
 ## Bayes
 - http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html
   - https://news.ycombinator.com/item?id=15732926
+
+## Markov Chains
+- [Introduction to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
