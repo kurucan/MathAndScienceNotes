@@ -4,6 +4,7 @@
 #+EMAIL: melling@h4labs.com
 
 * Inbox
++ [[https://news.ycombinator.com/item?id=16829440][How to write math]]
 + http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
  - https://news.ycombinator.com/item?id=15905048
 + [[https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3][HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3]]
