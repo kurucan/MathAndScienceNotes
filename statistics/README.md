@@ -32,5 +32,5 @@
 ## Markov Chains
 - [Introduction to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
 - [The Markov Property, Chain, Reward Process and Decision Process](https://xaviergeerinck.com/markov-property-chain-reward-decision)
-    https://news.ycombinator.com/item?id=17112302
+    - https://news.ycombinator.com/item?id=17112302
 
