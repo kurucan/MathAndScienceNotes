@@ -36,6 +36,7 @@
 
 ## Kalman Filters
 - [How a Kalman filter works, in pictures ](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+`   - https://news.ycombinator.com/item?id=17116149
     - https://news.ycombinator.com/item?id=10042050
     - https://news.ycombinator.com/item?id=13449229
 - http://www.anuncommonlab.com/articles/how-kalman-filters-work/
