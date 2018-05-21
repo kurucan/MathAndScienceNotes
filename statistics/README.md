@@ -35,4 +35,4 @@
     - https://news.ycombinator.com/item?id=17112302
 
 ## Kalman Filters
-- [How a Kalman filter works in pictures ](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+- [How a Kalman filter works, in pictures ](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
