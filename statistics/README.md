@@ -36,3 +36,12 @@
 
 ## Kalman Filters
 - [How a Kalman filter works, in pictures ](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+    - https://news.ycombinator.com/item?id=10042050
+    - https://news.ycombinator.com/item?id=13449229
+- http://www.anuncommonlab.com/articles/how-kalman-filters-work/
+    - https://news.ycombinator.com/item?id=11561770
+- https://github.com/lukstei/trading-backtest/tree/master
+- http://htmlpreview.github.io/?https://github.com/aguaviva/KalmanFilter/blob/master/KalmanFilter.html
+    - https://news.ycombinator.com/item?id=16575679
+- 
+    
