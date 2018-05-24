@@ -98,6 +98,7 @@
  - https://news.ycombinator.com/item?id=13518170
  
 * Algorithms
++ https://github.com/trekhleb/javascript-algorithms
 + http://visualgo.net
 + http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 + http://news.ycombinator.com/item?id=10155498
