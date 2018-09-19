@@ -1,7 +1,8 @@
 # Statistics
 
 ## INBOX
-- https://betanalpha.github.io/assets/case_studies/probability_theory.html
+- [Probability Theory (For Scientists and Engineers)
+](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
    - https://news.ycombinator.com/item?id=16841747
    
 ## Courses
