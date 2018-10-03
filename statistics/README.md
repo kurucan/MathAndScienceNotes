@@ -4,7 +4,12 @@
 - [Probability Theory (For Scientists and Engineers)
 ](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
    - https://news.ycombinator.com/item?id=16841747
-   
+- https://theclevermachine.wordpress.com/2012/11/19/a-gentle-introduction-to-markov-chain-monte-carlo-mcmc/
+   - https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/
+   - https://theclevermachine.wordpress.com/2012/09/24/a-brief-introduction-to-markov-chains/
+   - https://theclevermachine.wordpress.com/2012/10/05/mcmc-the-metropolis-sampler/
+   - https://theclevermachine.wordpress.com/2012/10/20/mcmc-the-metropolis-hastings-sampler/
+   - 
 ## Courses
 - [Harvard Stats 110](https://projects.iq.harvard.edu/stat110/home) | [YouTube](https://projects.iq.harvard.edu/stat110/youtube) | [Max Wang Class Notes](http://www.mxawng.com/stuff/notes/stat110.pdf) | [William Chen Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
   - [Top 10 Ideas from Class](https://www.quora.com/What-are-the-top-10-big-ideas-in-Statistics-110-Introduction-to-Probability-at-Harvard)
