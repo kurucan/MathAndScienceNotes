@@ -4,6 +4,8 @@
 #+EMAIL: melling@h4labs.com
 
 * Inbox
++ http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx
+  - https://news.ycombinator.com/item?id=18182425
 + [[https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf][Finite Calculus: A Tutorial for Solving Nasty Sums]]
 + [[http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf][Notes on Discrete Math - Yale]]
   - https://news.ycombinator.com/item?id=17391580
