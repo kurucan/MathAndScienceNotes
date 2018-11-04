@@ -1,9 +1,8 @@
-#+STARTUP: showall
-#+TITLE: Physics
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
 
-* Inbox
+# Physics
+
+
+## Inbox
 + http://theoreticalminimum.com/courses
 + [[http://www.feynmanlectures.caltech.edu/III_toc.html][The Feynman Lectures on Physics, Volume III]]
 + https://news.ycombinator.com/item?id=11216668 HN - Best Way to Learn Physics?
