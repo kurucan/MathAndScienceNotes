@@ -1,6 +1,0 @@
-Menu: [[file:cmpsc.org][Computer Science]] | [[file:electronics.org][Electronics]] | [[file:machine_learning.org][Machine Learning]] | [[file:math.org][Mathematics]] | [[file:quant_trading.org][Quant Trading]] | [[file:physics.org][Physics]] |
-
-* CRISPR
-
-+ http://gizmodo.com/everything-you-need-to-know-about-crispr-the-new-tool-1702114381
-+ http://www.radiolab.org/story/antibodies-part-1-crispr/
