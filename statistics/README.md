@@ -30,6 +30,8 @@
 
 ## Blogs
 - https://blog.statsbot.co
+- https://jontysinai.github.io/jekyll/update/2017/11/23/probability-for-everyone.html
+- https://jontysinai.github.io/jekyll/update/2018/12/23/probability-part-two-conditional-probability.html
 
 ## Bayes
 - http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html
