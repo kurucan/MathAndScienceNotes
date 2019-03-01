@@ -10,6 +10,9 @@
    - https://theclevermachine.wordpress.com/2012/10/05/mcmc-the-metropolis-sampler/
    - https://theclevermachine.wordpress.com/2012/10/20/mcmc-the-metropolis-hastings-sampler/
    - 
+- [Conditional probability - A Visual explanation by Victor Powell](http://setosa.io/conditional/)
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html)
+
 ## Courses
 - [Harvard Stats 110](https://projects.iq.harvard.edu/stat110/home) | [YouTube](https://projects.iq.harvard.edu/stat110/youtube) | [Max Wang Class Notes](http://www.mxawng.com/stuff/notes/stat110.pdf) | [William Chen Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
   - [Top 10 Ideas from Class](https://www.quora.com/What-are-the-top-10-big-ideas-in-Statistics-110-Introduction-to-Probability-at-Harvard)
@@ -30,6 +33,8 @@
 
 ## Blogs
 - https://blog.statsbot.co
+- https://jontysinai.github.io/jekyll/update/2017/11/23/probability-for-everyone.html
+- https://jontysinai.github.io/jekyll/update/2018/12/23/probability-part-two-conditional-probability.html
 
 ## Bayes
 - http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html
