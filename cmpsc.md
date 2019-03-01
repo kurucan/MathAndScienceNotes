@@ -1,19 +1,18 @@
-#+STARTUP: showall
-#+TITLE: Computer Science
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
+# Computer Science
 
-* Short List
+## Short List
+
 + https://github.com/open-source-society/computer-science - Path to a free self-taught education in Computer Science
 
-* Inbox
+## Inbox
+
 + https://news.ycombinator.com/item?id=15409757 B-trees
-+ [[https://courses.csail.mit.edu/6.042/spring17/mcs.pdf][Mathematics for Computer Science (pdf)]]
-   - https://news.ycombinator.com/item?id=13800320
-+ [[https://www.perforce.com/blog/110928/short-history-btree][A Short History of the BTree]]
-+ [[https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/][The MIT Challenge]]
-+ [[http://cloudmark.github.io/Language-Detection/][Language Detection using N-Grams]]
-+ [[http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html][Some Starting Points for Deep Learning and RNNs]]
++ [Mathematics for Computer Science (pdf)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+    - https://news.ycombinator.com/item?id=13800320
++ [A Short History of the BTree](https://www.perforce.com/blog/110928/short-history-btree)
++ [The MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
++ [Language Detection using N-Grams](http://cloudmark.github.io/Language-Detection/)
++ [Some Starting Points for Deep Learning and RNNs](http://www.aistartups.org/2016/03/some-starting-points-for-deep-learning.html)
  - https://news.ycombinator.com/item?id=11337741
 + https://news.ycombinator.com/item?id=10398057 - Warping Text to a Bézier curves
 + http://www.bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
@@ -21,9 +20,9 @@
 + https://news.ycombinator.com/item?id=10171469 - CS Unplugged
 + http://news.ycombinator.com/item?id=10129914 - Pixar in a Box
 + http://news.ycombinator.com/item?id=9940126 - Spreadsheets
-+ [[http://news.ycombinator.com/item?id=9850914][Rubik's Cube Solution]]
-+ [[http://news.ycombinator.com/item?id=9805742][Thoughts on Time Series Databases]]
-+ [[http://www.erlang.org/download/armstrong_thesis_2003.pdf][Making reliable distributed systems in the presence of sofware errors]]
++ [Rubik's Cube Solution](http://news.ycombinator.com/item?id=9850914)
++ [Thoughts on Time Series Databases](http://news.ycombinator.com/item?id=9805742)
++ [Making reliable distributed systems in the presence of sofware errors]](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 + http://optics.byu.edu/textbook.aspx
 + http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development
 + http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php 
@@ -42,11 +41,11 @@
 + http://github.com/prakhar1989/awesome-courses/blob/master/README.md
  - http://news.ycombinator.com/item?id=8806910
 + http://news.ycombinator.com/item?id=8806475 - String Matching 
-+ [[http://news.ycombinator.com/item?id=8806835][Neat Algorithms: Paxos]]
-+ [[http://news.ycombinator.com/item?id=8813484][Deep Learning Reading List]]
++ [Neat Algorithms: Paxos](http://news.ycombinator.com/item?id=8806835)
++ [Deep Learning Reading List](http://news.ycombinator.com/item?id=8813484)
 + http://www.youtube.com/watch?v=CTSNBaOkjOQ
 + http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html
-+ [[http://raw.githubusercontent.com/papers-we-love/papers-we-love/master/design/out-of-the-tar-pit.pdf][Out of the Tarpit]]
++ [Out of the Tarpit](http://raw.githubusercontent.com/papers-we-love/papers-we-love/master/design/out-of-the-tar-pit.pdf)
 + http://news.ycombinator.com/item?id=8835085 - The Game AI Programmer's Bookshelf
 + http://news.ycombinator.com/item?id=8825728 - Ask HN: What are some nice electronics courses that blend theory and practice?
 + http://news.ycombinator.com/item?id=8825750 - The “What Are Monads?” Fallacy (two-wrongs.com)
@@ -67,37 +66,44 @@
 + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + http://raymii.org/s/articles/Solve_word_puzzles_with_bash.html
 
-* SICP
-+ [[http://composingprograms.com/][SICP in Python 3 from Berkeley]]
+## SICP
+
++ [SICP in Python 3 from Berkeley](http://composingprograms.com/)
  - https://news.ycombinator.com/item?id=11465234
  - https://news.ycombinator.com/item?id=3491142
  - https://news.ycombinator.com/item?id=3141996
 + https://mitpress.mit.edu/sicp/
-+ [[http://sarabander.github.io/sicp/html/index.xhtml][Structure and Interpretation of Computer Programs]]
-+ [[http://www.cs61as.org][CS 61AS - Spring 2016]]
++ [Structure and Interpretation of Computer Programs]](http://sarabander.github.io/sicp/html/index.xhtml)
++ [CS 61AS - Spring 2016](http://www.cs61as.org)
 
-* Data Science
-+ [[http://cs109.org][Harvard CS109 Data Science]]
- - [[http://cm.dce.harvard.edu/2016/01/14328/L01/mobile_Mp4TalkingHeadSlideVideo-1.shtml?part=1][First Video]]
+## Data Science
 
-* NLP
++ [Harvard CS109 Data Science](http://cs109.org)
+   - [First Video](http://cm.dce.harvard.edu/2016/01/14328/L01/mobile_Mp4TalkingHeadSlideVideo-1.shtml?part=1)
+
+## NLP
+
 + [[https://github.com/oxford-cs-deepnlp-2017][oxford-cs-deepnlp-2017]]
- - https://news.ycombinator.com/item?id=13588070
-+ [[https://blog.ycombinator.com/how-to-get-into-natural-language-processing/][How To Get Into Natural Language Processing]]
- - https://news.ycombinator.com/item?id=13445255
-+ [[https://m.youtube.com/playlist?list=PL6397E4B26D00A269][Dan Jurafsky & Chris Manning: Natural Language Processing]]
+   - https://news.ycombinator.com/item?id=13588070
++ [How To Get Into Natural Language Processing](https://blog.ycombinator.com/how-to-get-into-natural-language-processing/)
+   - https://news.ycombinator.com/item?id=13445255
++ [Dan Jurafsky & Chris Manning: Natural Language Processing](https://m.youtube.com/playlist?list=PL6397E4B26D00A269)
 
-* Software Development
+##  Software Development
+
 + http://www.knowstack.com/design-pattern-an-introduction
 + http://www.playwithlua.com/?p=68
 + http://www.vnev.me/implementing-a-programming-language-in-c-part-2 
   - https://news.ycombinator.com/item?id=9688258
 
-* Text Editors
-+ [[https://www.finseth.com/craft/][The Craft of Text Editing]]
- - https://news.ycombinator.com/item?id=13518170
+## Text Editors
+
++ [The Craft of Text Editing](https://www.finseth.com/craft/)
+   - https://news.ycombinator.com/item?id=13518170
  
-* Algorithms
+
+## Algorithms
+
 + https://github.com/trekhleb/javascript-algorithms
 + http://visualgo.net
 + http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
@@ -113,30 +119,33 @@
 + https://medium.com/@nickgerleman/the-bkd-tree-da19cf9493fb
 + https://www.programmingalgorithms.com/algorithm/day-of-week
  - https://news.ycombinator.com/item?id=11358999
-+ [[http://www.drdobbs.com/architecture-and-design/the-rete-matching-algorithm/184405218][The Rete Matching Algorithm]]
- https://news.ycombinator.com/item?id=11364718
++ [The Rete Matching Algorithm]([http://www.drdobbs.com/architecture-and-design/the-rete-matching-algorithm/184405218)
+    - https://news.ycombinator.com/item?id=11364718
 + https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
- - https://news.ycombinator.com/item?id=11636002
-+ [[http://www.sorting-algorithms.com][Sorting Algorithm Animations]]
- - https://news.ycombinator.com/item?id=11783526
+    - https://news.ycombinator.com/item?id=11636002
++ [Sorting Algorithm Animations](http://www.sorting-algorithms.com)
+    - https://news.ycombinator.com/item?id=11783526
 + https://lettier.github.io/posts/2016-06-10-k-nearest-neighbors-from-scratch.html
- - https://news.ycombinator.com/item?id=11906759
-+ [[http://www.youtube.com/playlist?list=PL_w_qWAQZtAZ2n35UD2FHgvbXj4pqPQq5][UC Davis Course]]
+    - https://news.ycombinator.com/item?id=11906759
++ [UC Davis Course](http://www.youtube.com/playlist?list=PL_w_qWAQZtAZ2n35UD2FHgvbXj4pqPQq5)
 
-* Data Structures
+## Data Structures
+
 + http://news.ycombinator.com/item?id=7079427 - What are the lesser known but useful data structures? (stackoverflow.com)
 
-* Search
+## Search
 
 + https://news.ycombinator.com/item?id=10402177 
 + https://news.ycombinator.com/item?id=10403820
 
-* Sorting
+## Sorting
+
 + https://m.imgur.com/gallery/GD5gi
 
-* Mathematics
+## Mathematics
+
 + http://news.ycombinator.com/item?id=9927909
-+ [[http://news.ycombinator.com/item?id=9715149][Guide to Writing Mathematics]]
++ [Guide to Writing Mathematics](http://news.ycombinator.com/item?id=9715149)
 + http://jeremykun.com/2015/06/08/methods-of-proof-diagonalization
 + http://news.ycombinator.com/item?id=8348769 - How Not to Lie with Statistics: Avoiding Common Mistakes (1986) [pdf]
 + http://proofs.wiki/Main_Page
@@ -147,14 +156,16 @@
 + http://classmill.com/jennathompson/introduction-to-algebra
 + http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures
 
-** Bayes Theorem
+## Bayes Theorem
+
 + http://news.ycombinator.com/item?id=9780677
 + http://news.ycombinator.com/item?id=9980716
 + https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r
 + http://www.greenteapress.com/thinkbayes/ - Creative Commons O'Reilly Book
 
-* Gaming
-+ [[https://news.ycombinator.com/item?id=9770020][Supreme Commander – Graphics Study]]
+## Gaming
+
++ [Supreme Commander – Graphics Study](https://news.ycombinator.com/item?id=9770020)
 + http://news.ycombinator.com/item?id=9537009 -  Implementation of Hex Grids
 + http://news.ycombinator.com/item?id=8584695 - Essential Math for Games Programmers (essentialmath.com
 + http://news.ycombinator.com/item?id=8200160 - Amit's Game Programming Information (stanford.edu)
@@ -166,16 +177,18 @@
  - http://news.ycombinator.com/item?id=9302637
 + https://news.ycombinator.com/item?id=10171792
 
-* Maze Generation and Grids
+## Maze Generation and Grids
+
 + http://www.gridsagegames.com/blog/2016/03/generating-populating-caves/
 + http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
 + http://simblob.blogspot.com/2015/02/optimizing-for-grid-maps.html
- - http://news.ycombinator.com/item?id=9086791
+   - http://news.ycombinator.com/item?id=9086791
 
 
-** Doom
+## Doom
 + https://news.ycombinator.com/item?id=10787747
 
 
-* Libraries 
-+ [[https://news.ycombinator.com/item?id=9775753][Open Source OCR]]
+## Libraries
+
++ [Open Source OCR](https://news.ycombinator.com/item?id=9775753)
