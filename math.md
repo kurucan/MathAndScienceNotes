@@ -2,6 +2,8 @@
 
 ## Inbox
 
++ [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
+    - https://news.ycombinator.com/item?id=19323123
 + http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx
     - https://news.ycombinator.com/item?id=18182425
 + [Finite Calculus: A Tutorial for Solving Nasty Sums](https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf)
