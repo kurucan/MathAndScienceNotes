@@ -13,3 +13,5 @@
 - http://datanice.github.io/machine-learning-101-what-is-regularization-interactive.html
   - https://news.ycombinator.com/item?id=11906844
  
+## Gradient Descent
+- [It’s Only Natural: An Excessively Deep Dive Into Natural Gradient Optimization](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb)
