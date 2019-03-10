@@ -32,7 +32,9 @@
     - https://news.ycombinator.com/item?id=11848663
 
 ## Linear Algebra
++ [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 + [An Intuitive Derivation of Eigenvectors](https://dhruvp.netlify.com/2019/02/25/eigenvectors/)
++ [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 + [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
    - https://news.ycombinator.com/item?id=13051241
    - https://news.ycombinator.com/item?id=13620871
