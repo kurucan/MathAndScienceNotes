@@ -4,6 +4,7 @@
 
 ## Inbox
 
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - https://github.com/eriklindernoren/ML-From-Scratch
   - https://news.ycombinator.com/item?id=13732288
 - http://bugra.github.io/work/notes/2014-08-23/on-machine-learning/
