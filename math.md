@@ -2,33 +2,34 @@
 
 ## Inbox
 
-+ [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
+- [The 15 Most Famous Transcendental Numbers](http://sprott.physics.wisc.edu/Pickover/trans.html)
+- [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
     - https://news.ycombinator.com/item?id=19323123
-+ http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx
+- http://tutorial.math.lamar.edu/Classes/DE/Definitions.aspx
     - https://news.ycombinator.com/item?id=18182425
-+ [Finite Calculus: A Tutorial for Solving Nasty Sums](https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf)
-+ [Notes on Discrete Math - Yale](http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
+- [Finite Calculus: A Tutorial for Solving Nasty Sums](https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf)
+- [Notes on Discrete Math - Yale](http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
     - https://news.ycombinator.com/item?id=17391580
-+ [How to write math](https://news.ycombinator.com/item?id=16829440)
-+ http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
+- [How to write math](https://news.ycombinator.com/item?id=16829440)
+- http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
     - https://news.ycombinator.com/item?id=15905048
-+ [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
-   - https://news.ycombinator.com/item?id=12429349
-+ [Paul's Online Math Notes](http://tutorial.math.lamar.edu)
-   - https://news.ycombinator.com/item?id=11469494
-+ https://www.reddit.com/r/gamedev/comments/4525xs/understanding_2d_transformations_maths_for_gamedev/
-+ https://gist.github.com/bishboria/8326b17bbd652f34566a - Graduate texts in mathematics
-+ [Ask HN: A Good Book About Statistics?](http://news.ycombinator.com/item?id=10056789)
-+ http://news.ycombinator.com/item?id=10208861 The Math I Learned After I Thought Had Already Learned Math
-+ http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-+ http://www.math.uah.edu/stat
-+ [Calculus Learning Guide](http://betterexplained.com/guides/calculus/)
+- [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
+    - https://news.ycombinator.com/item?id=12429349
+- [Paul's Online Math Notes](http://tutorial.math.lamar.edu)
+    - https://news.ycombinator.com/item?id=11469494
+- https://www.reddit.com/r/gamedev/comments/4525xs/understanding_2d_transformations_maths_for_gamedev/
+- https://gist.github.com/bishboria/8326b17bbd652f34566a - Graduate texts in mathematics
+- [Ask HN: A Good Book About Statistics?](http://news.ycombinator.com/item?id=10056789)
+    - http://news.ycombinator.com/item?id=10208861 The Math I Learned After I Thought Had Already Learned Math
+- http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+- http://www.math.uah.edu/stat
+- [Calculus Learning Guide](http://betterexplained.com/guides/calculus/)
    - https://news.ycombinator.com/item?id=11478368
 
 ## Books
 
-+ [Advanced Algebra Textbooks - HN](https://news.ycombinator.com/item?id=10873471)
-+ [Applied Mathematical Programming](http://web.mit.edu/15.053/www/)
+- [Advanced Algebra Textbooks - HN](https://news.ycombinator.com/item?id=10873471)
+- [Applied Mathematical Programming](http://web.mit.edu/15.053/www/)
     - https://news.ycombinator.com/item?id=11848663
 
 ## Linear Algebra
