@@ -4,6 +4,8 @@
 
 ## Inbox
 
+- [Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
+    - https://news.ycombinator.com/item?id=19498356
 - [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/)
     - https://news.ycombinator.com/item?id=19424813
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
