@@ -4,6 +4,7 @@
 
 ## Inbox
 
+- https://news.ycombinator.com/item?id=19499515
 - [Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
     - https://news.ycombinator.com/item?id=19498356
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
