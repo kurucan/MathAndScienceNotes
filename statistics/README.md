@@ -1,6 +1,9 @@
 # Statistics
 
 ## INBOX
+
+- [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+    - https://news.ycombinator.com/item?id=19511420
 - [Probability Theory (For Scientists and Engineers)
 ](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
    - https://news.ycombinator.com/item?id=16841747
