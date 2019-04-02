@@ -2,6 +2,8 @@
 
 ## INBOX
 
+- [The ‘Hot Hand’ Debate Gets Flipped on Its Head](https://www.wsj.com/articles/the-hot-hand-debate-gets-flipped-on-its-head-1443465711)
+    - https://www.bloomberg.com/news/audio/2019-03-28/joshua-miller-discusses-the-hot-hand-phenomenon-podcast
 - [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
     - https://news.ycombinator.com/item?id=19511420
 - [Probability Theory (For Scientists and Engineers)
