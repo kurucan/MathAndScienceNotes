@@ -16,7 +16,8 @@
   - https://news.ycombinator.com/item?id=11446164
 - http://datanice.github.io/machine-learning-101-what-is-regularization-interactive.html
   - https://news.ycombinator.com/item?id=11906844
- 
+- [ML from Scratch - Part 4: Decision Trees](http://www.oranlooney.com/post/ml-from-scratch-part-4-decision-tree/)
+
 ## Back Propogation
  
 - http://people.idsia.ch/~juergen/who-invented-backpropagation.html
