@@ -1,7 +1,9 @@
 # Statistics
 
-## INBOX
+## Inbox
 
+- https://99percentinvisible.org/episode/on-average/
+    You can design for the average and not fit anyone.
 - [The ‘Hot Hand’ Debate Gets Flipped on Its Head](https://www.wsj.com/articles/the-hot-hand-debate-gets-flipped-on-its-head-1443465711)
     - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2627354&mod=article_inline
     - https://www.bloomberg.com/news/audio/2019-03-28/joshua-miller-discusses-the-hot-hand-phenomenon-podcast
