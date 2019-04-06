@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [Some intuition behind random walks](https://github.com/joseprupi/randomwalk)
 - https://99percentinvisible.org/episode/on-average/
     - You can design for the average and not fit anyone.
 - [The ‘Hot Hand’ Debate Gets Flipped on Its Head](https://www.wsj.com/articles/the-hot-hand-debate-gets-flipped-on-its-head-1443465711)
