@@ -66,6 +66,10 @@
 + http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 + http://raymii.org/s/articles/Solve_word_puzzles_with_bash.html
 
+## Books
+
+- [Mathematics and Computation](https://www.math.ias.edu/files/Website03-25-19.pdf)
+    - 
 ## SICP
 
 + [SICP in Python 3 from Berkeley](http://composingprograms.com/)
