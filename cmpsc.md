@@ -7,8 +7,6 @@
 ## Inbox
 
 + https://news.ycombinator.com/item?id=15409757 B-trees
-+ [Mathematics for Computer Science (pdf)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-    - https://news.ycombinator.com/item?id=13800320
 + [A Short History of the BTree](https://www.perforce.com/blog/110928/short-history-btree)
 + [The MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 + [Language Detection using N-Grams](http://cloudmark.github.io/Language-Detection/)
@@ -69,7 +67,12 @@
 ## Books
 
 - [Mathematics and Computation](https://www.math.ias.edu/files/Website03-25-19.pdf)
-    - 
+    - https://news.ycombinator.com/item?id=19609613
+- [Mathematics for Computer Science (pdf)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+ - https://news.ycombinator.com/item?id=13800320
+
+
+
 ## SICP
 
 + [SICP in Python 3 from Berkeley](http://composingprograms.com/)
