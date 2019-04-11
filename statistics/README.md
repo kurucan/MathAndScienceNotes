@@ -23,6 +23,7 @@
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html)
 
 ## Courses
+
 - [Harvard Stats 110](https://projects.iq.harvard.edu/stat110/home) | [YouTube](https://projects.iq.harvard.edu/stat110/youtube) | [Max Wang Class Notes](http://www.mxawng.com/stuff/notes/stat110.pdf) | [William Chen Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
   - [Top 10 Ideas from Class](https://www.quora.com/What-are-the-top-10-big-ideas-in-Statistics-110-Introduction-to-Probability-at-Harvard)
 - [MIT 18.440](https://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/)
@@ -37,24 +38,30 @@
 
 
 ## Online Books
+
 - [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
 - [Probability and Stochastic Processes with Applications - Oliver Knill](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf)
 
 ## Blogs
+
 - https://blog.statsbot.co
 - https://jontysinai.github.io/jekyll/update/2017/11/23/probability-for-everyone.html
 - https://jontysinai.github.io/jekyll/update/2018/12/23/probability-part-two-conditional-probability.html
 
 ## Bayes
+
 - http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html
   - https://news.ycombinator.com/item?id=15732926
 
 ## Markov Chains
+
+- https://news.ycombinator.com/item?id=19633212
 - [Introduction to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
 - [The Markov Property, Chain, Reward Process and Decision Process](https://xaviergeerinck.com/markov-property-chain-reward-decision)
     - https://news.ycombinator.com/item?id=17112302
 
 ## Kalman Filters
+
 - [How a Kalman filter works, in pictures ](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 `   - https://news.ycombinator.com/item?id=17116149
     - https://news.ycombinator.com/item?id=10042050
