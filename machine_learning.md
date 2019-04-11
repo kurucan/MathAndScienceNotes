@@ -4,6 +4,8 @@
 
 ## Inbox
 
+- [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
+    - https://news.ycombinator.com/item?id=19632052
 - https://news.ycombinator.com/item?id=19499515
 - [Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
     - https://news.ycombinator.com/item?id=19498356
