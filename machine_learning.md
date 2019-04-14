@@ -4,6 +4,8 @@
 
 ## Inbox
 
+- [What is a Manifold](https://bastian.rieck.me/blog/posts/2019/manifold)
+    - https://news.ycombinator.com/item?id=19658558
 - [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
     - https://news.ycombinator.com/item?id=19632052
 - https://news.ycombinator.com/item?id=19499515
