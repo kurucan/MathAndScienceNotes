@@ -99,10 +99,9 @@
 
 ##  Software Development
 
-- http://www.knowstack.com/design-pattern-an-introduction
-- http://www.playwithlua.com/?p=68
-- http://www.vnev.me/implementing-a-programming-language-in-c-part-2 
-  - https://news.ycombinator.com/item?id=9688258
+- [Design Pattern – An Introduction](http://www.knowstack.com/design-pattern-an-introduction)
+- [Making a toy programming language in Lua, part 2](http://www.playwithlua.com/?p=68)
+
 
 ## Text Editors
 
