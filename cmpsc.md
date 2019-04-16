@@ -21,7 +21,7 @@
 - http://news.ycombinator.com/item?id=9940126 - Spreadsheets
 - [Rubik's Cube Solution](http://news.ycombinator.com/item?id=9850914)
 - [Thoughts on Time Series Databases](http://news.ycombinator.com/item?id=9805742)
-- [Making reliable distributed systems in the presence of sofware errors]](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
+- [Making reliable distributed systems in the presence of sofware errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 - http://optics.byu.edu/textbook.aspx
 - http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development
 - http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php 
@@ -168,10 +168,12 @@
 
 ## Bayes Theorem
 
-- http://news.ycombinator.com/item?id=9780677
-- http://news.ycombinator.com/item?id=9980716
+- [Bayes’ Theorem: What is it and what is it good for?](http://crucialconsiderations.org/rationality/bayes-theorem/)
+   - http://news.ycombinator.com/item?id=9780677
+- [A Tutorial on Learning With Bayesian Networks](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-learning-with-bayesian-networks/)
+   - http://news.ycombinator.com/item?id=9980716
 - https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r
-- [Think Bayes[(http://www.greenteapress.com/thinkbayes/) - Creative Commons O'Reilly Book
+- [Think Bayes](http://www.greenteapress.com/thinkbayes/) - Creative Commons O'Reilly Book
 
 
 ## Gaming
