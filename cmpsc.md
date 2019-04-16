@@ -172,7 +172,7 @@
    - http://news.ycombinator.com/item?id=9780677
 - [A Tutorial on Learning With Bayesian Networks](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-learning-with-bayesian-networks/)
    - http://news.ycombinator.com/item?id=9980716
-- https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r
+- [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
 - [Think Bayes](http://www.greenteapress.com/thinkbayes/) - Creative Commons O'Reilly Book
 
 
