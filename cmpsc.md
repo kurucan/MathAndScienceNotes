@@ -42,7 +42,7 @@
 - http://news.ycombinator.com/item?id=8806475 - String Matching 
 - [Neat Algorithms: Paxos](http://news.ycombinator.com/item?id=8806835)
 - [Deep Learning Reading List](http://news.ycombinator.com/item?id=8813484)
-- http://www.youtube.com/watch?v=CTSNBaOkjOQ
+- [Code for Game Developers - Big O Notation - Video](http://www.youtube.com/watch?v=CTSNBaOkjOQ)
 - http://techeffigytutorials.blogspot.com/2015/01/markov-chains-explained.html
 - [Out of the Tarpit](http://raw.githubusercontent.com/papers-we-love/papers-we-love/master/design/out-of-the-tar-pit.pdf)
 - http://news.ycombinator.com/item?id=8835085 - The Game AI Programmer's Bookshelf
@@ -77,10 +77,10 @@
 ## SICP
 
 - [SICP in Python 3 from Berkeley](http://composingprograms.com/)
- - https://news.ycombinator.com/item?id=11465234
- - https://news.ycombinator.com/item?id=3491142
- - https://news.ycombinator.com/item?id=3141996
- - https://mitpress.mit.edu/sicp/
+   - https://news.ycombinator.com/item?id=11465234
+   - https://news.ycombinator.com/item?id=3491142
+   - https://news.ycombinator.com/item?id=3141996
+   - https://mitpress.mit.edu/sicp/
 - [Structure and Interpretation of Computer Programs]](http://sarabander.github.io/sicp/html/index.xhtml)
 - [CS 61AS - Spring 2016](http://www.cs61as.org)
 
