@@ -70,7 +70,7 @@
 - [Mathematics and Computation](https://www.math.ias.edu/files/Website03-25-19.pdf)
     - https://news.ycombinator.com/item?id=19609613
 - [Mathematics for Computer Science (pdf)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
- - https://news.ycombinator.com/item?id=13800320
+    - https://news.ycombinator.com/item?id=13800320
 
 
 
