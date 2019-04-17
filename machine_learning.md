@@ -4,6 +4,8 @@
 
 ## Inbox
 
+- [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+    - https://news.ycombinator.com/item?id=19672039
 - [What is a Manifold](https://bastian.rieck.me/blog/posts/2019/manifold)
     - https://news.ycombinator.com/item?id=19658558
 - [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
