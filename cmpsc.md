@@ -6,6 +6,7 @@
 
 ## Inbox
 
+- [Dynamic programming for fun and profit](https://reindeereffect.github.io/2018/03/08/options-valuation/)
 - [A graphical introduction to dynamic programming](https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html)
 - https://news.ycombinator.com/item?id=15409757 B-trees
 - [A Short History of the BTree](https://www.perforce.com/blog/110928/short-history-btree)
