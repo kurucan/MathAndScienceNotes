@@ -33,6 +33,9 @@
     - https://news.ycombinator.com/item?id=11848663
 
 ## Linear Algebra
+
++ [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
+    + https://news.ycombinator.com/item?id=19730799
 + https://dhruvp.netlify.com/2018/12/31/matrices/
 + [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 + [An Intuitive Derivation of Eigenvectors](https://dhruvp.netlify.com/2019/02/25/eigenvectors/)
