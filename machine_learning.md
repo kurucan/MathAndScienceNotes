@@ -4,6 +4,7 @@
 
 ## Inbox
 
+- [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
     - https://news.ycombinator.com/item?id=19708620
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
