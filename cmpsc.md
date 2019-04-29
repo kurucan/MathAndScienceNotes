@@ -6,6 +6,8 @@
 
 ## Inbox
 
+- [Stanford CS166 Data Structures](http://web.stanford.edu/class/cs166/)
+    - https://news.ycombinator.com/item?id=19780387
 - [Dynamic programming for fun and profit](https://reindeereffect.github.io/2018/03/08/options-valuation/)
 - [A graphical introduction to dynamic programming](https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html)
 - https://news.ycombinator.com/item?id=15409757 B-trees
