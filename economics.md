@@ -4,6 +4,11 @@
 
 - https://en.m.wikipedia.org/wiki/Total_factor_productivity
 
+## Topics
+
+- [Trimmed Mean PCE Inflation Rate](https://www.dallasfed.org/research/pce.aspx)
+
+
 ## Books
 
 - https://www.goodreads.com/book/show/20613671-economics
