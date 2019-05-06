@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
+    - https://news.ycombinator.com/item?id=19835962
 - [Some intuition behind random walks](https://github.com/joseprupi/randomwalk)
 - https://99percentinvisible.org/episode/on-average/
     - You can design for the average and not fit anyone.
