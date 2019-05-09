@@ -15,8 +15,6 @@
 - [Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
     - https://news.ycombinator.com/item?id=19498356
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-- https://github.com/eriklindernoren/ML-From-Scratch
-  - https://news.ycombinator.com/item?id=13732288
 - http://bugra.github.io/work/notes/2014-08-23/on-machine-learning/
 - [Machine Learning - HN](https://news.ycombinator.com/item?id=10782909)
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org)
@@ -29,6 +27,8 @@
 - [Build a Neural Network](https://enlight.nyc/projects/neural-network)
     - https://news.ycombinator.com/item?id=19870146
 - [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
+- https://github.com/eriklindernoren/ML-From-Scratch
+  - https://news.ycombinator.com/item?id=13732288
 
 ## Decision Trees
 
