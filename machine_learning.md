@@ -11,8 +11,6 @@
     - https://news.ycombinator.com/item?id=19672039
 - [What is a Manifold](https://bastian.rieck.me/blog/posts/2019/manifold)
     - https://news.ycombinator.com/item?id=19658558
-- [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
-    - https://news.ycombinator.com/item?id=19632052
 - https://news.ycombinator.com/item?id=19499515
 - [Illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/)
     - https://news.ycombinator.com/item?id=19498356
@@ -25,7 +23,22 @@
   - https://news.ycombinator.com/item?id=11446164
 - http://datanice.github.io/machine-learning-101-what-is-regularization-interactive.html
   - https://news.ycombinator.com/item?id=11906844
+  
+## Build from Scratch
+
+- [Build a Neural Network](https://enlight.nyc/projects/neural-network)
+    - https://news.ycombinator.com/item?id=19870146
+- [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
+
+## Decision Trees
+
 - [ML from Scratch - Part 4: Decision Trees](http://www.oranlooney.com/post/ml-from-scratch-part-4-decision-tree/)
+
+## Random Forests
+
+- [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
+    - https://news.ycombinator.com/item?id=19632052
+
 
 ## Back Propogation
  
@@ -34,5 +47,6 @@
     - https://news.ycombinator.com/item?id=19424813
 
 ## Gradient Descent
+
 - [It’s Only Natural: An Excessively Deep Dive Into Natural Gradient Optimization](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb)
 - [Natural Gradient Descent](https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/)
