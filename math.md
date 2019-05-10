@@ -36,53 +36,55 @@
 
 ## Linear Algebra
 
-+ [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
-    + https://news.ycombinator.com/item?id=19730799
-+ https://dhruvp.netlify.com/2018/12/31/matrices/
-+ [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-+ [An Intuitive Derivation of Eigenvectors](https://dhruvp.netlify.com/2019/02/25/eigenvectors/)
-+ [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
-+ [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
+    - https://news.ycombinator.com/item?id=19730799
+- https://dhruvp.netlify.com/2018/12/31/matrices/
+- [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [An Intuitive Derivation of Eigenvectors](https://dhruvp.netlify.com/2019/02/25/eigenvectors/)
+- [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+- [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
    - https://news.ycombinator.com/item?id=13051241
    - https://news.ycombinator.com/item?id=13620871
-+ http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work
+- http://jadagul.tumblr.com/post/145201618713/linear-programming-how-does-it-work
    - https://news.ycombinator.com/item?id=11820512
-+ http://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are
-+ [Linear Algebra: What Matrices are](http://news.ycombinator.com/item?id=10139554)
-+ [Interactive Linear Algebra](http://news.ycombinator.com/item?id=10183725)
+- http://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are
+- [Linear Algebra: What Matrices are](http://news.ycombinator.com/item?id=10139554)
+- [Interactive Linear Algebra](http://news.ycombinator.com/item?id=10183725)
 
 ## Bayes
 
-+ [How to become a Bayesian in eight easy steps](https://osf.io/preprints/psyarxiv/ph6sw) 
+- [How to become a Bayesian in eight easy steps](https://osf.io/preprints/psyarxiv/ph6sw) 
    - https://news.ycombinator.com/item?id=15031110
-+ http://news.ycombinator.com/item?id=10529681
-+ http://blog.rokkincat.com/machine-learning-bayes
-+ http://allendowney.blogspot.com/2016/03/ive-been-busy-with-other-projects-so-i.html
-+ https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics
-+ http://allendowney.blogspot.com/2016/05/learning-to-love-bayesian-statistics.html
+- http://news.ycombinator.com/item?id=10529681
+- http://blog.rokkincat.com/machine-learning-bayes
+- http://allendowney.blogspot.com/2016/03/ive-been-busy-with-other-projects-so-i.html
+- https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics
+- http://allendowney.blogspot.com/2016/05/learning-to-love-bayesian-statistics.html
 
 ## Markov Chains
 
-+ [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
+- [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
    - https://news.ycombinator.com/item?id=15986687
-+ [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
+- [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
    - https://news.ycombinator.com/item?id=11323122
-+ http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/lecture-notes/MIT16_410F10_lec20.pdf
+- http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/lecture-notes/MIT16_410F10_lec20.pdf
    - https://news.ycombinator.com/item?id=11908890
 
 ## Statistics
 
-+ http://r-statistics.co/Statistical-Tests-in-R.html
+- http://r-statistics.co/Statistical-Tests-in-R.html
    - https://news.ycombinator.com/item?id=10821045
-+ http://www.stat.cmu.edu/~larry/all-of-statistics/index.html
+- http://www.stat.cmu.edu/~larry/all-of-statistics/index.html
    - https://news.ycombinator.com/item?id=11701020
-+ http://students.brown.edu/seeing-theory/?vt=4
+- http://students.brown.edu/seeing-theory/?vt=4
   - https://news.ycombinator.com/item?id=13735714
 
 ## Calculus
 
-+ [Big Picture of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318)
+- [The Beauty of Calculus](https://frankeprogram.yale.edu/event/steven-strogatz-lecture-april-26-2019)
+   - https://news.ycombinator.com/item?id=19867401
+- [Big Picture of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318)
    - https://news.ycombinator.com/item?id=13634476
-+ [Calculus Made Easy (1914)](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
+- [Calculus Made Easy (1914)](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
    - https://news.ycombinator.com/item?id=14161876
  
