@@ -87,4 +87,5 @@
    - https://news.ycombinator.com/item?id=13634476
 - [Calculus Made Easy (1914)](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
    - https://news.ycombinator.com/item?id=14161876
- 
+   - [Gutenburg PDF](http://www.gutenberg.org/ebooks/33283)
+   - http://calculusmadeeasy.org/
