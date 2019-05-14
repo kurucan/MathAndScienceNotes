@@ -6,6 +6,7 @@
 
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course)
    - https://news.ycombinator.com/item?id=19886754
+- [Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
     - https://news.ycombinator.com/item?id=19708620
