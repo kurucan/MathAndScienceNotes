@@ -6,6 +6,8 @@
 
 ## Inbox
 
+- [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
+   - https://news.ycombinator.com/item?id=19897444
 - [Stanford CS166 Data Structures](http://web.stanford.edu/class/cs166/)
     - https://news.ycombinator.com/item?id=19780387
 - [Dynamic programming for fun and profit](https://reindeereffect.github.io/2018/03/08/options-valuation/)
