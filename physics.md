@@ -3,6 +3,8 @@
 
 
 ## Inbox
+
+- [Learn_Physics_in_2_Months](https://github.com/llSourcell/Learn_Physics_in_2_Months)
 - http://theoreticalminimum.com/courses
 - [The Feynman Lectures on Physics, Volume III](http://www.feynmanlectures.caltech.edu/III_toc.html)
 - https://news.ycombinator.com/item?id=11216668 HN - Best Way to Learn Physics?
