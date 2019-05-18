@@ -36,6 +36,7 @@
 
 ## Linear Algebra
 
+- [MIT 18.06 - Gilbert Strang Fall 2011](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 - [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
     - https://news.ycombinator.com/item?id=19730799
 - https://dhruvp.netlify.com/2018/12/31/matrices/
