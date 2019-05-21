@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Set Theory and Foundations of Mathematics](http://settheory.net/)
+   - https://news.ycombinator.com/item?id=19967982
 - [Self Studying the MIT Applied Math Curriculum](https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/)
     - https://news.ycombinator.com/item?id=19811715
 - [The 15 Most Famous Transcendental Numbers](http://sprott.physics.wisc.edu/Pickover/trans.html)
