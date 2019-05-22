@@ -30,6 +30,8 @@
   
 ## Build from Scratch
 
+- [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+   - https://news.ycombinator.com/item?id=19981736
 - [Build a Neural Network](https://enlight.nyc/projects/neural-network)
     - https://news.ycombinator.com/item?id=19870146
 - [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
