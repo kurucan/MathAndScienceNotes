@@ -116,20 +116,25 @@
 
 ## Algorithms
 
--  https://github.com/trekhleb/javascript-algorithms
--  http://visualgo.net
--  http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
--  http://news.ycombinator.com/item?id=10155498
--  http://schani.wordpress.com/2010/04/30/linear-vs-binary-search
--  http://news.ycombinator.com/item?id=9660185 - OpenCV
--  http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf
--  https://news.ycombinator.com/item?id=12669054
--  http://bigocheatsheet.com
--  https://news.ycombinator.com/item?id=9951329
+- [MIT 6.851: Advanced Data Structures (Fall'17)](https://courses.csail.mit.edu/6.851/fall17/)
+   - https://news.ycombinator.com
+- https://github.com/trekhleb/javascript-algorithms
+- http://visualgo.net
+- http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- [The Algorithmist](https://www.algorithmist.com/index.php/Main_Page)
+   - http://news.ycombinator.com/item?id=10155498
+- http://schani.wordpress.com/2010/04/30/linear-vs-binary-search
+- http://news.ycombinator.com/item?id=9660185 - OpenCV
+- http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf
+- [Ask HN: Any recomendations...](https://news.ycombinator.com/item?id=12669054)
+- http://bigocheatsheet.com
+- [The Linear Algebra Behind Google](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
+   - https://news.ycombinator.com/item?id=9951329
 -  Bloom filters - fast way to test for set membership with less memory
--  https://news.ycombinator.com/item?id=10294982
--  https://medium.com/@nickgerleman/the-bkd-tree-da19cf9493fb
--  https://www.programmingalgorithms.com/algorithm/day-of-week
+- [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
+   - https://news.ycombinator.com/item?id=10294982
+- https://medium.com/@nickgerleman/the-bkd-tree-da19cf9493fb
+- https://www.programmingalgorithms.com/algorithm/day-of-week
    - https://news.ycombinator.com/item?id=11358999
 - [The Rete Matching Algorithm]([http://www.drdobbs.com/architecture-and-design/the-rete-matching-algorithm/184405218)
     - https://news.ycombinator.com/item?id=11364718
@@ -148,8 +153,9 @@
 
 ## Search
 
-- https://news.ycombinator.com/item?id=10402177 
-- https://news.ycombinator.com/item?id=10403820
+- [Document Clustering with Python](http://brandonrose.org/clustering)
+   - https://news.ycombinator.com/item?id=10402177
+
 
 ## Sorting
 
@@ -157,7 +163,8 @@
 
 ## Mathematics
 
-- http://news.ycombinator.com/item?id=9927909
+- [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+   - http://news.ycombinator.com/item?id=9927909
 - [Guide to Writing Mathematics](http://news.ycombinator.com/item?id=9715149)
 - http://jeremykun.com/2015/06/08/methods-of-proof-diagonalization
 - http://news.ycombinator.com/item?id=8348769 - How Not to Lie with Statistics: Avoiding Common Mistakes (1986) [pdf]
