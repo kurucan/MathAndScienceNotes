@@ -55,6 +55,12 @@
 - [Linear Algebra: What Matrices are](http://news.ycombinator.com/item?id=10139554)
 - [Interactive Linear Algebra](http://news.ycombinator.com/item?id=10183725)
 
+### Linear Algebra Books
+
+- [Linear Algebra - Jim Hefferon - Free](http://joshua.smcvt.edu/linearalgebra/)
+- [Linear Algebra - UC Davis - Free](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+- [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
+
 ## Bayes
 
 - [How to become a Bayesian in eight easy steps](https://osf.io/preprints/psyarxiv/ph6sw) 
