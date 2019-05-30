@@ -29,6 +29,18 @@
 - http://www.math.uah.edu/stat
 - [Calculus Learning Guide](http://betterexplained.com/guides/calculus/)
    - https://news.ycombinator.com/item?id=11478368
+- [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+   - http://news.ycombinator.com/item?id=9927909
+- [Guide to Writing Mathematics](http://news.ycombinator.com/item?id=9715149)
+- http://jeremykun.com/2015/06/08/methods-of-proof-diagonalization
+- http://news.ycombinator.com/item?id=8348769 - How Not to Lie with Statistics: Avoiding Common Mistakes (1986) [pdf]
+- http://proofs.wiki/Main_Page
+- http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html
+- http://news.ycombinator.com/item?id=9040051 - An Introduction to the Central Limit Theorem
+- http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation
+- http://web.mit.edu/18.06/www/videos.shtml
+- http://classmill.com/jennathompson/introduction-to-algebra
+- http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures
 
 ## Books
 
