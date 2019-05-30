@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Mathematics Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
+   - https://news.ycombinator.com/item?id=20048205
 - [Set Theory and Foundations of Mathematics](http://settheory.net/)
    - https://news.ycombinator.com/item?id=19967982
 - [Self Studying the MIT Applied Math Curriculum](https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/)
