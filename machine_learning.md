@@ -37,6 +37,8 @@
 - [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 - https://github.com/eriklindernoren/ML-From-Scratch
   - https://news.ycombinator.com/item?id=13732288
+- [Live Coding Deep Learning Library - Joel Grus](https://github.com/joelgrus/joelnet)
+
 
 ## Decision Trees
 
