@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Foundations of Mathematics](http://www.mathetal.net/data/book1.pdf)
+   - https://news.ycombinator.com/item?id=20081573
 - [Discrete Mathematics and Functional Programming](https://cs.wheaton.edu/~tvandrun/dmfp/)
 - [Siraj Raval Links to Several Math Cheatsheets](https://github.com/llSourcell/Mathematics_for_Beginners/blob/master/README.md)
 - [Mathematics Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
