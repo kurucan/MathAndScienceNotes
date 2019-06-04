@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [Probability Theory Lectures by Aubrey Clayton](https://m.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
     - https://news.ycombinator.com/item?id=19835962
 - [Some intuition behind random walks](https://github.com/joseprupi/randomwalk)
