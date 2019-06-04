@@ -1,4 +1,4 @@
-# Statistics
+# Probability and Statistics
 
 ## Inbox
 
