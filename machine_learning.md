@@ -4,6 +4,8 @@
 
 ## Inbox
 
+- [MIT 6.S191](http://introtodeeplearning.com/)
+   - https://github.com/edwinksl/6.S191
 - [MIT 18.065 - Spring 2018: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
    - https://news.ycombinator.com/item?id=19933274
    - [YouTube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
