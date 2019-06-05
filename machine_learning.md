@@ -5,6 +5,7 @@
 ## Inbox
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+   - [Videos Winter 2019](http://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    - https://github.com/edwinksl/6.S191
 - [MIT 18.065 - Spring 2018: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
    - https://news.ycombinator.com/item?id=19933274
