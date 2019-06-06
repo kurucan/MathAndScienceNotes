@@ -6,6 +6,8 @@
 
 ## Inbox
 
+- [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
+   - https://news.ycombinator.com/item?id=20118292
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
    - https://news.ycombinator.com/item?id=19897444
 - [Stanford CS166 Data Structures](http://web.stanford.edu/class/cs166/)
