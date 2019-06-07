@@ -117,3 +117,6 @@
    - https://news.ycombinator.com/item?id=14161876
    - [Gutenburg PDF](http://www.gutenberg.org/ebooks/33283)
    - http://calculusmadeeasy.org/
+- [Herb Gross MIT Videos](https://www.youtube.com/playlist?list=PLW18-jILJ66t9KZvoPpN6bDQaP7Yg42Hh)
+- [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+- [MIT OCW Calculus List](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=calculus)
