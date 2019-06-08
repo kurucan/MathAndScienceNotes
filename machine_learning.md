@@ -4,6 +4,7 @@
 
 ## Inbox
 
+- [GANs World Resources](https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap)
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
    - [Videos Winter 2019](http://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    - [Videos Winter 2017](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
