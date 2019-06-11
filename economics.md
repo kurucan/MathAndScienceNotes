@@ -13,3 +13,5 @@
 
 - https://www.goodreads.com/book/show/20613671-economics
 - http://www.hup.harvard.edu/catalog.php?isbn=9780674016095&content=reviews
+- https://filmlifestyle.com/best-economics-books/
+  - https://news.ycombinator.com/item?id=20154382
