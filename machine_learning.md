@@ -8,7 +8,7 @@
 - [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
 - [GANs World Resources](https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap)
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
-   - [Videos Winter 2019](http://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+   - [Videos Winter 2019 - 2018 Videos 10-20 ](http://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
    - [Videos Winter 2017](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
    - https://github.com/edwinksl/6.S191
 - [MIT 18.065 - Spring 2018: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
