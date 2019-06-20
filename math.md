@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [MIT 18.085 Computational Science](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
 - [Foundations of Mathematics](http://www.mathetal.net/data/book1.pdf)
    - https://news.ycombinator.com/item?id=20081573
 - [Discrete Mathematics and Functional Programming](https://cs.wheaton.edu/~tvandrun/dmfp/)
