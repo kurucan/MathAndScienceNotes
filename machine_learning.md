@@ -47,6 +47,10 @@
   - https://news.ycombinator.com/item?id=13732288
 - [Live Coding Deep Learning Library - Joel Grus](https://github.com/joelgrus/joelnet)
 
+## GANS
+
+- [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
+
 
 ## Decision Trees
 
