@@ -47,6 +47,13 @@
   - https://news.ycombinator.com/item?id=13732288
 - [Live Coding Deep Learning Library - Joel Grus](https://github.com/joelgrus/joelnet)
 
+
+## Time Series
+
+- [ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python)
+  - https://news.ycombinator.com/item?id=20253622
+
+
 ## GANS
 
 - [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
