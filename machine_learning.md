@@ -4,7 +4,8 @@
 
 ## Inbox
 
-
+- [fast.ai: Deep Learning from the Foundations](https://www.fast.ai/2019/06/28/course-p2v3/)
+   - https://news.ycombinator.com/item?id=20312714
 - [Logistic Regression from Bayes' Theorem](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
 - [GANs World Resources](https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap)
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
