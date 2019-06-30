@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [Graphs and Geometry - Laszlo Lovasz](http://web.cs.elte.hu/~lovasz/bookxx/geomgraphbook/geombook2019.01.11.pdf)
 - [MIT 18.085 Computational Science](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
 - [Foundations of Mathematics](http://www.mathetal.net/data/book1.pdf)
    - https://news.ycombinator.com/item?id=20081573
