@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [Data Science. The Central Limit Theorem and sampling](https://luminousmen.com/post/data-science-central-limit-theorem)
 - [German Tank Problem](https://www.eadan.net/blog/german-tank-problem/)
    - https://news.ycombinator.com/item?id=20318184
 - [Probability Theory Lectures by Aubrey Clayton](https://m.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
