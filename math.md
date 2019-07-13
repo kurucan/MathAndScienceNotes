@@ -80,6 +80,7 @@
 - [Linear Algebra - Jim Hefferon - Free](http://joshua.smcvt.edu/linearalgebra/)
 - [Linear Algebra - UC Davis - Free](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
 - [Linear Algebra Done Wrong - Free](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
+- [Linear Algebra Done Right](https://www.lesswrong.com/posts/BgEfvxBHPfHdaQxLH/insights-from-linear-algebra-done-right)
 
 ## Bayes
 
