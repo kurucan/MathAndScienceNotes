@@ -112,6 +112,8 @@
 
 ## Calculus
 
+- [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
+   - https://news.ycombinator.com/item?id=20433533
 - [The Beauty of Calculus](https://frankeprogram.yale.edu/event/steven-strogatz-lecture-april-26-2019)
    - https://news.ycombinator.com/item?id=19867401
 - [Big Picture of Calculus](https://www.youtube.com/watch?v=UcWsDwg1XwM&index=2&list=PLBE9407EA64E2C318)
