@@ -87,6 +87,7 @@
 ## Multi Arm Bandit
 
 - https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html
+   - https://github.com/lilianweng/multi-armed-bandit
 - https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/
 - http://ai.berkeley.edu/slides/
 - https://youtu.be/qAvY2tkMHHA
