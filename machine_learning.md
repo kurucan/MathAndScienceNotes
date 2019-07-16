@@ -91,3 +91,5 @@
 - http://ai.berkeley.edu/slides/
 - https://youtu.be/qAvY2tkMHHA
 - https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c
+   - https://github.com/ankonzoid/LearningX/tree/master/classical_RL/MAB
+
