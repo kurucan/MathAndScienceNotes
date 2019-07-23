@@ -4,6 +4,8 @@
 
 ## Inbox
 
+- [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/)
+   - https://news.ycombinator.com/item?id=20504695
 - [Meta-learning neural Bloom filters](https://blog.acolyer.org/2019/07/19/meta-learning-neural-bloom-filters/)
 - http://www.datastuff.tech/machine-learning/why-do-neural-networks-need-an-activation-function/
 - [fast.ai: Deep Learning from the Foundations](https://www.fast.ai/2019/06/28/course-p2v3/)
