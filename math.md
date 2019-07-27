@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [Math Foundations: An Insight into Mathematics- 79 Videos](https://m.youtube.com/playlist?list=PL5A714C94D40392AB)
 - [Ask HN: Best way to relearn basic math?](https://news.ycombinator.com/item?id=20446796)
 - [Graphs and Geometry - Laszlo Lovasz](http://web.cs.elte.hu/~lovasz/bookxx/geomgraphbook/geombook2019.01.11.pdf)
 - [MIT 18.085 Computational Science](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
