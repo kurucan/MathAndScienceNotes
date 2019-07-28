@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/paper.pdf)
    - https://news.ycombinator.com/item?id=20542470
 - [Math Foundations: An Insight into Mathematics- 79 Videos](https://m.youtube.com/playlist?list=PL5A714C94D40392AB)
