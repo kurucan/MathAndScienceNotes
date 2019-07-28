@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [What is (Gaussian) curvature?](https://bastian.rieck.me/blog/posts/2019/curvature/)
+   - https://news.ycombinator.com/item?id=20546527
 - [A Mathematician's Apology](https://en.m.wikipedia.org/wiki/A_Mathematician's_Apology)
    - https://archive.org/details/hardy_annotated/page/n1
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
