@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [A Mathematician's Apology](https://en.m.wikipedia.org/wiki/A_Mathematician's_Apology)
+   - https://archive.org/details/hardy_annotated/page/n1
 - [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/paper.pdf)
    - https://news.ycombinator.com/item?id=20542470
