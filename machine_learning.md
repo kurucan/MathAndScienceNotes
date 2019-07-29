@@ -1,9 +1,9 @@
-
 # Machine Learning
 
 
 ## Inbox
 
+- [Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)
 - [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/)
    - https://news.ycombinator.com/item?id=20504695
 - [Meta-learning neural Bloom filters](https://blog.acolyer.org/2019/07/19/meta-learning-neural-bloom-filters/)
