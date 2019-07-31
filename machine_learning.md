@@ -3,6 +3,8 @@
 
 ## Inbox
 
+- http://www.cis.upenn.edu/~jean/math-basics.pdf
+   - https://news.ycombinator.com/item?id=20570025
 - [Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)
 - [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/)
    - https://news.ycombinator.com/item?id=20504695
