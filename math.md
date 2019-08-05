@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Curve Fitting](https://terpconnect.umd.edu/~toh/spectrum/CurveFitting.html)
+   - https://news.ycombinator.com/item?id=20609750
 - [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf)
    - https://news.ycombinator.com/item?id=20611270
 - [What is (Gaussian) curvature?](https://bastian.rieck.me/blog/posts/2019/curvature/)
