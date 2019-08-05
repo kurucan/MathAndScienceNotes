@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf)
+   - https://news.ycombinator.com/item?id=20611270
 - [What is (Gaussian) curvature?](https://bastian.rieck.me/blog/posts/2019/curvature/)
    - https://news.ycombinator.com/item?id=20546527
 - [A Mathematician's Apology](https://en.m.wikipedia.org/wiki/A_Mathematician's_Apology)
