@@ -89,9 +89,16 @@
 - [Natural Gradient Descent](https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/)
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 
-## Multi Arm Bandit
+## Reinforcement Learning
+
+- [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
+- https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+
+### Multi Arm Bandit
 
 - [Bayesian Bandits explained simply](https://towardsdatascience.com/bayesian-bandits-explained-simply-a5b43d9d5e38)
+- https://www.datahubbs.com/multi-armed-bandits-reinforcement-learning-2/
 - https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html
    - https://github.com/lilianweng/multi-armed-bandit
 - https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/
