@@ -92,7 +92,7 @@
 ## Reinforcement Learning
 
 - [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
-- https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+- [Python Implementation of Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 
 ### Multi Arm Bandit
