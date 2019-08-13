@@ -3,6 +3,7 @@
 
 ## Inbox
 
+- https://news.ycombinator.com/item?id=20674745
 - http://www.cis.upenn.edu/~jean/math-basics.pdf
    - https://news.ycombinator.com/item?id=20570025
 - [Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)
