@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- http://www.feynmanlectures.caltech.edu/I_22.html
+   - https://news.ycombinator.com/item?id=20672605
 - [Curve Fitting](https://terpconnect.umd.edu/~toh/spectrum/CurveFitting.html)
    - https://news.ycombinator.com/item?id=20609750
 - [Information Theory for Intelligent People](http://tuvalu.santafe.edu/~simon/it.pdf)
