@@ -3,6 +3,10 @@
 
 ## Inbox
 
+- [The Matrix Calculus You Need for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
+   - https://www.lesswrong.com/posts/9L9XuXhLYBm47yYkf/a-primer-on-matrix-calculus-part-1-basic-review
+   - https://www.lesswrong.com/posts/KKwv9kcQz29vqPLAD/a-primer-on-matrix-calculus-part-2-jacobians-and-other-fun
+   - https://www.lesswrong.com/posts/u4DWp72GyLsQn24oR/a-primer-on-matrix-calculus-part-3-the-chain-rule
 - https://news.ycombinator.com/item?id=20674745
 - http://www.cis.upenn.edu/~jean/math-basics.pdf
    - https://news.ycombinator.com/item?id=20570025
