@@ -16,5 +16,7 @@
   - https://news.ycombinator.com/item?id=11887147
 -  http://www.scientificamerican.com/article/multifractals-explain-wall-street/
    - https://news.ycombinator.com/item?id=417463
+- https://www.reddit.com/r/algotrading/comments/cr7jey/ive_reproduced_130_research_papers_about/
+   - https://news.ycombinator.com/item?id=20720095
 
 ## Present Value
