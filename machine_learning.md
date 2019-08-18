@@ -3,6 +3,8 @@
 
 ## Inbox
 
+- https://ngoldbaum.github.io/posts/python-vs-rust-nn/
+   - https://news.ycombinator.com/item?id=20728288
 - [The Matrix Calculus You Need for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
    - https://www.lesswrong.com/posts/9L9XuXhLYBm47yYkf/a-primer-on-matrix-calculus-part-1-basic-review
    - https://www.lesswrong.com/posts/KKwv9kcQz29vqPLAD/a-primer-on-matrix-calculus-part-2-jacobians-and-other-fun
