@@ -78,7 +78,9 @@
     - https://news.ycombinator.com/item?id=19609613
 - [Mathematics for Computer Science (pdf)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
     - https://news.ycombinator.com/item?id=13800320
-
+- [Algorithms - Jeff Erikson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+   - https://news.ycombinator.com/item?id=20733923
+   - https://news.ycombinator.com/item?id=18805624
 
 
 ## SICP
