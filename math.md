@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Calculus is Deeply Irrational](https://mathenchant.wordpress.com/2019/08/16/calculus-is-deeply-irrational/)
+   - https://news.ycombinator.com/item?id=20736277
 - http://www.feynmanlectures.caltech.edu/I_22.html
    - https://news.ycombinator.com/item?id=20672605
 - [Curve Fitting](https://terpconnect.umd.edu/~toh/spectrum/CurveFitting.html)
