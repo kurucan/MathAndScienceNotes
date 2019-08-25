@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
+Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
 - [Calculus is Deeply Irrational](https://mathenchant.wordpress.com/2019/08/16/calculus-is-deeply-irrational/)
    - https://news.ycombinator.com/item?id=20736277
 - http://www.feynmanlectures.caltech.edu/I_22.html
