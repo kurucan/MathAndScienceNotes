@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Gamedev Tutorial: Trigonometry Basics – Sine & Cosine](http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/)
+  - https://news.ycombinator.com/item?id=20799024
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
 Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
 - [Calculus is Deeply Irrational](https://mathenchant.wordpress.com/2019/08/16/calculus-is-deeply-irrational/)
