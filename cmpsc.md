@@ -6,6 +6,7 @@
 
 ## Inbox
 
+- [MIT 6.006 Fall 2011 Algorithms](https://news.ycombinator.com/item?id=20977731)
 - [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
    - https://news.ycombinator.com/item?id=20118292
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
