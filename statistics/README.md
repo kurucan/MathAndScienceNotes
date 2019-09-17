@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
+   - https://news.ycombinator.com/item?id=20977087
 - [Data Science. The Central Limit Theorem and sampling](https://luminousmen.com/post/data-science-central-limit-theorem)
 - [German Tank Problem](https://www.eadan.net/blog/german-tank-problem/)
    - https://news.ycombinator.com/item?id=20318184
