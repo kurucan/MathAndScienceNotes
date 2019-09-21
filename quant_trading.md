@@ -3,6 +3,8 @@
 
 
 ## Inbox
+
+- http://archive.nytimes.com/www.nytimes.com/interactive/2011/01/02/business/20110102-metrics-graphic.html
 - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
     - https://news.ycombinator.com/item?id=16196421
 - https://dailycodingproblem.com/blog/2018/01/02/find-an-arbitrage.html
