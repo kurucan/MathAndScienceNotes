@@ -4,6 +4,7 @@
 
 ## Inbox
 
+- [PhD LIVE](https://www.youtube.com/watch?v=2dKxR313yfw)
 - http://www.feynmanlectures.caltech.edu/II_19.html
    - https://news.ycombinator.com/item?id=20694173
 - [Learn_Physics_in_2_Months](https://github.com/llSourcell/Learn_Physics_in_2_Months)
