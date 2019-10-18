@@ -3,6 +3,8 @@
 
 ## Inbox
 
+- https://mml-book.github.io/
+   - https://news.ycombinator.com/item?id=21293132
 - https://ngoldbaum.github.io/posts/python-vs-rust-nn/
    - https://news.ycombinator.com/item?id=20728288
 - [The Matrix Calculus You Need for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
