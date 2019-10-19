@@ -3,6 +3,8 @@
 
 ## Inbox
 
+- http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/
+   - https://news.ycombinator.com/item?id=21298233
 - https://mml-book.github.io/
    - https://news.ycombinator.com/item?id=21293132
 - https://ngoldbaum.github.io/posts/python-vs-rust-nn/
