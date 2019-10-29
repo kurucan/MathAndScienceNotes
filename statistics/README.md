@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)
+   - https://news.ycombinator.com/item?id=21382470
 - Monty Hall Problem
    - https://news.ycombinator.com/item?id=21348476
 - [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
