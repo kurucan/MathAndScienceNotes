@@ -4,6 +4,7 @@
 
 ## Inbox
 
+- https://github.com/cantaro86/Financial-Models-Numerical-Methods
 - http://archive.nytimes.com/www.nytimes.com/interactive/2011/01/02/business/20110102-metrics-graphic.html
 - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
     - https://news.ycombinator.com/item?id=16196421
