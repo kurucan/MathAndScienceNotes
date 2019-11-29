@@ -2,7 +2,7 @@
 
 ## Inbox
 
--[The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
    - https://news.ycombinator.com/item?id=21661545
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Ask HN: Are There Books for Mathematics Like Feynman's Lectures on Physics?](https://news.ycombinator.com/item?id=21346272)
