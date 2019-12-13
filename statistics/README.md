@@ -65,6 +65,7 @@
 
 - http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html
   - https://news.ycombinator.com/item?id=15732926
+- https://gfrison.com/2019/statistical-puzzle-bayesian-conditioning
 
 ## Markov Chains
 
