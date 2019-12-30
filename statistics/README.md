@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)
    - https://news.ycombinator.com/item?id=21382470
 - Monty Hall Problem
