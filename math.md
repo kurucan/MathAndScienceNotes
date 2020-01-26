@@ -73,7 +73,7 @@ Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
 - http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation
 - http://web.mit.edu/18.06/www/videos.shtml
 - http://classmill.com/jennathompson/introduction-to-algebra
-- http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures
+- [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures)
 
 ## Books
 
