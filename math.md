@@ -137,6 +137,7 @@ Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
 
 ## Calculus
 
+- [Calculus - Gilbert Strang](https://www.freetechbooks.com/calculus-t1345.html)
 - [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
    - https://news.ycombinator.com/item?id=20433533
 - [The Beauty of Calculus](https://frankeprogram.yale.edu/event/steven-strogatz-lecture-april-26-2019)
