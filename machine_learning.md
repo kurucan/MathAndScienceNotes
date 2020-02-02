@@ -3,6 +3,7 @@
 
 ## Inbox
 
+- http://www.gameaipro.com/
 - [Understanding Machine Learning: From Theory to Algorithms - PDF](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 - http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/
    - https://news.ycombinator.com/item?id=21298233
