@@ -2,6 +2,7 @@
 
 ## Inbox
 
+- https://www.maths.cam.ac.uk/documents/reading-list.pdf/
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
    - https://news.ycombinator.com/item?id=21661545
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
