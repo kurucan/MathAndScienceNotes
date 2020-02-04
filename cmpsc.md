@@ -6,6 +6,8 @@
 
 ## Inbox
 
+- [Pathfinding Demystified (Part I): Generic Search Algorithm](https://gabrielgambetta.com/generic-search.html)
+   - https://news.ycombinator.com/item?id=22231597
 - [MIT 6.006 Fall 2011 Algorithms](https://news.ycombinator.com/item?id=20977731)
 - [Introduction to Genetic Algorithms](https://blog.floydhub.com/introduction-to-genetic-algorithms/)
    - https://news.ycombinator.com/item?id=20118292
