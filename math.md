@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Geometric Algebra - Video](https://youtu.be/tX4H_ctggYo)
+   - https://news.ycombinator.com/item?id=22282452
 - https://www.maths.cam.ac.uk/documents/reading-list.pdf/
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
    - https://news.ycombinator.com/item?id=21661545
