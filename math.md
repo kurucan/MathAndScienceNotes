@@ -2,6 +2,8 @@
 
 ## Inbox
 
+- [Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+   - https://news.ycombinator.com/item?id=22328516
 - [Geometric Algebra - Video](https://youtu.be/tX4H_ctggYo)
    - https://news.ycombinator.com/item?id=22282452
 - https://www.maths.cam.ac.uk/documents/reading-list.pdf/
