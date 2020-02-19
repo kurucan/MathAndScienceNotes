@@ -3,7 +3,7 @@
 
 ## Inbox
 
-- https://github.com/amzn/computer-vision-basics-in-microsoft-excel
+- [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
    - https://news.ycombinator.com/item?id=22357374
 - http://www.gameaipro.com/
 - [Understanding Machine Learning: From Theory to Algorithms - PDF](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
