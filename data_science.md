@@ -12,3 +12,4 @@
 ## Books
 
 - https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130/
+- https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/
