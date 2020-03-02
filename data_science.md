@@ -7,7 +7,7 @@
 - [Amazon’s Data Scientist Interview Practice Problems ](https://towardsdatascience.com/amazon-data-scientist-interview-practice-problems-15b9b86e86c6)
 - [Microsoft Data Science Interview Questions and Answers](https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b)
 - [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
-
+- [The Most Comprehensive Stats Cheat Sheet](https://medium.com/@terenceshin/week-2-52-stats-cheat-sheet-ae38a2e5cdc6)
 
 ## Books
 
