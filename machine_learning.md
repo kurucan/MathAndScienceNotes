@@ -100,6 +100,8 @@
 
 ## Gradient Descent
 
+- [More Descent, Less Gradient](https://koaning.io/posts/more-descent-less-gradient/)
+   - https://news.ycombinator.com/item?id=23004026
 - [It’s Only Natural: An Excessively Deep Dive Into Natural Gradient Optimization](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb)
 - [Natural Gradient Descent](https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/)
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
