@@ -82,7 +82,8 @@
 - https://www.svm-tutorial.com
 - http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf
    - https://news.ycombinator.com/item?id=23368246
-   
+   - https://news.ycombinator.com/item?id=18794545
+  
 ## GANS
 
 - [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
