@@ -74,8 +74,15 @@
 
 - [ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python)
   - https://news.ycombinator.com/item?id=20253622
+  - https://news.ycombinator.com/item?id=18794545
+  
+  
+## Support Vector Machines - SVM
 
-
+- https://www.svm-tutorial.com
+- http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf
+   - https://news.ycombinator.com/item?id=23368246
+   
 ## GANS
 
 - [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
