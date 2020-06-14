@@ -59,6 +59,7 @@
   
 ## Build from Scratch
 
+- [Neural networks from scratch in Scala](https://github.com/botkop/numsca/blob/master/notebooks/dl-from-scratch.ipynb)
 - [CNNs, Part 2](https://victorzhou.com/blog/intro-to-cnns-part-2/)
 - [CNNs, Part 1: An Introduction to Convolutional Neural Networks](https://victorzhou.com/blog/intro-to-cnns-part-1/)
    - https://news.ycombinator.com/item?id=19981736
