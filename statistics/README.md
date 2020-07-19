@@ -40,6 +40,7 @@
 - [Harvard Stats 110](https://projects.iq.harvard.edu/stat110/home) | [YouTube](https://projects.iq.harvard.edu/stat110/youtube) | [Max Wang Class Notes](http://www.mxawng.com/stuff/notes/stat110.pdf) | [William Chen Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
   - [Top 10 Ideas from Class](https://www.quora.com/What-are-the-top-10-big-ideas-in-Statistics-110-Introduction-to-Probability-at-Harvard)
 - [MIT 6.041/6.431 - Prof. John Tsitsiklis Fall 2010 with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+- [MIT 18.650 Statistics for Applications - Fall 2016](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
 - [MIT 18.440](https://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/)
 - [Notre Dame](https://youtu.be/YTBFSmExXRc)
 - [Stanford CS109](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
@@ -53,6 +54,7 @@
 
 ## Online Books
 
+- [All of Statistics by Larry Wasserman](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 - https://probabilitycourse.com/
 - [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
 - [Probability and Stochastic Processes with Applications - Oliver Knill](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf)
