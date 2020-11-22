@@ -71,6 +71,10 @@
   - https://news.ycombinator.com/item?id=15732926
 - https://gfrison.com/2019/statistical-puzzle-bayesian-conditioning
 
+## Maximum Likelihood Estimation - MLE
+
+- [Maximum Likelihood Estimationmin R](https://youtu.be/w3drLH-DFpE)
+
 ## Markov Chains
 
 - https://news.ycombinator.com/item?id=19633212
